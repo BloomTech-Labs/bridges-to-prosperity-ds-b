@@ -4,7 +4,7 @@ import json
 
 router = APIRouter()
 
-sites_ids = "https://raw.githubusercontent.com/Lambda-School-Labs/Labs25-Bridges_to_Prosperity-TeamB-ds/feature/final-data-output/data/edit/B2P_Rwanda_Sites%2BIDs_full_2020-09-16.csv"
+sites_ids = "https://raw.githubusercontent.com/Lambda-School-Labs/Labs25-Bridges_to_Prosperity-TeamB-ds/main/data/edit/B2P_Rwanda_Sites%2BIDs_full_2020-09-16.csv"
 sites_ids = pd.read_csv(sites_ids)
 
 
