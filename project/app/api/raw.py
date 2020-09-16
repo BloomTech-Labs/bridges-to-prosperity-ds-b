@@ -10,6 +10,6 @@ site_assessment = pd.read_csv(site_assessment)
 
 @router.get("/raw")
 async def raw():
-    output = site_assessment.to_json(orient="index")
+    output = site_assessment.to_json(orient="records")
     parsed = json.loads(output)
     return parsed
