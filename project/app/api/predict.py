@@ -14,20 +14,20 @@ class Item(BaseModel):
 
     x1: float = Field(..., example=3.14)
     x2: int = Field(..., example=-42)
-    x3: str = Field(..., example='banjo')
+    x3: str = Field(..., example="banjo")
 
     def to_df(self):
         """Convert pydantic object to pandas dataframe with 1 row."""
         return pd.DataFrame([dict(self)])
 
-    @validator('x1')
+    @validator("x1")
     def x1_must_be_positive(cls, value):
         """Validate that x1 is a positive number."""
-        assert value > 0, f'x1 == {value}, must be > 0'
+        assert value > 0, f"x1 == {value}, must be > 0"
         return value
 
 
-@router.post('/predict')
+@router.post("/predict")
 async def predict(item: Item):
     """
     Make random baseline predictions for classification problem 🔮
@@ -49,7 +49,4 @@ async def predict(item: Item):
     log.info(X_new)
     y_pred = random.choice([True, False])
     y_pred_proba = random.random() / 2 + 0.5
-    return {
-        'prediction': y_pred,
-        'probability': y_pred_proba
-    }
+    return {"prediction": y_pred, "probability": y_pred_proba}

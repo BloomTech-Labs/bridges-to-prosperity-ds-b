@@ -13,8 +13,3 @@ async def raw():
     output = site_assessment.to_json(orient="records")
     parsed = json.loads(output)
     return parsed
-
-
-    
-    
-
