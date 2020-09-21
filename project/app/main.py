@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
 
-from app.api import predict, viz, raw, sites, villages, final_data, final_data_extended
+from app.api import predict, viz, raw, sites, villages, final_data, final_data_extended, test
 
 app = FastAPI(
     title="Labs25-Bridges_to_Prosperity-TeamB-ds",
@@ -18,6 +18,8 @@ app.include_router(sites.router)
 app.include_router(villages.router)
 app.include_router(final_data.router)
 app.include_router(final_data_extended.router)
+app.include_router(test.router)
+
 
 app.add_middleware(
     CORSMiddleware,
