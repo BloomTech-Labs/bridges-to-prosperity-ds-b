@@ -1,47 +1,22 @@
 from fastapi import APIRouter
 import pandas as pd
 import json
+import csv
+import io
+import requests
 
 router = APIRouter()
 
-sites_ids = "https://raw.githubusercontent.com/Lambda-School-Labs/Labs25-Bridges_to_Prosperity-TeamB-ds/main/data/edit/B2P_Rwanda_Sites%2BIDs_full_2020-09-16.csv"
-sites_ids = pd.read_csv(sites_ids)
 
-
-# Renaming Column
-sites_ids = sites_ids.rename(
-    columns={
-        "Project Code": "project_code",
-        "Bridge Site Name": "name",
-        "Village_ID": "village_id",
-        "Village": "village",
-        "Cell_ID": "cell_id",
-        "Cell": "cell",
-        "Sector_ID": "sector_id",
-        "Sector": "sector",
-        "Dist_ID": "district_id",
-        "District": "district",
-        "Province": "province",
-        "Bridge Type": "type",
-        "Project Stage": "stage",
-        "Project Sub-Stage": "sub_stage",
-        "Individuals Directly Served": "Individuals_directly_served",
-        "Span (m)": "span",
-        "GPS (Latitude)": "lat",
-        "GPS (Longitude)": "long",
-        "Communities_Served": "communities_served",
-        "Form: Form Name": "form",
-        "CaseSafeID Form": "case_safe_id",
-        "Bridge Opportunity: Opportunity ID": "opportunity_id",
-        "Country": "country",
-    }
-)
-
-
-# Reordering 'sites_ids' to desired output format
-"""
-# Desired Output Format
-const bridgeSite = {
+# /final-data endpoint
+@router.get("/final-data")
+async def final_data():
+    # output = sites_ids.to_json(orient="records")
+    # parsed = json.loads(output)
+    # return parsed
+    '''
+    Desired Format
+{
   project_code: 1014107,
   district: "whatever",
   province: "province",
@@ -64,33 +39,49 @@ const bridgeSite = {
       "Kamweko",
   ],
 };
-"""
+    '''
 
-# Column order
-column_order = [
-    "project_code",
-    "province",
-    "district",
-    "sector",
-    "cell",
-    "village",
-    "village_id",
-    "name",
-    "type",
-    "stage",
-    "sub_stage",
-    "Individuals_directly_served",
-    "span",
-    "lat",
-    "long",
-    "communities_served",
-]
-
-sites_ids = sites_ids.reindex(columns=column_order)
-
-# /final-data endpoint
-@router.get("/final-data")
-async def final_data():
-    output = sites_ids.to_json(orient="records")
-    parsed = json.loads(output)
-    return parsed
+    # Loading data from URL
+    request = requests.get(
+        'https://raw.githubusercontent.com/Lambda-School-Labs/Labs25-Bridges_to_Prosperity-TeamB-ds/feature/edit-final-output/data/edit/B2P_Rwanda_Sites%2BIDs_full_2020-09-21.csv')
+    buff = io.StringIO(request.text)
+    directread = csv.DictReader(buff)
+    
+    output = {}
+    
+    
+    # Loop over rows and return according to desired format
+    for row in directread:
+        
+        # splitting "communities_served" into list of strings with every iteration
+        if len(row['communities_served']) == 0:
+            communities_served = "NO COMMUNITIES SERVED"
+        else:
+            communities_served = list(row['communities_served'].split(", "))
+        
+        
+        # Set key for dictionary
+        key = row['project_code']
+        
+        # Set output format
+        output[key] = {
+            "project_code": row['project_code'],
+            "province": row['province'],
+            "district": row['district'],
+            "sector": row['sector'],
+            "cell": row['cell'],
+            "village": row['village'],
+            "village_id": row['village_id'],
+            "name": row['name'],
+            "type": row['type'],
+            "stage": row['stage'],
+            "sub_stage": row['sub_stage'],
+            "Individuals_directly_served": int(row['Individuals_directly_served']),
+            "span": int(row['span']),
+            "lat": float(row['lat']),
+            "long": float(row['long']),
+            "communities_served": communities_served
+        }
+        
+    # Return output
+    return output 
