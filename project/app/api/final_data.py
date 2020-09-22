@@ -43,7 +43,7 @@ async def final_data():
 
     # Loading data from URL
     request = requests.get(
-        "https://raw.githubusercontent.com/Lambda-School-Labs/Labs25-Bridges_to_Prosperity-TeamB-ds/main/data/edit/B2P_Rwanda_Sites%2BIDs_full_2020-09-21.csv"
+        "https://raw.githubusercontent.com/Lambda-School-Labs/Labs25-Bridges_to_Prosperity-TeamB-ds/feature/edit-final-output/data/edit/B2P_Rwanda_Sites%2BIDs_full_2020-09-21.csv"
     )
     buff = io.StringIO(request.text)
     directread = csv.DictReader(buff)
@@ -56,7 +56,7 @@ async def final_data():
         # splitting "communities_served" into list of strings with every
         # iteration
         if len(row["communities_served"]) == 0:
-            communities_served = list("unavailable")
+            communities_served = ["unavailable"]
         else:
             communities_served = list(row["communities_served"].split(", "))
 
