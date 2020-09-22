@@ -56,7 +56,7 @@ async def final_data():
         # splitting "communities_served" into list of strings with every
         # iteration
         if len(row["communities_served"]) == 0:
-            communities_served = "NO COMMUNITIES SERVED"
+            communities_served = list("unavailable")
         else:
             communities_served = list(row["communities_served"].split(", "))
 
