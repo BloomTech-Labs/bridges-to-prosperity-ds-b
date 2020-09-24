@@ -50,5 +50,5 @@ async def predict(item: Item):
     log.info(X_new)
     y_pred = random.choice([True, False])
     y_pred_proba = random.random() / 2 + 0.5
-    # return {"prediction": y_pred, "probability": y_pred_proba}
-    return test
+    return {"prediction": y_pred, "probability": y_pred_proba}
+
