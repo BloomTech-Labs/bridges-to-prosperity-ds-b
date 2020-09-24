@@ -39,8 +39,8 @@
 1️⃣ [Web Frontend](https://github.com/Lambda-School-Labs/Labs25-Bridges_to_Prosperity-TeamB-fe)
 
 
-[<img src=".data/image/btp.png" width = "600" />](https://b.bridgestoprosperity.dev/)
-data/image
+[<img src="data/image/btp.png" width = "600" />](https://b.bridgestoprosperity.dev/)
+
 
 ## Data Sets
 
@@ -92,7 +92,9 @@ docker-compose up
 
 Go to `localhost:8000` in your browser.
 
-![image](XXX/fastapi_local.JPG)
+
+
+[<img src="data/image/fastapi_local.JPG" width = "600" />]
 
 There you'll see the API documentation as well as several distinct endpoints:
 
