@@ -1,21 +1,13 @@
-# # Bridges To Prosperity 
+# Bridges To Prosperity 
 
-- [Labs DS starter](#labs-ds-starter)
-  - [Big picture](#big-picture)
-  - [Tech stack](#tech-stack)
-  - [Getting started](#getting-started)
-  - [File structure](#file-structure)
-  - [Deploy to AWS](#deploy-to-aws)
-  - [Example: Data visualization](#example-data-visualization)
-      - [Plotly Python docs](#plotly-python-docs)
-      - [Plotly JavaScript docs](#plotly-javascript-docs)
-  - [Example: Machine learning](#example-machine-learning)
 
-# 1️⃣ Bridge of Prosperity Data Science API
+
+## 1️⃣ Bridge of Prosperity Data Science API
 
  You can find the deployed project frontend at https://b.bridgestoprosperity.dev/
 
  You can find the deployed data science API at http://bridges-to-presperity-08272020.eba-3nqy3zpc.us-east-1.elasticbeanstalk.com/
+
 
 
 ## 4️⃣ Contributors
@@ -27,7 +19,7 @@
 |                   [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/alex-kaiser-ds/)                   | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/jake-krafczyk/) |                    [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/ping-ao-2376181b4/)                     |
 
 <br>
-<br>
+
 
 
 ## Project Overview
@@ -92,9 +84,12 @@ docker-compose up
 
 Go to `localhost:8000` in your browser.
 
+<br>
 
+<img src="data/image/fastapi_local.JPG" width = "600" />
 
-[<img src="data/image/fastapi_local.JPG" width = "600" />]
+<br>
+<br>
 
 There you'll see the API documentation as well as several distinct endpoints:
 
@@ -105,7 +100,7 @@ There you'll see the API documentation as well as several distinct endpoints:
 - An endpoint for POST requests, `/villages`: Endpoint returning clean village and ID data as provided by the Gov. of Rwanda.
 
 - An endpoint for POST requests, `/final-data`: Endpoint returning merged data following the agreed upon format.
-
+<br>
 
   ```py
   {
@@ -128,9 +123,10 @@ There you'll see the API documentation as well as several distinct endpoints:
   },...
   ```
 
+<br>
 
 - An endpoint for POST requests, `/final-data/extended`: Similar to the `/final-data` endpoint, but provides additional information on `district_id`, `sector_id`, `cell_id`, `form`, `case_safe_id`, `opportunity_id`, and `country`.
-
+<br>
 
   ```py
   {
@@ -197,6 +193,7 @@ Overall the file structure should be very intuitive and easy to follow.
                 ├── test_predict.py
                 └── test_viz.py
 ```
+
 ## Non-compiled Endpoints
 
 For the three non-compiled endpoints `/raw`, `/sites` and `/villages` we used `pandas` in order to load the respective datasets found in `data/raw` and converted them into JSON objects using the standard `json` library.  
@@ -331,12 +328,23 @@ To redeploy:
 - `eb open`
 
 
+## URLs to Deployed Endpoints
+
+- API test interface: http://bridges-to-presperity-08272020.eba-3nqy3zpc.us-east-1.elasticbeanstalk.com/
+
+<br>
+
+- Data output in desired format: http://bridges-to-presperity-08272020.eba-3nqy3zpc.us-east-1.elasticbeanstalk.com/final-data
+
+<br>
+
+- Data output with some extended information: http://bridges-to-presperity-08272020.eba-3nqy3zpc.us-east-1.elasticbeanstalk.com/final-data/extended
+
+
 
 ## Testing
 We used FastAPIs build in TestClient to test endpoints.
 
-API test interface: http://bridges-to-presperity-08272020.eba-3nqy3zpc.us-east-1.elasticbeanstalk.com/
-Data output in desired format: http://bridges-to-presperity-08272020.eba-3nqy3zpc.us-east-1.elasticbeanstalk.com/final-data
-Data output with some extended information: http://bridges-to-presperity-08272020.eba-3nqy3zpc.us-east-1.elasticbeanstalk.com/final-data/extended
+
 
 
