@@ -1,36 +1,65 @@
-# Labs DS starter
+# Bridges To Prosperity 
 
-- [Big picture](#big-picture)
-- [Tech stack](#tech-stack)
-- [Getting started](#getting-started)
-- [File structure](#file-structure)
-- [Deploy to AWS](#deploy-to-aws)
-- [Example: Data visualization](#example-data-visualization)
-- [Example: Machine learning](#example-machine-learning)
 
-## Big picture
 
-This template has starter code to deploy an API for your machine learning model and data visualizations.
+## 1️⃣ Bridge of Prosperity Data Science API
 
-You can see the [template deployed on AWS](https://ds.labsscaffolding.dev/) as-is.
+ You can find the deployed project frontend at https://b.bridgestoprosperity.dev/
 
-This diagram shows two different ways to use Python web frameworks. Both ways are good! The first way is what you learned in DS Unit 3, with Flask. The second way is more common in Build Weeks & Labs. 
+ You can find the deployed data science API at http://bridges-to-presperity-08272020.eba-3nqy3zpc.us-east-1.elasticbeanstalk.com/
 
-![](https://user-images.githubusercontent.com/7278219/87967396-5a6fed80-ca84-11ea-902a-890cfa6115d3.png)
 
-Instead of Flask, we'll use FastAPI. It's similar, but faster, with automatic interactive docs. For more comparison, see [FastAPI for Flask Users](https://amitness.com/2020/06/fastapi-vs-flask/).
 
-You'll build and deploy a Data Science API. You'll work cross-functionally with your Web teammates to connect your API to a full-stack web app!
+## 4️⃣ Contributors
 
-![](https://user-images.githubusercontent.com/7278219/87967579-a4f16a00-ca84-11ea-9f90-886b3cf1a25c.png)
+|                                                            [Alex Kaiser](https://github.com/Lord-Kanzler)                                                            |                                        [Jake Krafczyk](https://github.com/jakekrafczyk)                                         |                                                           [Ping Ao](https://github.com/pingao2019)                                                           |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://avatars3.githubusercontent.com/u/58044182?s=460&u=baf8db70368df93cddb96e410bdbc1830c85b3dd&v=4" width = "200" />](https://github.com/Lord-Kanzler) |   [<img src="https://avatars2.githubusercontent.com/u/44145969?s=460&u=c09d8493d9527b7eec2cf6204eebf6fe9ec8d624&v=4" width = "200" />](https://github.com/jakekrafczyk)   | [<img src="https://avatars2.githubusercontent.com/u/59781772?s=460&u=58622b69733324355f94076d74d6904fe6924a9c&v=4" width = "200" />](https://github.com/pingao2019) |
+|                                       [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/Lord-Kanzler)                                       |                   [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/jakekrafczyk)                    |                                       [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/pingao2019)                                       |
+|                   [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/alex-kaiser-ds/)                   | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/jake-krafczyk/) |                    [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/ping-ao-2376181b4/)                     |
+
+<br>
+
+
+
+## Project Overview
+
+1️⃣ [Trello Board](https://trello.com/b/x1iIzJdj/labs25bridgesjessica)
+
+1️⃣ [Web Backend](https://github.com/Lambda-School-Labs/Labs25-Bridges_to_Prosperity-TeamB-be)
+
+1️⃣ [Web Frontend](https://github.com/Lambda-School-Labs/Labs25-Bridges_to_Prosperity-TeamB-fe)
+
+
+[<img src="data/image/btp.png" width = "600" />](https://b.bridgestoprosperity.dev/)
+
+
+## Data Sets
+
+[Final Datasets in either CSV or XLSX](https://github.com/Lambda-School-Labs/Labs25-Bridges_to_Prosperity-TeamB-ds/tree/main/data/final)
+
+## Description
+
+Our API provides various merged and integrated Bridges-to-Prosperity bridge data endpoints, passing Rwandan bridge site data to the web backend/frontend application. The API is basted on the [FastAPI framework](https://fastapi.tiangolo.com/), and hosted via [AWS Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html).
+
+Detailed instructions on how to get started with FastAPI, Docker and AWS web deployment via Elastic Beanstalk can be found in this [ds starter readme](https://github.com/Lambda-School-Labs/Labs25-Bridges_to_Prosperity-TeamB-ds/blob/feature/ds_readme/README_ds_starter.md).
+
 
 ## Tech stack
+
 - [AWS Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html): Platform as a service, hosts your API.
 - [Docker](https://www.docker.com/blog/tag/python-env-series/): Containers, for reproducible environments.
 - [FastAPI](https://fastapi.tiangolo.com/): Web framework. Like Flask, but faster, with automatic interactive docs.
+- [Pandas](https://pandas.pydata.org/): Open source data analysis and manipulation tool.
 - [Flake8](https://flake8.pycqa.org/en/latest/): Linter, enforces PEP8 style guide.
+- [FuzzyWuzzy](https://pypi.org/project/fuzzywuzzy/): Fuzzy string matching like a boss.
 - [Plotly](https://plotly.com/python/): Visualization library, for Python & JavaScript.
 - [Pytest](https://docs.pytest.org/en/stable/): Testing framework, runs your unit tests.
+
+
+
+# API Endpoints
+
 
 ## Getting started
 
@@ -55,62 +84,192 @@ docker-compose up
 
 Go to `localhost:8000` in your browser.
 
-![image](https://user-images.githubusercontent.com/7278219/89348227-cef48000-d671-11ea-90b1-d02cd9af8fbc.png)
+<br>
 
-You'll see your API documentation:
+<img src="data/image/fastapi_local.JPG" width = "600" />
 
-- Your app's title
-- Your description
-- An endpoint for POST requests, `/predict`
-- An endpoint for GET requests, `/viz`
+<br>
+<br>
 
-Click the `/predict` endpoint's green button.
+There you'll see the API documentation as well as several distinct endpoints:
 
-![image](https://user-images.githubusercontent.com/7278219/89348390-1bd85680-d672-11ea-90f8-26b9e65cbe86.png)
+- An endpoint for POST requests, `/raw`: Initial endpoint returning raw site assessment data as provided by B2P for initial probing by web-backend.
+  
+- An endpoint for POST requests, `/sites`: Endpoint returning clean site assessment data.
 
-You'll see the endpoint's documentation, including:
+- An endpoint for POST requests, `/villages`: Endpoint returning clean village and ID data as provided by the Gov. of Rwanda.
 
-- Your function's docstring, """Make random baseline predictions for classification problem."""
-- Request body example, as [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) (like a Python dictionary)
-- A button, "Try it out"
+- An endpoint for POST requests, `/final-data`: Endpoint returning merged data following the agreed upon format.
+<br>
 
-Click the "Try it out" button.
+  ```py
+  {
+    "project_code": "1014328",
+    "province": "Southern Province",
+    "district": "Kamonyi",
+    "sector": "Gacurabwenge",
+    "cell": "Gihinga",
+    "village": "Kagarama",
+    "village_id": "28010101",
+    "name": "Kagarama",
+    "type": "Suspension",
+    "stage": "Rejected",
+    "sub_stage": "Technical",
+    "Individuals_directly_served": 0,
+    "span": 0,
+    "lat": -1.984548,
+    "long": 29.931428,
+    "communities_served": "['Kagarama', 'Ryabitana', 'Karama', 'Rugogwe', 'Karehe']"
+  },...
+  ```
 
-![image](https://user-images.githubusercontent.com/7278219/87966677-39f36380-ca83-11ea-97f4-313bc11d3f19.png)
+<br>
 
-The request body becomes editable. 
+- An endpoint for POST requests, `/final-data/extended`: Similar to the `/final-data` endpoint, but provides additional information on `district_id`, `sector_id`, `cell_id`, `form`, `case_safe_id`, `opportunity_id`, and `country`.
+<br>
 
-Click the "Execute" button. Then scroll down.
-
-![image](https://user-images.githubusercontent.com/7278219/87966896-948cbf80-ca83-11ea-9740-d0801148b1f3.png)
-
-You'll see the server response, including:
-
-- [Code 200](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/200), which means the request was successful.
-- The response body, as [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON), with random baseline predictions for a classification problem.
-
-***Your job is to replace these random predictions with real predictions from your model.*** Use this starter code and documentation to deploy your model as an API!
-
+  ```py
+  {
+    "project_code": "1014107",
+    "province": "Western Province",
+    "district": "Rusizi",
+    "district_id": 36,
+    "sector": "Giheke",
+    "sector_id": "3605",
+    "cell": "Gakomeye",
+    "cell_id": "360502",
+    "village": "Buzi",
+    "village_id": "36050201",
+    "name": "Buzi",
+    "type": "Suspended",
+    "stage": "Rejected",
+    "sub_stage": "Technical",
+    "Individuals_directly_served": 0,
+    "span": 0,
+    "lat": -2.42056,
+    "long": 28.9662,
+    "communities_served": "['Buzi', 'Kabuga', 'Kagarama', 'Gacyamo', 'Gasheke']",
+    "form": "Project Assessment - 2018.10.29",
+    "case_safe_id": "a1if1000002e51bAAA",
+    "opportunity_id": "006f100000d1fk1",
+    "country": "Rwanda"
+  },
+  ```
+  
 ## File structure
 
+Overall the file structure should be very intuitive and easy to follow.
+
+`data/` contains anything related to datasets or images.
+
+`notebooks/` is where any additional notebooks used for initial data exploration, data cleaning, and the extensive data merging procedures are stored. 
+
+`/project/requirements.txt` is where you add Python packages that your app requires. Then run `docker-compose build` to re-build your Docker image.
+
 ```
-project
-├── requirements.txt
-└── app
-    ├── __init__.py
-    ├── main.py
-    ├── api
-    │   ├── __init__.py
-    │   ├── predict.py
-    │   └── viz.py    
-    └── tests
-        ├── __init__.py
-        ├── test_main.py
-        ├── test_predict.py
-        └── test_viz.py
+├── data
+|    ├── edit
+|    ├── final
+|    ├── image
+|    └── raw
+|
+├── notebooks
+|
+├── project
+|    ├── requirements.txt
+     └── app
+          ├── __init__.py
+          ├── main.py
+          ├── api
+          │   ├── __init__.py
+          │   ├── raw.py
+          │   ├── sites.py
+          │   ├── villages.py
+          │   └── final_data_extended.py
+          │   └── final_data.py
+          └── tests
+                ├── __init__.py
+                ├── test_main.py
+                ├── test_predict.py
+                └── test_viz.py
 ```
 
-`requirements.txt` is where you add Python packages that your app requires. Then run `docker-compose build` to re-build your Docker image.
+## Non-compiled Endpoints
+
+For the three non-compiled endpoints `/raw`, `/sites` and `/villages` we used `pandas` in order to load the respective datasets found in `data/raw` and converted them into JSON objects using the standard `json` library.  
+An example for the simple endpoint setup is shown below.
+
+./project/app/api/villages.py
+```py
+# Imports
+from fastapi import APIRouter
+import pandas as pd
+import json
+
+router = APIRouter()
+
+names_codes = "https://raw.githubusercontent.com/Lambda-School-Labs/Labs25-Bridges_to_Prosperity-TeamB-ds/main/data/edit/Rwanda_Administrative_Levels_and_Codes_Province_through_Village_clean_2020-08-25.csv"
+names_codes = pd.read_csv(names_codes)
+
+# /villages endpoint
+@router.get("/villages")
+async def villages():
+    output = names_codes.to_json(orient="records")
+    parsed = json.loads(output)
+    return parsed
+```
+
+## Merged dataset Endpoints
+
+The two deployed production endpoints `/final-data` and `/final-data/extended` follow a slightly different approach as the returned JSON object data required a specific structure in order to be integrated with the web-backend application.
+
+the CSV dataset was loaded with the `request` library:
+```py
+request = requests.get(
+        "https://raw.githubusercontent.com/Lambda-School-Labs/Labs25-Bridges_to_Prosperity-TeamB-ds/main/data/edit/B2P_Rwanda_Sites%2BIDs_full_2020-09-21.csv"
+    )
+    buff = io.StringIO(request.text)
+    directread = csv.DictReader(buff)
+```
+
+And data objects/dictionaries were assembled by looping over `directread`
+
+```py
+    # Loop over rows and return according to desired format
+    for row in directread:
+
+        # splitting "communities_served" into list of strings with every
+        # iteration
+        if len(row["communities_served"]) == 0:
+            communities_served = ["unavailable"]
+        else:
+            communities_served = list(row["communities_served"].split(", "))
+
+        # Set key for dictionary
+        key = row["project_code"]
+
+        # Set output format
+        output[key] = {
+            "project_code": row["project_code"],
+            "province": row["province"],
+            "district": row["district"],
+            "sector": row["sector"],
+            "cell": row["cell"],
+            "village": row["village"],
+            "village_id": row["village_id"],
+            "name": row["name"],
+            "type": row["type"],
+            "stage": row["stage"],
+            "sub_stage": row["sub_stage"],
+            "Individuals_directly_served": int(row["Individuals_directly_served"]),
+            "span": int(row["span"]),
+            "lat": float(row["lat"]),
+            "long": float(row["long"]),
+            "communities_served": communities_served,
+        }
+```
+
+## Additional files
 
 `app/main.py` is where you edit your app's title and description, which are displayed at the top of the your automatically generated documentation. This file also configures "Cross-Origin Resource Sharing", which you shouldn't need to edit. 
 
@@ -131,40 +290,12 @@ When your API receives a POST request, FastAPI automatically parses and validate
 - [calmcode.io video - FastAPI - Type Validation](https://calmcode.io/fastapi/type-validation.html)
 - [pydantic docs - Validators](https://pydantic-docs.helpmanual.io/usage/validators/)
 
-`app/api/viz.py` defines the **Visualization** endpoint. Create your own Plotly visualizations in notebooks. Then add your code to this source code file. Your web teammates can use [react-plotly.js](https://github.com/Lambda-School-Labs/labs-spa-starter/tree/main/src/components/pages/ExampleDataViz) to show the visualizations.
 
-![react-plotly.js animation](https://media.giphy.com/media/j3QG8qVBQcpKvCfO3T/giphy.gif)
+# Deployment to AWS
 
-- [Lambda School docs - Data visualization with React & Plotly](https://github.com/Lambda-School-Labs/labs-spa-starter/tree/main/src/components/pages/ExampleDataViz). This is the code for the example above. Your web teammates can reuse this as-is.
-- [Plotly docs](https://plotly.com/python/)
+Web deployment of the API was done analogously to the procedure described in the [ds starter readme](https://github.com/Lambda-School-Labs/Labs25-Bridges_to_Prosperity-TeamB-ds/blob/feature/ds_readme/README_ds_starter.md).
 
-
-`app/tests/test_*.py` is where you edit your pytest unit tests. 
-
-- [FastAPI docs - Testing](https://fastapi.tiangolo.com/tutorial/testing/)
-- [calmcode.io videos - FastAPI - Testing](https://calmcode.io/fastapi/testing-one.html)
-- [calmcode.io videos - pytest](https://calmcode.io/pytest/introduction.html)
-
-## Deploy to AWS
-
-[Get your AWS access keys](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html#Using_CreateAccessKey).
-
-Install [AWS Command Line Interface](https://aws.amazon.com/cli/).
-
-[Configure AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html#cli-configure-quickstart-config):
-```
-aws configure
-```
-
-Install AWS Elastic Beanstalk CLI:
-```
-pip install pipx
-pipx install awsebcli
-```
-
-Follow [AWS EB docs](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/single-container-docker.html#single-container-docker.test-remote):
-
-Use Docker to build the image locally, test it locally, then push it to Docker Hub.
+We used Docker to build the image locally, test it, then pushed it to Docker Hub.
 
 ```
 docker build -f project/Dockerfile -t YOUR-DOCKER-HUB-ID/YOUR-IMAGE-NAME ./project
@@ -174,9 +305,8 @@ docker login
 docker push YOUR-DOCKER-HUB-ID/YOUR-IMAGE-NAME
 ```
 
-Edit the image name in the  `Dockerrun.aws.json` file. Replace the placeholder `YOUR-DOCKER-HUB-ID/YOUR-IMAGE-NAME` with your real values. 
 
-Then use the EB CLI:
+Then we used the EB CLI:
 ```
 git add --all
 
@@ -197,171 +327,24 @@ To redeploy:
 - `eb deploy`
 - `eb open`
 
-## Example: Data visualization
 
-Labs projects will use [Plotly](https://plotly.com/python/), a popular visualization library for both Python & JavaScript.
+## URLs to Deployed Endpoints
 
-Follow the [getting started](#getting-started) instructions.
+- API test interface: http://bridges-to-presperity-08272020.eba-3nqy3zpc.us-east-1.elasticbeanstalk.com/
 
-Edit `app/main.py` to add your API `title` and `description`.
+<br>
 
-```python
-app = FastAPI(
-    title='World Metrics DS API',
-    description='Visualize world metrics from Gapminder data',
-    version='0.1',
-    docs_url='/',
-)
-```
+- Data output in desired format: http://bridges-to-presperity-08272020.eba-3nqy3zpc.us-east-1.elasticbeanstalk.com/final-data
 
-Prototype your visualization in a notebook.
+<br>
 
-```python
-import plotly.express as px
-
-dataframe = px.data.gapminder().rename(columns={
-    'year': 'Year', 
-    'lifeExp': 'Life Expectancy', 
-    'pop': 'Population', 
-    'gdpPercap': 'GDP Per Capita'
-})
-
-country = 'United States'
-metric = 'Population'
-subset = dataframe[dataframe.country == country]
-fig = px.line(subset, x='Year', y=metric, title=f'{metric} in {country}')
-fig.show()
-```
-
-Define a function for your visualization. End with `return fig.to_json()`
-
-Then edit `app/api/viz.py` to add your code.
-
-```python
-import plotly.express as px
-
-dataframe = px.data.gapminder().rename(columns={
-    'year': 'Year', 
-    'lifeExp': 'Life Expectancy', 
-    'pop': 'Population', 
-    'gdpPercap': 'GDP Per Capita'
-})
-
-@app.get('/worldviz')
-async def worldviz(metric, country):
-    """
-    Visualize world metrics from Gapminder data
-
-    ### Query Parameters
-    - `metric`: 'Life Expectancy', 'Population', or 'GDP Per Capita'
-    - `country`: [country name](https://www.gapminder.org/data/geo/), case sensitive
-
-    ### Response
-    JSON string to render with react-plotly.js
-    """
-    subset = dataframe[dataframe.country == country]
-    fig = px.line(subset, x='Year', y=metric, title=f'{metric} in {country}')
-    return fig.to_json()
-```
-
-Test locally, then [deploy to AWS](#deploy-to-aws). 
-
-Your web teammates will re-use the [data viz code & docs in our `labs-spa-starter` repo](https://github.com/Lambda-School-Labs/labs-spa-starter/tree/main/src/components/pages/ExampleDataViz). The web app will call the DS API to get the data, then use `react-plotly.js` to render the visualization. 
-
-#### Plotly Python docs
-- [Example gallery](https://plotly.com/python/)
-- [Setting Graph Size](https://plotly.com/python/setting-graph-size/)
-- [Styling Plotly Express Figures](https://plotly.com/python/styling-plotly-express/)
-- [Text and font styling](https://plotly.com/python/v3/font/)
-- [Theming and templates](https://plotly.com/python/templates/)
-
-#### Plotly JavaScript docs
-- [Lambda `labs-spa-starter` data viz code & docs](https://github.com/Lambda-School-Labs/labs-spa-starter/tree/main/src/components/pages/ExampleDataViz)
-- [Example gallery](https://plotly.com/javascript/)
-- [Fundamentals](https://plotly.com/javascript/plotly-fundamentals/)
-- [react-plotly.js](https://plotly.com/javascript/react/)
+- Data output with some extended information: http://bridges-to-presperity-08272020.eba-3nqy3zpc.us-east-1.elasticbeanstalk.com/final-data/extended
 
 
-## Example: Machine learning
 
-Follow the [getting started](#getting-started) instructions.
+## Testing
+We used FastAPIs build in TestClient to test endpoints.
 
-Edit `app/main.py` to add your API `title` and `description`.
 
-```python
-app = FastAPI(
-    title='House Price DS API',
-    description='Predict house prices in California',
-    version='0.1',
-    docs_url='/',
-)
-```
 
-Edit `app/api/predict.py` to add a docstring for your predict function and return a naive baseline. 
 
-```python
-@router.post('/predict')
-async def predict(item: Item):
-    """Predict house prices in California."""
-    y_pred = 200000
-    return {'predicted_price': y_pred}
-```
-
-In a notebook, explore your data. Make an educated guess of what features you'll use.
-
-```python
-import pandas as pd
-from sklearn.datasets import fetch_california_housing
-
-# Load data
-california = fetch_california_housing()
-print(california.DESCR)
-X = pd.DataFrame(california.data, columns=california.feature_names)
-y = california.target
-
-# Rename columns
-X.columns = X.columns.str.lower()
-X = X.rename(columns={'avebedrms': 'bedrooms', 'averooms': 'total_rooms'})
-
-# Explore descriptive stats
-X.describe()
-```
-
-```python
-# Use these 3 features
-features = ['bedrooms', 'total_rooms', 'house_age']
-```
-
-Edit the class in `app/api/predict.py` to use your features.
-
-```python
-class House(BaseModel):
-    """Use this data model to parse the request body JSON."""
-    bedrooms: int
-    total_rooms: float
-    house_age: float
-
-    def to_df(self):
-        """Convert pydantic object to pandas dataframe with 1 row."""
-        return pd.DataFrame([dict(self)])
-
-@router.post('/predict')
-async def predict(house: House):
-    """Predict house prices in California."""
-    X_new = house.to_df()
-    y_pred = 200000
-    return {'predicted_price': y_pred}
-```
-
-Test locally, then [deploy to AWS](#deploy-to-aws) with your work-in-progress. Now your web teammates can make POST requests to your API endpoint.
-
-In a notebook, train your pipeline and pickle it. See these docs:
-
-- [Scikit-learn docs - Model persistence](https://scikit-learn.org/stable/modules/model_persistence.html)
-- [Keras docs - Serialization and saving](https://keras.io/guides/serialization_and_saving/)
-
-Get version numbers for every package you used in your pipeline. Add these packages to your `requirements.txt` file with their exact version numbers. Then run `docker-compose build` to re-build your Docker image.
-
-Edit `app/api/predict.py` to unpickle your model and use it in your predict function. 
-
-Now you are ready to re-deploy! 🚀
