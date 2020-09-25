@@ -11,13 +11,15 @@ app = FastAPI(
     docs_url="/",
 )
 
-app.include_router(predict.router)
-app.include_router(viz.router)
-app.include_router(raw.router)
+# app.include_router(predict.router)
+# app.include_router(viz.router)
+# app.include_router(raw.router)
 app.include_router(sites.router)
 app.include_router(villages.router)
 app.include_router(final_data.router)
 app.include_router(final_data_extended.router)
+
+
 
 app.add_middleware(
     CORSMiddleware,
