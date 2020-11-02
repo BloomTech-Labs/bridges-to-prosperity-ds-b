@@ -4,6 +4,8 @@ Clearly documents the reason for the pull request and what has changed.
 - [ ] This is a bugfix.
 - [ ] This is a new feature.
 - [ ] This is part of a feature.
+- [ ] This is to format code.
+- [ ] This is to test code.
 
 ## Organization ##
 
