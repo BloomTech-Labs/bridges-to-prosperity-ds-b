@@ -6,17 +6,11 @@ from app.api import get_data
 
 app = FastAPI(
     title="Labs28 Bridges to Prosperity TeamB DS Backend",
-    description="Returns relevant bridge data as list of JSON",
-    version="0.4",
+    description=f"Returns relevant bridge data in JSON.",
+    version="0.5",
     docs_url="/",
 )
 
-# app.include_router(predict.router)
-# app.include_router(viz.router)
-# app.include_router(raw.router)
-# app.include_router(sites.router)
-# app.include_router(villages.router)
-# app.include_router(final_data.router)
 app.include_router(get_data.router)
 
 
