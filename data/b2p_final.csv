@@ -1,0 +1,1473 @@
+,project_code,bridge_name,bridge_type,latitude,longitude,province,district,market_access_blocked_by_river,education_access_blocked_by_river,health_access_blocked_by_river,river_crossing_injuries_in_last_3_years,river_crossing_deaths_in_last_3_years,individuals_directly_served,project_stage,project_sub_stage,bridge_image,already_approved_site,predicted_false_positive
+0,1009317,Bukinga,Suspended Bridge,-2.7608330000000003,29.488056,Southern Province,Nyaruguru,0.0,0,0,,,,Cancelled,Technical,,No,1.0
+1,1007325,Kagarama,Suspension Bridge,-2.322534,29.141944,Western Province,Nyamasheke,0.0,0,0,15.0,2.0,4000.0,Complete,In Service,https://farm5.staticflickr.com/4829/44946210045_874f324731_k.jpg,Yes,1.0
+2,1007374,Karambi,Suspension Bridge,-2.5133330000000003,29.612778,Southern Province,Huye,0.0,1,1,15.0,3.0,12500.0,Complete,In Service,https://live.staticflickr.com/65535/48105851421_811fdd72bb_k.jpg,Yes,1.0
+3,1007466,Rugeti,Suspension Bridge,-2.47640667,29.4208,Southern Province,Nyamagabe,0.0,1,1,2.0,0.0,4363.0,Complete,In Service,,Yes,1.0
+4,1007495,Nyakabuye - Nkomane,Suspension Bridge,-2.233022,29.57513,Southern Province,Nyamagabe,0.0,1,1,4.0,4.0,2790.0,Complete,,,Yes,1.0
+5,1007507,Nyakabuye - Mwogo,Suspension Bridge,-2.233278,29.576407,Southern Province,Nyamagabe,0.0,1,1,0.0,0.0,2725.0,Complete,,https://live.staticflickr.com/65535/50345267881_ba9d3e43c8_b.jpg,Yes,1.0
+6,1007525,Rugwa,Suspended Bridge,-2.3297790000000003,29.668688,Southern Province,Nyanza,0.0,1,1,0.0,0.0,2015.0,Complete,In Service,https://farm2.staticflickr.com/1902/30471057067_697cc3d94d_b.jpg,Yes,1.0
+7,1007530,Gatare,Suspended Bridge,-1.94142,30.034608,Kigali,Nyarugenge,0.0,1,1,3.0,4.0,2704.0,Complete,In Service,https://farm5.staticflickr.com/4910/46352785842_4eec4e5825_b.jpg,Yes,1.0
+8,1007535,Rukarakara,Suspended Bridge,-2.7761,29.464528,Southern Province,Nyaruguru,0.0,1,1,1.0,4.0,11283.0,Complete,In Service,https://live.staticflickr.com/7880/33711868428_006bcb4a36_k.jpg,Yes,1.0
+9,1007539,Kabere,Suspended Bridge,-2.697944,29.446917,Southern Province,Nyaruguru,0.0,1,1,24.0,5.0,6335.0,Complete,In Service,https://live.staticflickr.com/65535/47964259988_c211e91229_h.jpg,Yes,1.0
+10,1007544,Runyani,Suspension Bridge,-2.71578,29.676070000000006,Southern Province,Nyaruguru,0.0,1,1,0.0,0.0,5421.0,Complete,In Service,https://live.staticflickr.com/65535/49537991673_a163947308_b.jpg,Yes,1.0
+11,1007563,Agatare,Suspension Bridge,-2.69808,29.54557,Southern Province,Nyaruguru,0.0,1,1,5.0,1.0,4515.0,Complete,,https://live.staticflickr.com/65535/50036962601_21bed57d7e_b.jpg,Yes,1.0
+12,1007572,Gisoro,Suspended Bridge,-2.7891,29.56721,Southern Province,Nyaruguru,0.0,1,0,20.0,6.0,17400.0,Complete,,https://live.staticflickr.com/65535/50045592407_a046852a0e_b.jpg,Yes,1.0
+13,1007580,Ryakanyamiganda,Suspension Bridge,2.79415,29.6986,Southern Province,Nyaruguru,0.0,1,1,40.0,0.0,4295.0,Complete,,https://live.staticflickr.com/65535/49970965873_8699f6fe9c_b.jpg,Yes,1.0
+14,1007590,Ruganza,Suspended Bridge,-2.63522167,29.45740167,Southern Province,Nyaruguru,0.0,1,1,6.0,0.0,2183.0,Complete,,https://live.staticflickr.com/65535/49730225976_24c11247c0_b.jpg,Yes,1.0
+15,1007609,Gasyogogo,Suspended Bridge,-2.161944,29.665556,Southern Province,Ruhango,0.0,1,0,0.0,10.0,2685.0,Complete,In Service,https://live.staticflickr.com/65535/48316927322_8abc4603e8_b.jpg,Yes,1.0
+16,1009064,Minigo,Suspension Bridge,-1.692028,29.294444,Western Province,Rubavu,0.0,0,1,8.0,1.0,4300.0,Complete,In Service,https://farm2.staticflickr.com/1822/41623524530_ed1a4df0ad_k.jpg,Yes,1.0
+17,1009067,Rukore,Suspended Bridge,-1.7469720000000002,29.370611,Western Province,Rubavu,0.0,0,0,2.0,0.0,170.0,Complete,In Service,https://farm2.staticflickr.com/1816/43715978632_e7cb642a58_k.jpg,Yes,0.0
+18,1009068,Kazabe,Suspension Bridge,-1.723639,29.366194,Western Province,Rubavu,0.0,1,0,2.0,0.0,4100.0,Complete,In Service,https://farm5.staticflickr.com/4894/46352896712_52645ebbf1_b.jpg,Yes,1.0
+19,1009311,Ruharazi,Suspended Bridge,-2.77676167,29.62627167,Southern Province,Nyaruguru,0.0,1,1,5.0,3.0,4959.0,Complete,In Service,https://live.staticflickr.com/7847/47544897212_0f50cfc0c9_z.jpg,Yes,1.0
+20,1009445,Rukurazo,Suspension Bridge,-2.115072,29.700843,Southern Province,Muhanga,0.0,1,1,3.0,2.0,1210.0,Complete,In Service,https://live.staticflickr.com/65535/49652072722_760d26906b_c.jpg,Yes,1.0
+21,1010941,Rwamamara,Suspended Bridge,-1.83113,29.62303,Western Province,Ngororero,0.0,1,1,5.0,2.0,4200.0,Complete,In Service,,Yes,1.0
+22,1011307,Kazo,Suspended Bridge,-1.77286,29.37514,Western Province,Rutsiro,0.0,1,1,4.0,3.0,12145.0,Complete,In Service,,Yes,1.0
+23,1011309,Nkuna,Suspended Bridge,-1.763,29.376790000000003,Western Province,Rutsiro,0.0,1,1,5.0,0.0,2699.0,Complete,In Service,https://live.staticflickr.com/65535/48474785987_4975fa0fb3_b.jpg,Yes,1.0
+24,1012457,Mugeri,Suspended Bridge,-2.02408333,29.41472222,Western Province,Rutsiro,0.0,1,1,,1.0,2734.0,Complete,In Service,https://farm8.staticflickr.com/7842/46473935275_b08663245a_b.jpg,Yes,1.0
+25,1012480,Serugeme,Suspended Bridge,-2.228055556,29.57333333,Southern Province,Ruhango,0.0,1,1,2.0,8.0,4111.0,Complete,In Service,https://live.staticflickr.com/65535/48496133332_631ed2421a_b.jpg,Yes,1.0
+26,1012501,Gahororo,Suspended Bridge,-2.621482,29.649033000000006,Southern Province,Huye,0.0,1,1,1.0,0.0,7000.0,Complete,In Service,https://live.staticflickr.com/65535/48118493867_68bd5c7fbd_b.jpg,Yes,1.0
+27,1012813,Kiruri,Suspended Bridge,-1.985833,29.40916,Western Province,Rutsiro,0.0,1,1,30.0,0.0,3290.0,Complete,In Service,https://live.staticflickr.com/65535/49729676708_402fca8810_c.jpg,Yes,1.0
+28,1012817,Gitikirema-kigarama,Suspended Bridge,-2.3046740000000003,29.472585,Southern Province,Nyamagabe,0.0,1,1,1.0,1.0,2805.0,Complete,In Service,https://live.staticflickr.com/65535/49729748518_081a5af4bb_c.jpg,Yes,1.0
+29,1012953,Gashyushya,Suspension Bridge,-2.01211492,29.76212259,Southern Province,Muhanga,0.0,1,1,2.0,1.0,2200.0,Complete,In Service,https://live.staticflickr.com/65535/49730236613_ef1c3d4bef_b.jpg,Yes,1.0
+30,1012986,Kirumbi,Suspension Bridge,-1.94833,29.493611,Western Province,Rutsiro,0.0,1,1,0.0,2.0,3294.0,Complete,In Service,https://live.staticflickr.com/65535/49391791211_e4ed01c87e_4k.jpg,Yes,1.0
+31,1012997,Uwumugeti-Kigusa,Suspended Bridge,-2.540715,29.503838,Southern Province,Nyamagabe,0.0,1,1,5.0,3.0,2762.0,Complete,,,Yes,1.0
+32,1013218,Rweru,Suspension Bridge,-2.52565,29.568185,Southern Province,Nyamagabe,0.0,1,1,0.0,8.0,2670.0,Complete,In Service,https://live.staticflickr.com/65535/49731137271_442ca75b44_c.jpg,Yes,1.0
+33,1013351,Kiciro,Suspension Bridge,-2.05545934,29.64411986,Southern Province,Muhanga,0.0,1,1,10.0,2.0,5167.0,Complete,,https://live.staticflickr.com/65535/50041256972_ef576e9c98_c.jpg,Yes,1.0
+34,1013353,Kivomo,Suspension Bridge,-2.026616,29.576320000000006,Western Province,Ngororero,0.0,1,1,,,1768.0,Complete,In Service,,Yes,1.0
+35,1013457,Kivugiza,Suspended Bridge,-1.94955,29.56793,Western Province,Ngororero,0.0,1,1,2.0,1.0,2656.0,Complete,,https://live.staticflickr.com/65535/49951621742_dec16ea431_b.jpg,Yes,1.0
+36,1013541,Buhito,Suspended Bridge,-1.81792,29.54411,Western Province,Ngororero,0.0,1,1,3.0,2.0,2335.0,Complete,In Service,https://live.staticflickr.com/65535/49651317298_f37b839423_b.jpg,Yes,1.0
+37,1013641,Rwinyoni,Suspended Bridge,-1.80169,29.29776,Western Province,Rutsiro,0.0,1,1,0.0,1.0,1641.0,Complete,In Service,https://live.staticflickr.com/65535/49728097346_47be858834_b.jpg,Yes,1.0
+38,1013652,Butana,Suspended Bridge,-1.86777,29.289722,Western Province,Rutsiro,0.0,1,1,0.0,1.0,2141.0,Complete,In Service,https://live.staticflickr.com/65535/49971656092_d8f7cb70dd_b.jpg,Yes,1.0
+39,1013658,Nkora,Suspended Bridge,-1.8675,29.324166,Western Province,Rutsiro,0.0,1,1,0.0,5.0,1348.0,Complete,In Service,https://live.staticflickr.com/65535/50041259127_9e7d01049b_b.jpg,Yes,1.0
+40,1013662,Kagogo,Suspension Bridge,-1.90122,29.370490000000004,Western Province,Rutsiro,0.0,1,1,0.0,0.0,1468.0,Complete,In Service,https://live.staticflickr.com/65535/49731767082_236dfe91db.jpg,Yes,1.0
+41,1017673,Rufuha,Suspension Bridge,-2.012167,29.763889,Southern Province,Muhanga,0.0,1,1,5.0,3.0,1000.0,Complete,In Service,https://live.staticflickr.com/65535/49773245558_28e3fdd2c3_z.jpg,Yes,1.0
+42,RW104,Gasura,Suspension Bridge,-1.820833,30.113889,Kigali,Gasabo,0.0,0,0,,,7000.0,Complete,,,Yes,1.0
+43,RW127,Kucyaruseke,Suspended Bridge,-2.711764,29.557267,Southern Province,Nyaruguru,0.0,0,0,0.0,0.0,3000.0,Complete,In Service,,Yes,1.0
+44,1007342,G.s Mugunga,Suspension Bridge,-1.693888889,29.64861111,Northern Province,Gakenke,0.0,1,1,10.0,0.0,4000.0,Confirmed,,,Yes,1.0
+45,1007347,Ntaruka,Suspended Bridge,-1.781111111,29.87916667,Northern Province,Gakenke,0.0,1,1,40.0,2.0,,Confirmed,,,Yes,1.0
+46,1013678,Kwiterambere,Suspension Bridge,-1.6634400000000005,29.834390000000006,Northern Province,Gakenke,0.0,1,1,0.0,3.0,,Confirmed,,,Yes,1.0
+47,1015693,Kabutimbo,Suspended Bridge,-1.6211870000000002,29.660569,Northern Province,Gakenke,0.0,1,1,0.0,0.0,1280.0,Confirmed,,,Yes,1.0
+48,1007340,Gitwa,Suspended Bridge,-1.7388880000000002,29.755277000000003,Northern Province,Gakenke,0.0,1,1,2.0,0.0,2860.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+49,1007387,Rusovu,,-2.14783,29.535028000000004,Western Province,Karongi,0.0,1,1,5.0,3.0,10405.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+50,1007391,Kanyarusanga 1,Suspended Bridge,-2.15350833,29.356425,Western Province,Karongi,0.0,1,1,3.0,2.0,5748.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+51,1007412,Kukasedurugu,Suspension Bridge,-1.536111111,29.67916667,Northern Province,Musanze,0.0,1,1,0.0,0.0,1600.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+52,1007423,Kuribushoka,,-1.80202,29.64597,Western Province,Ngororero,0.0,1,1,2.0,7.0,1325.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+53,1007424,Murambi,,-1.85605607,29.62150397,Western Province,Ngororero,0.0,1,1,4.0,2.0,1000.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+54,1007426,Muacyabahinja,,-1.819809,29.6066111,Western Province,Ngororero,0.0,1,1,10.0,5.0,3587.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+55,1007439,Mukamira,Suspended Bridge,-1.6198,29.502440000000004,Western Province,Nyabihu,0.0,1,1,0.0,5.0,3006.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+56,1007444,Kamiro,Suspended Bridge,-1.681,29.50024,Western Province,Nyabihu,0.0,1,1,3.0,0.0,3805.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+57,1007453,Gitinda,,-1.70215,29.51309,Western Province,Nyabihu,0.0,1,1,1.0,1.0,1051.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+58,1007455,Isangano,,-1.334487,30.250622,Eastern Province,Nyagatare,0.0,1,1,4.0,0.0,17237.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+59,1007458,Nshuri,,-1.308813,30.314539,Eastern Province,Nyagatare,0.0,1,0,2.0,3.0,7453.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+60,1007463,Mujerenge,Suspended Bridge,-2.45195667,29.427665,Southern Province,Nyamagabe,0.0,1,1,3.0,1.0,995.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+61,1007465,Rwangambibi,Suspension Bridge,-2.345116,29.43387,Southern Province,Nyamagabe,0.0,1,1,3.0,3.0,3475.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+62,1007469,Remera,,-2.213863,29.563708,Southern Province,Nyamagabe,0.0,1,1,0.0,0.0,2714.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+63,1007471,Cyabazungo,,-2.4243,29.5426533,Southern Province,Nyamagabe,0.0,1,1,0.0,3.0,8150.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+64,1007472,Sabake,,-2.47291333,29.42335667,Southern Province,Nyamagabe,0.0,1,1,2.0,4.0,4469.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+65,1007473,Uwabarashi,,-2.21156,29.544015,Southern Province,Nyamagabe,0.0,1,1,0.0,0.0,2613.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+66,1007477,Mugote,Suspended Bridge,-2.4477333,29.41455333,Southern Province,Nyamagabe,0.0,1,1,1.0,1.0,1720.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+67,1007491,Muduha,,-2.436162,29.52308,Southern Province,Nyamagabe,0.0,1,1,0.0,5.0,4530.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+68,1007497,Murehe,,-2.265518,29.585978000000004,Southern Province,Nyamagabe,0.0,1,1,0.0,0.0,2383.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+69,1007499,Kibiraro,,-2.294523,29.55516,Southern Province,Nyamagabe,0.0,1,1,1.0,1.0,2492.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+70,1007508,Bisheke,,-2.280762,29.206295,Western Province,Nyamasheke,0.0,1,1,1.0,1.0,2338.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+71,1007515,Nyagafunzo,,-2.19761,29.277965,Western Province,Nyamasheke,0.0,1,1,4.0,4.0,2995.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+72,1007522,Mweya,,-2.32999,29.64216,Southern Province,Nyanza,0.0,1,1,0.0,0.0,2992.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+73,1007528,Cyarera,Suspension Bridge,-2.29248,29.61608,Southern Province,Nyanza,0.0,1,1,0.0,1.0,1967.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+74,1007538,Nyabimata,,-2.69445,29.45532,Southern Province,Nyaruguru,0.0,1,1,5.0,3.0,6365.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+75,1007548,Migendo,,-2.667,29.4581,Southern Province,Nyaruguru,0.0,1,1,0.0,4.0,3711.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+76,1007556,Munanira,,-2.73581,29.56682,Southern Province,Nyaruguru,0.0,1,1,3.0,1.0,1137.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+77,1007557,Murambi,,-2.68572,29.47124,Southern Province,Nyaruguru,0.0,1,1,0.0,0.0,4382.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+78,1007562,Nyagisenyi,,-2.654561,29.439786,Southern Province,Nyaruguru,0.0,1,1,2.0,2.0,2757.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+79,1007570,Gasugi,,-2.69743,29.433390000000006,Southern Province,Nyaruguru,0.0,1,1,5.0,0.0,5413.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+80,1007582,Ruyenzi,,-2.7557222,29.4549167,Southern Province,Nyaruguru,0.0,1,1,0.0,0.0,4903.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+81,1007593,Kintare,Suspended Bridge,-2.6332020000000003,29.454371,Southern Province,Nyaruguru,0.0,1,1,10.0,2.0,4382.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+82,1007599,Bugizi,,-2.53305556,29.53638889,Southern Province,Nyaruguru,0.0,1,1,5.0,3.0,4789.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+83,1007600,Gashasho,Suspended Bridge,-1.71333,29.3925,Western Province,Rubavu,0.0,1,1,5.0,0.0,1013.0,Identified,Requested,,Unknown,1.0
+84,1007604,Muriba,,-1.7091666,29.3777,Western Province,Rubavu,0.0,1,1,0.0,0.0,800.0,Identified,Identified in Needs Assessment,,Unknown,0.0
+85,1007617,Muduha,Suspension Bridge,-1.7244099999999998,30.0589,Northern Province,Rulindo,0.0,1,1,25.0,0.0,800.0,Identified,Requested,,Unknown,0.0
+86,1007620,Nyamugari,,-1.66139,29.88583,Northern Province,Rulindo,0.0,1,1,0.0,0.0,3000.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+87,1007629,Cyiri,,-1.68333,29.89917,Northern Province,Rulindo,0.0,1,1,1.0,1.0,800.0,Identified,Identified in Needs Assessment,,Unknown,0.0
+88,1007630,Nyarurama,,-1.75497,30.08422,Northern Province,Rulindo,0.0,1,1,1.0,7.0,2556.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+89,1007635,Gisiza,Suspended Bridge,-1.76842,30.063240000000004,Northern Province,Rulindo,0.0,1,1,4.0,1.0,6898.0,Identified,Requested,,Unknown,1.0
+90,1007636,Cyivugiza,,-1.80183,30.075740000000003,Northern Province,Rulindo,0.0,1,1,30.0,0.0,3989.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+91,1007637,Gihinga,,-1.75328,30.01969,Northern Province,Rulindo,0.0,1,1,0.0,0.0,4230.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+92,1007642,Kirambo,Suspension Bridge,-1.75152,30.00904,Northern Province,Rulindo,0.0,1,1,0.0,0.0,1100.0,Identified,Requested,,Unknown,1.0
+93,1007647,Mitabi,Suspended Bridge,-1.74817,30.03081,Northern Province,Rulindo,0.0,1,1,2.0,3.0,2832.0,Identified,Requested,,Unknown,1.0
+94,1007649,Gitovu,Suspended Bridge,-1.622647,29.890423,Northern Province,Rulindo,0.0,1,1,0.0,0.0,2155.0,Identified,Requested,,Unknown,1.0
+95,1007660,Kabamba,,-2.68722,29.02778,Western Province,Rusizi,0.0,1,1,9.0,2.0,22815.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+96,1007670,Mwurire-gatoki,,-1.89155,29.382620000000006,Western Province,Rutsiro,0.0,1,1,0.0,1.0,1539.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+97,1007672,Rutanzogera,Suspended Bridge,-1.957,29.531833,Western Province,Rutsiro,0.0,1,1,1.0,4.0,3437.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+98,1007673,Murunda,,-1.915,29.37083,Western Province,Rutsiro,0.0,1,1,10.0,0.0,3200.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+99,1007676,Gatomvu,,-1.96638,29.35777,Western Province,Rutsiro,0.0,1,1,10.0,5.0,1250.0,Identified,Requested,,Unknown,1.0
+100,1007898,Gatembe,,-1.65575,29.8198,Northern Province,Gakenke,0.0,1,1,3.0,4.0,8000.0,Identified,,,Unknown,1.0
+101,1007899,Nyaruvumu,Suspension Bridge,-2.3381,29.6548,Southern Province,Nyanza,0.0,0,0,,,3000.0,Identified,,,Unknown,1.0
+102,1008002,Karengo,Suspended Bridge,-1.78583333,30.0825,Northern Province,Rulindo,0.0,1,0,1.0,0.0,7767.0,Identified,,,Unknown,1.0
+103,1009066,Nyarurembo,,,,Western Province,Rubavu,0.0,1,0,2.0,0.0,,Identified,,,Unknown,1.0
+104,1009280,Nyaruhombo,Suspension Bridge,-2.41201,29.67439,Southern Province,Huye,0.0,1,1,0.0,2.0,2373.0,Identified,,,Unknown,1.0
+105,1009296,Buyoga,Suspended Bridge,-1.930371,29.779313,Southern Province,Muhanga,0.0,1,1,2.0,2.0,1550.0,Identified,,,Unknown,1.0
+106,1009313,Runyombya,Suspended Bridge,-2.77142,29.529766,Southern Province,Nyaruguru,0.0,1,1,30.0,0.0,5579.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+107,1009426,Cyuzu,Suspension Bridge,-1.85109,29.666005,Southern Province,Muhanga,0.0,0,0,,,0.0,Identified,,,Unknown,0.0
+108,1009714,Nyagakizi,Suspension Bridge,-1.533333,30.173611,Northern Province,Gicumbi,0.0,1,1,0.0,0.0,1216.0,Identified,Requested,,Unknown,1.0
+109,1010422,Cyahafi,Suspension Bridge,-2.14156,29.63501,Southern Province,Ruhango,0.0,1,1,6.0,3.0,1221.0,Identified,Requested,,Unknown,1.0
+110,1010427,Gihororo,Suspension Bridge,-2.12117,29.6109,Southern Province,Ruhango,0.0,1,1,,14.0,1408.0,Identified,Requested,,Unknown,1.0
+111,1010917,Karama_Muhengeri,Suspended Bridge,-1.671847,30.057339,Northern Province,Gicumbi,0.0,1,1,0.0,3.0,1619.0,Identified,Requested,,Unknown,1.0
+112,1010919,Ruhondo,Suspension Bridge,-1.693048,30.06977,Northern Province,Gicumbi,0.0,1,1,0.0,1.0,1177.0,Identified,,,Unknown,1.0
+113,1011301,Ruganda,,-1.91924,29.47704,Western Province,Rutsiro,0.0,1,1,0.0,0.0,1756.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+114,1011310,Gisozi,,-1.9536111,29.53222,Western Province,Rutsiro,0.0,1,1,0.0,17.0,3230.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+115,1012004,Rusayo,Suspended Bridge,-1.96222,29.461388,Western Province,Rutsiro,0.0,1,1,0.0,1.0,2200.0,Identified,Technical,,Unknown,1.0
+116,1012433,Kinyanja,Suspended Bridge,-1.790933,29.381622,Western Province,Rutsiro,0.0,1,1,0.0,0.0,1852.0,Identified,,,Unknown,1.0
+117,1012548,Buterana,,-2.18748,29.81693,Southern Province,Ruhango,0.0,1,1,,2.0,3241.0,Identified,Requested,,Unknown,1.0
+118,1012550,Banga,,-1.6897221999999998,29.80888,Northern Province,Gakenke,0.0,1,1,1.0,0.0,600.0,Identified,Requested,,Unknown,0.0
+119,1012800,Mukaka,Suspension Bridge,-1.62147,29.96712,Northern Province,Rulindo,0.0,1,1,14.0,7.0,2456.0,Identified,Requested,,Unknown,1.0
+120,1012807,Nkegete,,-1.91078,29.77379,Southern Province,Muhanga,0.0,1,1,2.0,0.0,1441.0,Identified,,,Unknown,1.0
+121,1012809,Kwarasita,,-1.92495,29.78201,Southern Province,Muhanga,0.0,1,1,3.0,4.0,2101.0,Identified,,,Unknown,1.0
+122,1012810,Kamiranzogera,Suspended Bridge,-1.93662,29.73471,Southern Province,Muhanga,0.0,1,1,1.0,0.0,3200.0,Identified,,,Unknown,1.0
+123,1012811,Mushepari,Suspension Bridge,-1.696388,29.273055,Western Province,Rubavu,0.0,1,1,5.0,1.0,1900.0,Identified,Requested,,Unknown,1.0
+124,1012815,Nyarusange,,-1.9955,29.3925,Western Province,Rutsiro,0.0,1,1,5.0,2.0,1750.0,Identified,Requested,,Unknown,1.0
+125,1012816,Rurongora,Suspended Bridge,-2.34152,29.466329,Southern Province,Nyamagabe,0.0,1,1,2.0,2.0,1962.0,Identified,Requested,,Unknown,1.0
+126,1012820,Nyagisumo,,-2.332691,29.466929,Southern Province,Nyamagabe,0.0,1,1,3.0,3.0,2272.0,Identified,Requested,,Unknown,1.0
+127,1012823,Sodoma,Suspended Bridge,-2.014133,29.614267,Western Province,Ngororero,0.0,1,1,1.0,2.0,2600.0,Identified,,,Unknown,1.0
+128,1012830,Kamushi,Suspended Bridge,-2.33542,29.67251,Southern Province,Nyanza,0.0,1,1,0.0,0.0,3708.0,Identified,Requested,,Unknown,1.0
+129,1012831,Gasharu,Suspended Bridge,-2.31422,29.69336,Southern Province,Nyanza,0.0,1,1,1.0,2.0,3531.0,Identified,Requested,,Unknown,1.0
+130,1012947,Bushyita,,-1.95197033,29.77510744,Southern Province,Muhanga,0.0,1,1,10.0,,4047.0,Identified,,,Unknown,1.0
+131,1012948,Karuvungwa,,-1.984992,29.73314,Southern Province,Muhanga,0.0,1,1,4.0,2.0,3400.0,Identified,,,Unknown,1.0
+132,1012952,Rwabagenzi,Suspension Bridge,-2.04202456,29.7725994,Southern Province,Muhanga,0.0,1,1,3.0,1.0,4514.0,Identified,,,Unknown,1.0
+133,1012956,Ruhunde,Suspended Bridge,-1.77785489,29.67587526,Southern Province,Muhanga,0.0,1,1,6.0,0.0,2851.0,Identified,,,Unknown,1.0
+134,1012980,Kabavu(ruhanga),,-2.346276,29.420032,Southern Province,Nyamagabe,0.0,1,1,1.0,1.0,2010.0,Identified,Requested,,Unknown,1.0
+135,1012983,Bishenge(Masuma),,-2.345908,29.409702000000006,Southern Province,Nyamagabe,0.0,1,1,6.0,0.0,2818.0,Identified,Requested,,Unknown,1.0
+136,1012984,Rusoyo,,-2.276669,29.411297,Southern Province,Nyamagabe,0.0,1,1,5.0,5.0,3958.0,Identified,Requested,,Unknown,1.0
+137,1013011,Kamabuye,Suspended Bridge,-2.30024,29.6845,Southern Province,Nyanza,0.0,1,1,24.0,0.0,4710.0,Identified,Requested,,Unknown,1.0
+138,1013025,Muturagara-Gatobo,,-1.67321,29.57457,Western Province,Nyabihu,0.0,1,1,0.0,0.0,4470.0,Identified,Requested,,Unknown,1.0
+139,1013029,Kavumbu,Suspended Bridge,-1.6706900000000002,29.46836,Western Province,Nyabihu,0.0,1,1,3.0,3.0,3981.0,Identified,Requested,,Unknown,1.0
+140,1013214,Kigusa,,-2.55117833,29.51450333,Southern Province,Nyamagabe,0.0,1,1,18.0,6.0,3450.0,Identified,Requested,,Unknown,1.0
+141,1013220,Ntaruka,,-2.52459333,29.54972333,Southern Province,Nyamagabe,0.0,1,1,0.0,15.0,3896.0,Identified,Requested,,Unknown,1.0
+142,1013222,Kiziba,,-1.55473,29.83253,Northern Province,Burera,0.0,1,1,3.0,1.0,2946.0,Identified,Requested,,Unknown,1.0
+143,1013225,Sovu,Suspended Bridge,-2.510714,29.53571,Southern Province,Nyamagabe,0.0,1,1,0.0,3.0,3540.0,Identified,Requested,,Unknown,1.0
+144,1013226,Kagarama,Suspension Bridge,-2.51784,29.58812833,Southern Province,Nyamagabe,0.0,1,1,0.0,6.0,3709.0,Identified,Requested,,Unknown,1.0
+145,1013231,Gitantu,,2.495585,29.58301667,Southern Province,Nyamagabe,0.0,1,1,6.0,2.0,3291.0,Identified,Requested,,Unknown,1.0
+146,1013233,Cyabami (Kwa Anamariya),Suspended Bridge,-1.608215,29.890989,Northern Province,Burera,0.0,1,1,0.0,0.0,2554.0,Identified,Requested,,Unknown,1.0
+147,1013256,Kwa Rukeratabaro,Suspended Bridge,-1.838472,29.684286,Southern Province,Muhanga,0.0,1,1,20.0,5.0,2764.0,Identified,Requested,,Unknown,1.0
+148,1013263,Shyagari,Suspended Bridge,-2.003951,29.675447,Southern Province,Muhanga,0.0,1,1,12.0,0.0,2609.0,Identified,Requested,,Unknown,1.0
+149,1013273,Mamashenge,,-2.30577,29.79548,Southern Province,Nyanza,0.0,1,1,0.0,5.0,2147.0,Identified,Requested,,Unknown,1.0
+150,1013275,Bibumba,Suspension Bridge,-2.2794,29.8712,Southern Province,Nyanza,0.0,1,1,100.0,1.0,3152.0,Identified,Requested,,Unknown,1.0
+151,1013281,Cyeru,,-2.363741,29.544103000000003,Southern Province,Nyamagabe,0.0,1,1,1.0,1.0,2222.0,Identified,Requested,,Unknown,1.0
+152,1013289,Nyakirambi,,-2.310138,29.602603,Southern Province,Nyamagabe,0.0,1,1,0.0,0.0,3456.0,Identified,Requested,,Unknown,1.0
+153,1013349,Rusuzumiro,,-1.98365945,29.65245312,Southern Province,Muhanga,0.0,1,1,30.0,1.0,4950.0,Identified,Requested,,Unknown,1.0
+154,1013350,Hanika,,-1.97717889,29.67449787,Southern Province,Muhanga,0.0,1,1,20.0,10.0,4970.0,Identified,Requested,,Unknown,1.0
+155,1013364,Gahama,,-1.70127,29.55681,Western Province,Nyabihu,0.0,1,1,0.0,1.0,3575.0,Identified,Requested,,Unknown,1.0
+156,1013374,Biseke,,-1.66137,29.50069,Western Province,Nyabihu,0.0,1,1,10.0,0.0,8766.0,Identified,Requested,,Unknown,1.0
+157,1013377,Kugasumo,Suspension Bridge,-1.62689,29.488840000000003,Western Province,Nyabihu,0.0,1,1,5.0,0.0,2714.0,Identified,Requested,,Unknown,1.0
+158,1013378,Kinamba,,-1.65625,29.42217,Western Province,Nyabihu,0.0,1,1,0.0,0.0,2133.0,Identified,,,Unknown,1.0
+159,1013392,Ruyebe,,-1.65549,29.51862,Western Province,Nyabihu,0.0,1,1,2.0,0.0,2624.0,Identified,Requested,,Unknown,1.0
+160,1013422,Rwasa,Suspended Bridge,-2.41763333,29.555675,Southern Province,Nyamagabe,0.0,1,1,4.0,0.0,3582.0,Identified,Requested,,Unknown,1.0
+161,1013451,Kivomo,Suspension Bridge,-2.0283900000000004,29.572740000000003,Western Province,Ngororero,0.0,1,1,0.0,2.0,3549.0,Identified,Requested,,Unknown,1.0
+162,1013452,Rukombe,,-1.98911,29.60512,Western Province,Ngororero,0.0,1,1,0.0,4.0,2601.0,Identified,Requested,,Unknown,1.0
+163,1013455,Karuhanga,,-2.00323,29.5765,Western Province,Ngororero,0.0,1,1,0.0,4.0,3935.0,Identified,Requested,,Unknown,1.0
+164,1013461,Nyabiyonga,,-1.94216,29.55835,Western Province,Ngororero,0.0,1,1,0.0,20.0,4968.0,Identified,Requested,,Unknown,1.0
+165,1013465,Rwunga,Suspended Bridge,-1.492419,29.573354,Northern Province,Musanze,0.0,1,1,1.0,1.0,1035.0,Identified,Requested,,Unknown,1.0
+166,1013476,Nyiragahama,,-1.454949,29.616916,Northern Province,Musanze,0.0,1,1,1.0,1.0,4954.0,Identified,Requested,,Unknown,1.0
+167,1013477,Kansoro,,-1.446965,29.616203,Northern Province,Musanze,0.0,1,1,2.0,2.0,3467.0,Identified,Requested,,Unknown,1.0
+168,1013479,Rubira,,-1.475588,29.531147,Northern Province,Musanze,0.0,1,1,0.0,0.0,3197.0,Identified,Requested,,Unknown,1.0
+169,1013491,Gasagara,,-1.43466,29.6722,Northern Province,Burera,0.0,1,1,1.0,2.0,2352.0,Identified,Requested,,Unknown,1.0
+170,1013496,Nyabizi ya 1,,-1.33001,29.82555,Northern Province,Burera,0.0,1,1,0.0,0.0,1854.0,Identified,Requested,,Unknown,1.0
+171,1013539,Nyanza,,-1.74082,29.53777,Western Province,Ngororero,0.0,1,1,2.0,3.0,4066.0,Identified,Requested,,Unknown,1.0
+172,1013542,Nyabununi,,-2.13809,29.4254,Western Province,Karongi,0.0,1,1,0.0,15.0,2923.0,Identified,Requested,,Unknown,1.0
+173,1013547,Gitaba,,-1.77412,29.57416,Western Province,Ngororero,0.0,1,1,2.0,0.0,4606.0,Identified,Requested,,Unknown,1.0
+174,1013555,Kamihaho,,-2.09757,29.4337,Western Province,Karongi,0.0,1,1,0.0,0.0,4000.0,Identified,Requested,,Unknown,1.0
+175,1013561,Mubaneri,,-2.2933630000000003,29.238419,Western Province,Nyamasheke,0.0,1,1,3.0,3.0,2577.0,Identified,Requested,,Unknown,1.0
+176,1013576,Nyamuko,,-2.51384,29.88201,Southern Province,Gisagara,0.0,1,1,0.0,20.0,3373.0,Identified,Requested,,Unknown,1.0
+177,1013583,Munanira,,-2.396316,29.577776,Southern Province,Nyamagabe,0.0,1,1,0.0,0.0,4717.0,Identified,Requested,,Unknown,1.0
+178,1013626,Bahimba,Suspended Bridge,-1.7628,29.30777,Western Province,Rutsiro,0.0,1,1,1.0,0.0,1428.0,Identified,Requested,,Unknown,1.0
+179,1013628,Shyira,,-1.6992200000000002,29.63391,Northern Province,Gakenke,0.0,1,1,0.0,0.0,4596.0,Identified,Requested,,Unknown,1.0
+180,1013632,Gihinga,,-1.93229,29.36963,Western Province,Rutsiro,0.0,1,1,4.0,2.0,3305.0,Identified,Requested,,Unknown,1.0
+181,1013639,Bukungu,Suspended Bridge,-1.80495,29.30452,Western Province,Rutsiro,0.0,1,1,9.0,2.0,6052.0,Identified,Requested,,Unknown,1.0
+182,1013642,Bugarishya,,-1.8011,29.31405,Western Province,Rutsiro,0.0,1,1,2.0,0.0,1750.0,Identified,Requested,,Unknown,1.0
+183,1013645,Rugari,,-1.99666,29.3952777,Western Province,Rutsiro,0.0,1,1,2.0,1.0,1667.0,Identified,Requested,,Unknown,1.0
+184,1013646,Kabira1,,-1.9775,29.381944,Western Province,Rutsiro,0.0,1,1,3.0,0.0,2794.0,Identified,Requested,,Unknown,1.0
+185,1013647,Kabira 2,,-1.9752777,29.381944,Western Province,Rutsiro,0.0,1,1,5.0,0.0,3042.0,Identified,Requested,,Unknown,1.0
+186,1013648,Kamaranzara,,-1.83944,29.3222,Western Province,Rutsiro,0.0,1,1,25.0,5.0,1131.0,Identified,Requested,,Unknown,1.0
+187,1013654,Gakoyi,,-1.85437,29.28597,Western Province,Rutsiro,0.0,1,1,0.0,0.0,660.0,Identified,Requested,,Unknown,0.0
+188,1013661,Mucyuho,,-2.03972,29.41906,Western Province,Rutsiro,0.0,1,1,2.0,0.0,1400.0,Identified,Requested,,Unknown,1.0
+189,1013663,Rukenesha-nyundo,Suspended Bridge,-1.876611,29.372199,Western Province,Rutsiro,0.0,1,1,5.0,1.0,1412.0,Identified,Requested,,Unknown,1.0
+190,1013668,Musange,,-1.61697,29.79172,Northern Province,Gakenke,0.0,1,1,5.0,0.0,1610.0,Identified,Requested,,Unknown,1.0
+191,1013670,Musange kukibuga,,-1.63647,29.789620000000006,Northern Province,Gakenke,0.0,1,1,0.0,0.0,1812.0,Identified,Requested,,Unknown,1.0
+192,1013672,Mabare 1,,-1.62126,29.78084,Northern Province,Gakenke,0.0,1,1,0.0,1.0,1700.0,Identified,Requested,,Unknown,1.0
+193,1013673,Nyakaruru,,-1.65647,29.79743,Northern Province,Gakenke,0.0,1,1,3.0,0.0,1518.0,Identified,Requested,,Unknown,1.0
+194,1013680,Rebero,,-1.94498,29.34985,Western Province,Rutsiro,0.0,1,1,2.0,0.0,2720.0,Identified,Requested,,Unknown,1.0
+195,1013683,Kirwa,,-1.61152,29.70026,Northern Province,Gakenke,0.0,1,1,6.0,1.0,1240.0,Identified,Requested,,Unknown,1.0
+196,1013687,Rwungo,,-1.63957,29.717740000000006,Northern Province,Gakenke,0.0,1,1,0.0,0.0,1440.0,Identified,Requested,,Unknown,1.0
+197,1013717,Nonwe,,-2.224749,29.291024,Western Province,Nyamasheke,0.0,1,1,2.0,0.0,2133.0,Identified,Requested,,Unknown,1.0
+198,1013718,Karambi,Suspended Bridge,-2.15214,29.41315,Western Province,Karongi,0.0,1,1,3.0,1.0,4561.0,Identified,Requested,,Unknown,1.0
+199,1013719,Mburabuturo,Suspension Bridge,-2.18978,29.42021,Western Province,Karongi,0.0,1,1,5.0,4.0,4684.0,Identified,Requested,,Unknown,1.0
+200,1013721,Mugaseke,Suspended Bridge,-2.2168360000000003,29.283703000000006,Western Province,Nyamasheke,0.0,1,1,1.0,1.0,2412.0,Identified,Requested,,Unknown,1.0
+201,1013736,Rwaninka,Suspended Bridge,-2.733162,29.520608000000006,Southern Province,Nyaruguru,0.0,1,1,0.0,3.0,3580.0,Identified,Requested,,Unknown,1.0
+202,1013737,Rusumo,,-1.65413,30.01517,Northern Province,Rulindo,0.0,1,1,1.0,0.0,4340.0,Identified,Requested,,Unknown,1.0
+203,1013747,Gaseke,Suspended Bridge,-1.66082,30.05076,Northern Province,Rulindo,0.0,1,1,0.0,1.0,4830.0,Identified,Requested,,Unknown,1.0
+204,1013761,Kigusa,,-1.7246,29.54478,Western Province,Nyabihu,0.0,1,1,2.0,1.0,3494.0,Identified,Requested,,Unknown,1.0
+205,1013762,Kabuga,Suspended Bridge,-1.820233,30.013769,Northern Province,Rulindo,0.0,1,1,0.0,1.0,1462.0,Identified,Requested,,Unknown,1.0
+206,1013773,Agakomeye,,-2.17593,29.42192,Western Province,Karongi,0.0,1,1,3.0,1.0,3885.0,Identified,Requested,,Unknown,1.0
+207,1013774,Nyakamira,,-2.1750700000000003,29.42564,Western Province,Karongi,0.0,1,1,6.0,2.0,3585.0,Identified,Requested,,Unknown,1.0
+208,1013776,Matyazo,,-2.06165,29.39508,Western Province,Karongi,0.0,1,1,2.0,3.0,3816.0,Identified,Requested,,Unknown,1.0
+209,1013786,Kamonyo,,-2.1484,29.48612,Western Province,Karongi,0.0,1,1,2.0,1.0,4218.0,Identified,Requested,,Unknown,1.0
+210,1013792,Nyarusange,Suspended Bridge,-1.72848,29.76589,Northern Province,Gakenke,0.0,1,1,8.0,0.0,2740.0,Identified,Requested,,Unknown,1.0
+211,1013805,Gatarinzira,Suspended Bridge,-2.775531,29.708728000000004,Southern Province,Gisagara,0.0,1,1,100.0,3.0,4868.0,Identified,Requested,,Unknown,1.0
+212,1013806,Sare,Suspended Bridge,-2.7975,29.697972,Southern Province,Gisagara,0.0,1,1,30.0,10.0,4509.0,Identified,Requested,,Unknown,1.0
+213,1013873,Gomba,,-2.09219,29.38608,Western Province,Karongi,0.0,1,1,0.0,5.0,4437.0,Identified,Requested,,Unknown,1.0
+214,1013886,Karambo,,-2.221268,29.256019,Western Province,Nyamasheke,0.0,1,1,2.0,2.0,7086.0,Identified,Requested,,Unknown,1.0
+215,1013892,Nyirabageni,,-2.401998,29.204765,Western Province,Nyamasheke,0.0,1,1,3.0,0.0,11852.0,Identified,Requested,,Unknown,1.0
+216,1013898,Gisiza,,-2.353335,29.147336,Western Province,Nyamasheke,0.0,1,1,2.0,2.0,3100.0,Identified,Requested,,Unknown,1.0
+217,1014006,Mucyuzi,Suspension Bridge,-1.69435,29.30102,Western Province,Rubavu,0.0,1,1,30.0,6.0,857.0,Identified,Requested,,Unknown,0.0
+218,1014011,Nyabihunyira,Suspended Bridge,-2.554196,29.043492,Western Province,Nyamasheke,0.0,1,1,5.0,1.0,10588.0,Identified,Requested,,Unknown,1.0
+219,1014027,Musasa 3A,,-2.19859833,29.51245167,Western Province,Karongi,0.0,1,1,0.0,1.0,5332.0,Identified,Requested,,Unknown,1.0
+220,1014038,Kabuga,,-2.2462150000000003,29.491565,Western Province,Karongi,0.0,0,1,0.0,5.0,21209.0,Identified,Requested,,Unknown,1.0
+221,1014039,Kaduha,Suspended Bridge,-2.234305,29.436305,Western Province,Karongi,0.0,1,1,0.0,0.0,5357.0,Identified,Requested,,Unknown,1.0
+222,1014054,Kagusa,Suspended Bridge,-2.20151,29.3787,Western Province,Karongi,0.0,1,1,0.0,2.0,1625.0,Identified,Requested,,Unknown,1.0
+223,1014059,Kagorora,,-2.2318830000000003,29.517175,Western Province,Karongi,0.0,1,1,0.0,5.0,21645.0,Identified,Requested,,Unknown,1.0
+224,1014061,Gatare,Suspended Bridge,-2.26854,29.4563,Western Province,Karongi,0.0,1,1,8.0,15.0,3574.0,Identified,Requested,,Unknown,1.0
+225,1014063,Rwantobo,,-1.7404700000000002,29.372290000000003,Western Province,Rubavu,0.0,1,1,0.0,0.0,1550.0,Identified,Requested,,Unknown,1.0
+226,1014064,Himbo,,-2.1809,29.40968,Western Province,Karongi,0.0,1,1,0.0,2.0,1922.0,Identified,Requested,,Unknown,1.0
+227,1014065,Gatorove,,-2.26958,29.42796,Western Province,Karongi,0.0,1,1,2.0,5.0,1240.0,Identified,Requested,,Unknown,1.0
+228,1014066,Kamacaca,,-2.23068,29.38988,Western Province,Karongi,0.0,1,1,2.0,1.0,1754.0,Identified,Requested,,Unknown,1.0
+229,1014067,Cyunyu,Suspended Bridge,-2.25799,29.41381,Western Province,Karongi,0.0,1,1,1.0,3.0,3838.0,Identified,Requested,,Unknown,1.0
+230,1014068,Wamahoro,Suspended Bridge,-2.143712,29.352145,Western Province,Karongi,0.0,1,1,5.0,2.0,3341.0,Identified,Requested,,Unknown,1.0
+231,1014072,Gisiza,,-2.25545,29.47791,Western Province,Karongi,0.0,1,1,1.0,5.0,3747.0,Identified,Requested,,Unknown,1.0
+232,1014076,Masumo,,-2.26182,29.37822,Western Province,Karongi,0.0,1,1,2.0,2.0,1522.0,Identified,Requested,,Unknown,1.0
+233,1014083,Wiraro,Suspended Bridge,-2.24481167,29.44779833,Western Province,Karongi,0.0,1,1,2.0,0.0,5156.0,Identified,Requested,,Unknown,1.0
+234,1014091,Gombaniro-mubombo,,-2.72777,29.03227,Western Province,Rusizi,0.0,1,1,0.0,1.0,2106.0,Identified,Requested,,Unknown,1.0
+235,1014094,Kiyivu-buhanga,,-2.70183,29.03029,Western Province,Rusizi,0.0,1,1,0.0,3.0,1259.0,Identified,Requested,,Unknown,1.0
+236,1014095,Katabuvuga,,-2.63441,29.01131,Western Province,Rusizi,0.0,1,1,1.0,0.0,2490.0,Identified,Requested,,Unknown,1.0
+237,1014099,Kabingo1,,-2.58878,29.09516,Western Province,Rusizi,0.0,1,1,6.0,0.0,6500.0,Identified,Requested,,Unknown,1.0
+238,1014104,Rwengenzi,,-2.58744,29.10611,Western Province,Rusizi,0.0,1,1,5.0,2.0,5996.0,Identified,Requested,,Unknown,1.0
+239,1014119,Kavumu,,-2.37608,29.16455,Western Province,Nyamasheke,0.0,1,1,2.0,1.0,4871.0,Identified,Requested,,Unknown,1.0
+240,1014129,Bukoro,Suspension Bridge,-2.61265,29.50877,Southern Province,Nyaruguru,0.0,1,0,2.0,3.0,4359.0,Identified,Requested,,Unknown,1.0
+241,1014134,Rudehero,,-2.37845,29.1393,Western Province,Nyamasheke,0.0,1,1,3.0,2.0,9782.0,Identified,Requested,,Unknown,1.0
+242,1014138,Bizenga,Simple Span Bridge,-2.33616,29.1422,Western Province,Nyamasheke,0.0,0,1,2.0,1.0,6067.0,Identified,Requested,,Unknown,1.0
+243,1014149,Rugarama,,-2.71276,29.46918,Southern Province,Nyaruguru,0.0,1,1,0.0,0.0,3830.0,Identified,Requested,,Unknown,1.0
+244,1014150,Gihemvu,Suspended Bridge,-2.70081,29.492137,Southern Province,Nyaruguru,0.0,1,1,1.0,0.0,3969.0,Identified,Requested,,Unknown,1.0
+245,1014152,Kansi,,-2.60126,29.527390000000004,Southern Province,Nyaruguru,0.0,1,1,2.0,0.0,6674.0,Identified,Requested,,Unknown,1.0
+246,1014158,Buhunge,,-2.74006,29.67281,Southern Province,Nyaruguru,0.0,0,1,1.0,1.0,3960.0,Identified,Requested,,Unknown,1.0
+247,1014250,Ubumwe I,,-1.43737,30.2538,Eastern Province,Nyagatare,0.0,1,1,20.0,7.0,6852.0,Identified,Requested,,Unknown,1.0
+248,1014283,Mpombori,Suspended Bridge,-2.0851,29.80891,Southern Province,Kamonyi,0.0,1,1,8.0,3.0,1486.0,Identified,Requested,,Unknown,1.0
+249,1014290,Mugashyushya,,-2.06667,29.87094,Southern Province,Kamonyi,0.0,1,1,3.0,0.0,1500.0,Identified,Identified in Needs Assessment,,Unknown,1.0
+250,1014292,Karuruma,,-2.10672,29.86075,Southern Province,Kamonyi,0.0,1,1,1.0,0.0,8600.0,Identified,Requested,,Unknown,1.0
+251,1014293,Rugarama1,Suspended Bridge,-2.109614,29.84785,Southern Province,Kamonyi,0.0,1,1,3.0,1.0,3107.0,Identified,Requested,,Unknown,1.0
+252,1014310,Muhazi,,-1.873616,29.852021,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,25000.0,Identified,Requested,,Unknown,1.0
+253,1014312,Kadasaya,,-2.041621,29.930816,Southern Province,Kamonyi,0.0,1,1,3.0,2.0,9848.0,Identified,Requested,,Unknown,1.0
+254,1014318,Gisizi,,-1.870868,29.877686,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,1542.0,Identified,Requested,,Unknown,1.0
+255,1014322,Bunyonga 1,Suspended Bridge,-1.934919,29.819397,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,2423.0,Identified,Requested,,Unknown,1.0
+256,1014330,Rushikiri,,-1.937733,29.9489,Southern Province,Kamonyi,0.0,1,1,8.0,5.0,6120.0,Identified,Requested,,Unknown,1.0
+257,1014335,Muza,Suspended Bridge,-1.926511,29.814264,Southern Province,Kamonyi,0.0,1,1,1.0,1.0,10150.0,Identified,Requested,,Unknown,1.0
+258,1014374,Burwi,,-2.136568,29.5995,Western Province,Karongi,0.0,1,1,2.0,3.0,9401.0,Identified,Requested,,Unknown,1.0
+259,1014375,Nyamugari,,-2.155625,29.5944,Western Province,Karongi,0.0,1,1,7.0,1.0,7580.0,Identified,Requested,,Unknown,1.0
+260,1014376,Cyamatare,,-2.162912,29.574572,Western Province,Karongi,0.0,1,1,0.0,0.0,8936.0,Identified,Requested,,Unknown,1.0
+261,1014406,Gasinga,,-1.206567,30.347849,Eastern Province,Nyagatare,0.0,1,1,0.0,10.0,4754.0,Identified,Requested,,Unknown,1.0
+262,1014554,Kagarama,,-2.19809,30.32175,Eastern Province,Ngoma,0.0,1,1,2.0,1.0,13438.0,Identified,Requested,,Unknown,1.0
+263,1014555,Mfune,,-2.20515,30.28804,Eastern Province,Ngoma,0.0,1,1,6.0,2.0,10053.0,Identified,Requested,,Unknown,1.0
+264,1014556,KwaMunyamahoro,,-2.2041,30.30697,Eastern Province,Ngoma,0.0,1,1,4.0,3.0,15946.0,Identified,Requested,,Unknown,1.0
+265,1021789,Kamenge,Suspension Bridge,-1.947858,30.00694444,Kigali,Nyarugenge,0.0,0,0,,,100.0,Identified,Requested,,Unknown,0.0
+266,1021923,Uwinyana,,,,Southern Province,Nyaruguru,0.0,0,0,1.0,,400.0,Identified,,,Unknown,0.0
+267,1022230,Kajeje,,-1.971735,29.792433000000006,Southern Province,Muhanga,0.0,0,0,0.0,0.0,300.0,Identified,,,Unknown,0.0
+268,1022231,Mataba,,-1.976608,29.782109,Southern Province,Muhanga,0.0,0,0,,,500.0,Identified,,,Unknown,0.0
+269,1022387,Sector 4A,Suspension Bridge,-1.957537,30.151651,Kigali,Gasabo,0.0,0,0,,,500.0,Identified,,,Unknown,0.0
+270,1022388,Sector 4B,Suspension Bridge,-1.951633,30.146159,Kigali,Gasabo,0.0,0,0,,,1500.0,Identified,,,Unknown,1.0
+271,1023609,Musarara,,-1.827983,29.667964,Southern Province,Muhanga,0.0,0,0,0.0,0.0,2364.0,Identified,,,Unknown,1.0
+272,1007380,Remera,,-2.66052,29.746440000000003,Southern Province,Huye,0.0,1,1,0.0,0.0,3581.0,Prospecting,Identified in Needs Assessment,,Yes,1.0
+273,1007425,Muhembe,Suspended Bridge,-1.82487,29.61382,Western Province,Ngororero,0.0,1,1,0.0,0.0,500.0,Prospecting,Identified in Needs Assessment,,Yes,0.0
+274,1007651,Gipfundo,Suspension Bridge,-1.7203130000000002,30.081412,Northern Province,Rulindo,0.0,1,1,0.0,1.0,1700.0,Prospecting,Technical,,Yes,1.0
+275,1013215,Kanserege,Suspended Bridge,-2.5265,29.510023,Southern Province,Nyamagabe,0.0,1,1,7.0,0.0,3292.0,Prospecting,,,Yes,1.0
+276,1013339,Rugerero-Ntaruka,,-2.402212,29.715983,Southern Province,Huye,0.0,1,1,100.0,3.0,3701.0,Prospecting,Technical,,Yes,1.0
+277,1013459,Rugeshi,Suspended Bridge,-1.96038,29.54036,Western Province,Ngororero,0.0,1,1,12.0,7.0,3678.0,Prospecting,Requested,,Yes,1.0
+278,1013460,Gasasa,Suspended Bridge,-1.95373,29.54198,Western Province,Ngororero,0.0,1,1,0.0,8.0,4053.0,Prospecting,Requested,,Yes,1.0
+279,1013568,Nyakabingo,Suspended Bridge,-2.279466,29.199971,Western Province,Nyamasheke,0.0,1,1,2.0,2.0,1838.0,Prospecting,,,Yes,1.0
+280,1013692,Kigandi,Suspended Bridge,-2.326002,29.165331,Western Province,Nyamasheke,0.0,1,1,2.0,2.0,2825.0,Prospecting,,,Yes,1.0
+281,1013777,Kucyarwamo,Other,-2.06358,29.39742,Western Province,Karongi,0.0,1,1,6.0,3.0,2524.0,Prospecting,,,Yes,1.0
+282,1013867,Kagarama,Suspended Bridge,-2.13838,29.335040000000006,Western Province,Karongi,0.0,1,1,0.0,5.0,3886.0,Prospecting,,,Yes,1.0
+283,1013894,Gasihe,Suspended Bridge,-2.360876,29.157374,Western Province,Nyamasheke,0.0,1,1,0.0,0.0,2762.0,Prospecting,,,Yes,1.0
+284,1013895,Nyagisasa,Suspension Bridge,-2.343073,29.140422,Western Province,Nyamasheke,0.0,1,1,1.0,1.0,7124.0,Prospecting,,,Yes,1.0
+285,1013899,Kamatsira,Suspended Bridge,-2.407594,29.163424,Western Province,Nyamasheke,0.0,1,1,0.0,0.0,3221.0,Prospecting,,,Yes,1.0
+286,1014052,Munini I,Suspension Bridge,-2.18836,29.37793,Western Province,Karongi,0.0,1,1,0.0,5.0,2697.0,Prospecting,,,Yes,1.0
+287,1014269,Nyarusange,Suspended Bridge,-1.89484,29.99693,Kigali,Nyarugenge,0.0,1,1,1.0,0.0,4378.0,Prospecting,Requested,,Yes,1.0
+288,1022905,Bushoka,,-1.801579,29.645831,Western Province,Ngororero,0.0,0,0,0.0,0.0,1500.0,Prospecting,,,Yes,1.0
+289,1024587,Kanyiramana 2,,-2.480261,29.66132,Southern Province,Huye,0.0,0,0,1.0,6.0,3761.0,Prospecting,,,Yes,1.0
+290,1007327,Gikana,,-2.072628,30.204381,Eastern Province,Bugesera,0.0,0,1,,,1610.0,Rejected,Technical,,Unknown,1.0
+291,1007328,Cyankongi,,-2.048451,30.191276,Kigali,Kicukiro,0.0,0,1,0.0,0.0,5800.0,Rejected,Technical,,Unknown,1.0
+292,1007329,Mbabe,,-2.028061,30.173231,Kigali,Kicukiro,0.0,1,1,0.0,0.0,1000.0,Rejected,Technical,,Unknown,1.0
+293,1007330,Rusheshe,,-2.038712,30.186428000000006,Kigali,Kicukiro,0.0,0,1,0.0,0.0,5800.0,Rejected,Technical,,Unknown,1.0
+294,1007331,Nyamigende,,-2.095311,30.245678,Eastern Province,Bugesera,0.0,0,1,0.0,3.0,6000.0,Rejected,,,Unknown,1.0
+295,1007332,Bugambo,,-1.3769999999999998,29.80729,Northern Province,Burera,0.0,1,1,4.0,3.0,1892.0,Rejected,Technical,,Unknown,1.0
+296,1007334,Karambi,,-1.39214,29.81063,Northern Province,Burera,0.0,1,1,0.0,1.0,1573.0,Rejected,Technical,,Unknown,1.0
+297,1007335,Musangabo,,-1.3822299999999998,29.77727,Northern Province,Burera,0.0,1,1,0.0,0.0,1253.0,Rejected,Technical,,Unknown,1.0
+298,1007336,Rugezi,,-1.48563,29.88871,Northern Province,Burera,0.0,1,1,0.0,0.0,432.0,Rejected,Technical,,Unknown,0.0
+299,1007338,Mazimeru,,-1.6905555559999998,29.81666667,Northern Province,Gakenke,0.0,1,1,5.0,0.0,1940.0,Rejected,Technical,,Unknown,1.0
+300,1007339,Kwabarihuta,,-1.698333333,29.79861111,Northern Province,Gakenke,0.0,1,1,2.0,0.0,3500.0,Rejected,Technical,,Unknown,1.0
+301,1007343,Mugari,,-1.603205,29.719441,Northern Province,Gakenke,0.0,1,1,4.0,0.0,970.0,Rejected,Technical,,Unknown,1.0
+302,1007344,Kabarashi,,-1.6947222219999998,29.79777778,Northern Province,Gakenke,0.0,1,1,10.0,0.0,3600.0,Rejected,Technical,,Unknown,1.0
+303,1007345,Rutenga,,-1.623888889,29.71166667,Northern Province,Gakenke,0.0,1,1,4.0,3.0,1926.0,Rejected,Technical,,Unknown,1.0
+304,1007348,Nyarutovu,,-1.688888888,29.66805556,Northern Province,Gakenke,0.0,1,1,6.0,1.0,1589.0,Rejected,Technical,,Unknown,1.0
+305,1007349,Mugunga,,-1.623611111,29.70305556,Northern Province,Gakenke,0.0,1,1,2.0,4.0,664.0,Rejected,Technical,,Unknown,0.0
+306,1007350,Gitongo,,-1.704166667,29.84666667,Northern Province,Gakenke,0.0,1,1,1.0,0.0,1200.0,Rejected,Technical,,Unknown,1.0
+307,1007352,Kinoko,,-1.699722222,29.69666667,Northern Province,Gakenke,0.0,1,1,3.0,0.0,1000.0,Rejected,Technical,,Unknown,1.0
+308,1007354,Karuhunge,,-1.6025,29.70666,Northern Province,Gakenke,0.0,1,1,1.0,0.0,2250.0,Rejected,Technical,,Unknown,1.0
+309,1007356,Buranga,Suspension Bridge,-1.639722,29.784722,Northern Province,Gakenke,0.0,1,1,1.0,0.0,2958.0,Rejected,Identified in Needs Assessment,,Unknown,1.0
+310,1007357,Cyangoga,Suspension Bridge,-1.619444444,29.63333333,Northern Province,Gakenke,0.0,1,1,5.0,0.0,1230.0,Rejected,Identified in Needs Assessment,,Unknown,1.0
+311,1007360,Gasigwe,,-1.627777777,29.84055556,Northern Province,Gakenke,0.0,1,1,1.0,0.0,1302.0,Rejected,Technical,,Unknown,1.0
+312,1007364,Gihanga,,-1.47241,29.99602,Northern Province,Gicumbi,0.0,1,1,0.0,1.0,2045.0,Rejected,Technical,,Unknown,1.0
+313,1007366,Rubaya,,-1.46707,29.99598,Northern Province,Gicumbi,0.0,1,1,0.0,0.0,4500.0,Rejected,Technical,,Unknown,1.0
+314,1007368,Kiyovu center,,-1.59132,30.01386,Northern Province,Gicumbi,0.0,1,1,0.0,0.0,1461.0,Rejected,Technical,,Unknown,1.0
+315,1007370,Busabira,Suspension Bridge,-1.72859,30.07666,Northern Province,Gicumbi,0.0,1,1,1.0,2.0,1560.0,Rejected,Technical,,Unknown,1.0
+316,1007372,Nkurura,,-1.48547,29.99506,Northern Province,Gicumbi,0.0,1,1,0.0,0.0,1400.0,Rejected,Technical,,No,1.0
+317,1007376,Buhoro,,-2.62627,30.6261,Southern Province,Huye,0.0,0,0,,,3000.0,Rejected,Technical,,Unknown,1.0
+318,1007377,Uwarugondo,,-2.63101,29.63617,Southern Province,Huye,0.0,1,1,0.0,0.0,3983.0,Rejected,Technical,,Unknown,1.0
+319,1007378,Zaga,,-2.60378,29.66448,Southern Province,Huye,0.0,1,1,0.0,0.0,3328.0,Rejected,Technical,,Unknown,1.0
+320,1007379,Uwimpundu,,-2.62437,30.64553,Southern Province,Huye,0.0,1,1,0.0,0.0,1505.0,Rejected,Technical,,Unknown,1.0
+321,1007381,Rujumbura,,-2.68664,29.75706,Southern Province,Huye,0.0,1,1,50.0,0.0,4744.0,Rejected,Technical,,Unknown,1.0
+322,1007383,Ryagashaza,,-1.971072,29.838172,Southern Province,Kamonyi,0.0,1,1,7.0,1.0,4975.0,Rejected,Technical,,Unknown,1.0
+323,1007384,Kabuga,Suspended Bridge,-1.972033,29.84578,Southern Province,Kamonyi,0.0,1,1,2.0,,1195.0,Rejected,Technical,,Unknown,1.0
+324,1007388,Nyirahene,,-2.14375,29.5181389,Western Province,Karongi,0.0,1,1,1.0,4.0,6000.0,Rejected,Technical,,Unknown,1.0
+325,1007389,Rugogo,,-2.207465,29.4401,Western Province,Karongi,0.0,1,1,10.0,1.0,6195.0,Rejected,Technical,,Unknown,1.0
+326,1007390,Kurusumo,,-2.16372,29.35439,Western Province,Karongi,0.0,1,1,5.0,0.0,13740.0,Rejected,Technical,,Unknown,1.0
+327,1007392,Kinjongo,,-2.14811,29.52184,Western Province,Karongi,0.0,1,1,3.0,2.0,3000.0,Rejected,Technical,,Unknown,1.0
+328,1007393,Gasarabwayi,,-1.90503,30.60191,Eastern Province,Kayonza,0.0,1,1,0.0,0.0,4255.0,Rejected,Technical,,Unknown,1.0
+329,1007394,Gahushyi,,-1.97849,30.58137,Eastern Province,Kayonza,0.0,1,1,0.0,0.0,2451.0,Rejected,Technical,,Unknown,1.0
+330,1007395,Akayebe,,-1.92998,30.60766,Eastern Province,Kayonza,0.0,1,1,0.0,0.0,1907.0,Rejected,Technical,,Unknown,1.0
+331,1007396,Mutembo,,-1.9678400000000005,30.58284,Eastern Province,Kayonza,0.0,1,1,0.0,0.0,1799.0,Rejected,Technical,,Unknown,1.0
+332,1007397,Kabakungu,,-1.8106111,29.7573333,Southern Province,Muhanga,0.0,1,1,5.0,0.0,4609.0,Rejected,Technical,,Unknown,1.0
+333,1007398,Rutongo,,-1.9643,29.76213,Southern Province,Muhanga,0.0,1,1,3.0,0.0,2010.0,Rejected,Technical,,Unknown,1.0
+334,1007399,Kurugomero,,-1.81295875,29.77787873,Southern Province,Muhanga,0.0,1,1,15.0,2.0,4427.0,Rejected,Technical,,No,1.0
+335,1007401,Mataba,,-1.9014444,29.763916700000006,Southern Province,Muhanga,0.0,0,0,,,1000.0,Rejected,,,Unknown,1.0
+336,1007402,Matsinsi,,-2.14494,29.77813,Southern Province,Muhanga,0.0,1,1,0.0,0.0,3000.0,Rejected,Technical,,Unknown,1.0
+337,1007403,Kumukenke,,-2.076671,29.716686,Southern Province,Muhanga,0.0,0,0,,,500.0,Rejected,Technical,,Unknown,0.0
+338,1007404,Kabuga,,-1.750277,29.745,Northern Province,Gakenke,0.0,1,1,0.0,0.0,1950.0,Rejected,,,Unknown,1.0
+339,1007409,Rubindi,,-1.5931667,29.6469167,Northern Province,Musanze,0.0,0,0,,,6000.0,Rejected,,,Unknown,1.0
+340,1007410,Karambi,,-1.5738611,29.6502222,Northern Province,Musanze,0.0,0,0,,,6000.0,Rejected,,,Unknown,1.0
+341,1007414,Sovu,,-2.253768,30.378498,Eastern Province,Ngoma,0.0,0,0,,,500.0,Rejected,Technical,,Unknown,0.0
+342,1007415,Shyirinyota,,-2.228352,30.335798,Eastern Province,Ngoma,0.0,0,0,,,500.0,Rejected,Technical,,Unknown,0.0
+343,1007416,Vunga,,-2.2748060000000003,30.43525,Eastern Province,Ngoma,0.0,0,0,,,500.0,Rejected,Technical,,Unknown,0.0
+344,1007417,Bare,,-2.16867,30.26261,Eastern Province,Ngoma,0.0,1,1,2.0,1.0,12348.0,Rejected,Technical,,Unknown,1.0
+345,1007419,Kabyaza,,-1.82084,29.54068,Western Province,Ngororero,0.0,0,0,,,0.0,Rejected,Technical,,Unknown,0.0
+346,1007420,Mubarama,,-1.91351,29.57821,Western Province,Ngororero,0.0,1,1,0.0,2.0,12804.0,Rejected,Technical,,Unknown,1.0
+347,1007422,Gakomo,,-1.93935456,29.63153625,Western Province,Ngororero,0.0,1,1,2.0,0.0,6000.0,Rejected,Technical,,Unknown,1.0
+348,1007427,Munyegera,,-1.82273,29.58247,Western Province,Ngororero,0.0,1,1,4.0,3.0,1533.0,Rejected,Technical,,Unknown,1.0
+349,1007428,Kirombozi,,-1.929636,29.799125,Western Province,Ngororero,0.0,0,0,,,500.0,Rejected,Technical,,Unknown,0.0
+350,1007429,Kwa Agnes,,-1.9264167,29.5062222,Western Province,Ngororero,0.0,1,1,0.0,0.0,500.0,Rejected,Technical,,Unknown,0.0
+351,1007430,Kamasiga,,-1.92789109,29.63116618,Western Province,Ngororero,0.0,1,1,5.0,0.0,3400.0,Rejected,Technical,,Unknown,1.0
+352,1007431,Kigufi,,-1.8153056,29.578056,Western Province,Ngororero,0.0,0,0,,,500.0,Rejected,Technical,,Unknown,0.0
+353,1007432,Kazabe,,-1.85795617,29.62374517,Western Province,Ngororero,0.0,1,1,4.0,0.0,2100.0,Rejected,Technical,,Unknown,1.0
+354,1007433,Kibirira,,-1.9307222,29.640361100000003,Western Province,Ngororero,0.0,0,0,,,500.0,Rejected,Technical,,No,0.0
+355,1007437,Kidandari,,-1.6695278000000002,29.5934722,Western Province,Nyabihu,0.0,0,0,,,3000.0,Rejected,Technical,,Unknown,1.0
+356,1007441,Gatovu,,-1.6911944,29.5574167,Western Province,Nyabihu,0.0,1,1,0.0,0.0,3065.0,Rejected,Technical,,Unknown,1.0
+357,1007442,Gasaso,,-1.6331111,29.476611100000003,Western Province,Nyabihu,0.0,0,0,,,3000.0,Rejected,,,Unknown,1.0
+358,1007449,Nama,,-1.6798,29.51732,Western Province,Nyabihu,0.0,1,1,15.0,2.0,850.0,Rejected,Technical,,Unknown,0.0
+359,1007450,Nyamutukura,,-1.61806,29.472520000000006,Western Province,Nyabihu,0.0,1,1,0.0,0.0,1610.0,Rejected,Technical,,Unknown,1.0
+360,1007451,Kinoni,,-1.6798400000000002,29.51707,Western Province,Nyabihu,0.0,1,1,9.0,0.0,3821.0,Rejected,Technical,,Unknown,1.0
+361,1007452,Murambi,,-1.6799099999999998,29.46661,Western Province,Nyabihu,0.0,1,1,4.0,2.0,2290.0,Rejected,Technical,,Unknown,1.0
+362,1007454,Biryogo,,-1.367991,30.288805,Eastern Province,Nyagatare,0.0,1,1,20.0,6.0,11718.0,Rejected,Technical,,Unknown,1.0
+363,1007457,Ubumwe,,-1.42439,30.263540000000006,Eastern Province,Nyagatare,0.0,1,1,3.0,2.0,5487.0,Rejected,Technical,,Unknown,1.0
+364,1007459,Kamate,,-1.2991944,30.2575833,Eastern Province,Nyagatare,0.0,0,0,,,1000.0,Rejected,Technical,,Unknown,1.0
+365,1007460,Mirambi,,-1.296011,30.247121000000003,Eastern Province,Nyagatare,0.0,0,0,,,1000.0,Rejected,Technical,,Unknown,1.0
+366,1007464,Gahira,,-2.448025,29.4665,Southern Province,Nyamagabe,0.0,1,1,3.0,3.0,2810.0,Rejected,Technical,,Unknown,1.0
+367,1007467,Mwishyogwe,,-2.484,29.419611100000004,Southern Province,Nyamagabe,0.0,0,0,,,1000.0,Rejected,Technical,,Unknown,1.0
+368,1007468,Nyarusengesi,,-2.287455,29.434438,Southern Province,Nyamagabe,0.0,0,0,,,1000.0,Rejected,Technical,,Unknown,1.0
+369,1007474,Cyimbogo,,-2.2875833,29.4333889,Southern Province,Nyamagabe,0.0,0,0,,,3000.0,Rejected,Technical,,Unknown,1.0
+370,1007476,Nyamugari,,-2.4912778,29.4210278,Southern Province,Nyamagabe,0.0,0,0,,,3000.0,Rejected,,,Unknown,1.0
+371,1007479,Kabuga,,-2.45674667,29.43966667,Southern Province,Nyamagabe,0.0,1,1,0.0,5.0,3448.0,Rejected,Technical,,Unknown,1.0
+372,1007480,Kabingo,,-2.395728,29.427631,Southern Province,Nyamagabe,0.0,1,1,0.0,0.0,2380.0,Rejected,Technical,,Unknown,1.0
+373,1007482,Murwa,,-2.3908400000000003,29.57068,Southern Province,Nyamagabe,0.0,1,1,0.0,4.0,3057.0,Rejected,Technical,,Unknown,1.0
+374,1007483,Rwankango,,-2.259663,29.592431,Southern Province,Nyamagabe,0.0,0,0,,,1000.0,Rejected,Technical,,Unknown,1.0
+375,1007484,Uwamataba,,-2.47437333,29.488816,Southern Province,Nyamagabe,0.0,1,1,30.0,0.0,3554.0,Rejected,Technical,,Unknown,1.0
+376,1007485,Nyarurambi,,2.4724,29.5,Southern Province,Nyamagabe,0.0,1,1,12.0,0.0,3523.0,Rejected,Technical,,Unknown,1.0
+377,1007486,Rusekera,,-2.4518150000000003,29.43508667,Southern Province,Nyamagabe,0.0,1,0,2.0,0.0,780.0,Rejected,Technical,,Unknown,0.0
+378,1007487,Shaki,,-2.391707,29.435709000000006,Southern Province,Nyamagabe,0.0,1,1,2.0,1.0,1985.0,Rejected,Technical,,Unknown,1.0
+379,1007488,Muzirantwago,,-2.428413,29.577879,Southern Province,Nyamagabe,0.0,1,1,15.0,1.0,3000.0,Rejected,Technical,,Unknown,1.0
+380,1007489,Cyabagomba,,-2.296023,29.557358,Southern Province,Nyamagabe,0.0,0,0,,,403.0,Rejected,Technical,,Unknown,0.0
+381,1007490,Gasharu,,-2.43993333,29.51594167,Southern Province,Nyamagabe,0.0,0,0,,,3000.0,Rejected,,,Unknown,1.0
+382,1007492,Nyakabingo,,-2.2983290000000003,29.459225,Southern Province,Nyamagabe,0.0,0,0,,,1000.0,Rejected,Technical,,Unknown,1.0
+383,1007493,Nyagisumo,,-2.337289,29.459825,Southern Province,Nyamagabe,0.0,1,1,1.0,1.0,2244.0,Rejected,Technical,,Unknown,1.0
+384,1007496,Nyamurinda,,-2.43885,29.569090000000006,Southern Province,Nyamagabe,0.0,1,1,10.0,0.0,1050.0,Rejected,Technical,,Unknown,1.0
+385,1007498,Gasagara,,-2.286972,29.607523,Southern Province,Nyamagabe,0.0,0,0,,,500.0,Rejected,Technical,,Unknown,0.0
+386,1007500,Kasemanyana,,-2.312785,29.559739,Southern Province,Nyamagabe,0.0,1,1,2.0,1.0,2628.0,Rejected,Technical,,Unknown,1.0
+387,1007502,Rusave,,-2.321754,29.44854,Southern Province,Nyamagabe,0.0,0,0,,,1000.0,Rejected,Technical,,Unknown,1.0
+388,1007503,Rwumba,,-2.3283400000000003,29.44182,Southern Province,Nyamagabe,0.0,0,0,,,500.0,Rejected,Technical,,Unknown,0.0
+389,1007505,Gitega,,-2.280226,29.603769,Southern Province,Nyamagabe,0.0,0,0,,,1000.0,Rejected,Technical,,Unknown,1.0
+390,1007509,Gitwa~Nyagacaca,,-2.275825,29.217288,Western Province,Nyamasheke,0.0,1,1,1.0,1.0,2225.0,Rejected,Technical,,Unknown,1.0
+391,1007517,Mugonero,,-2.19384,29.27192,Western Province,Nyamasheke,0.0,0,0,,,0.0,Rejected,Social,,Unknown,0.0
+392,1007518,Musumba~ Rugano,,-2.313353,29.214397,Western Province,Nyamasheke,0.0,1,1,1.0,1.0,2237.0,Rejected,Technical,,Unknown,1.0
+393,1007520,Kubisheke,,-2.2825450000000003,29.208913,Western Province,Nyamasheke,0.0,1,1,2.0,2.0,2118.0,Rejected,Technical,,Unknown,1.0
+394,1007521,Karamba,,-2.2842990000000003,29.196849,Western Province,Nyamasheke,0.0,1,1,0.0,0.0,3433.0,Rejected,Technical,,Unknown,1.0
+395,1007523,Nyankunamirwa,,-2.2801400000000003,29.72578,Southern Province,Nyanza,0.0,1,1,0.0,0.0,1801.0,Rejected,Technical,,Unknown,1.0
+396,1007527,Macigati,,-2.30422,29.65685,Southern Province,Nyanza,0.0,1,1,0.0,0.0,456.0,Rejected,Technical,,Unknown,0.0
+397,1007531,Kumagare,,-1.935831,30.051385,Kigali,Gasabo,0.0,1,1,0.0,0.0,48588.0,Rejected,Technical,,Unknown,1.0
+398,1007532,Uwinteko,,-2.761531,29.494368,Southern Province,Nyaruguru,0.0,0,1,12.0,0.0,4221.0,Rejected,Technical,,No,1.0
+399,1007534,Cyivugiza,,-2.7791667,29.464333,Southern Province,Nyaruguru,0.0,0,0,,,3000.0,Rejected,Technical,,Unknown,1.0
+400,1007536,Bihembe,,-2.69544,29.45618,Southern Province,Nyaruguru,0.0,1,1,0.0,0.0,6394.0,Rejected,Technical,,Unknown,1.0
+401,1007537,Nyacyondo,,-2.62023,29.542442,Southern Province,Nyaruguru,0.0,1,1,10.0,0.0,4109.0,Rejected,Local Investment,,Unknown,1.0
+402,1007540,Gihango,Suspension Bridge,-2.67791,29.59175,Southern Province,Nyaruguru,0.0,1,1,4.0,2.0,4446.0,Rejected,Identified in Needs Assessment,,Unknown,1.0
+403,1007541,Cyuna,,-2.706995,29.59134667,Southern Province,Nyaruguru,0.0,1,1,2.0,0.0,5829.0,Rejected,Technical,,Unknown,1.0
+404,1007542,Gakaranka,,-2.77593,29.4562,Southern Province,Nyaruguru,0.0,1,1,2.0,0.0,4842.0,Rejected,Technical,,Unknown,1.0
+405,1007543,Kirwa,,-2.7989330000000003,29.4761,Southern Province,Nyaruguru,0.0,1,1,3.0,0.0,4563.0,Rejected,Technical,,Unknown,1.0
+406,1007545,Samiyonge,,-2.67962,29.46244,Southern Province,Nyaruguru,0.0,1,1,0.0,0.0,6119.0,Rejected,Technical,,Unknown,1.0
+407,1007546,Urwishinzo,,-2.7803056,29.4508056,Southern Province,Nyaruguru,0.0,0,0,,,500.0,Rejected,Technical,,Unknown,0.0
+408,1007547,Karanka,,-2.66297667,29.44955667,Southern Province,Nyaruguru,0.0,1,1,6.0,1.0,3443.0,Rejected,Technical,,Unknown,1.0
+409,1007549,Bitare,,-2.6873400000000003,29.65577,Southern Province,Nyaruguru,0.0,1,1,2.0,0.0,500.0,Rejected,Technical,,No,0.0
+410,1007550,Sheke,,-2.67224,29.65063,Southern Province,Nyaruguru,0.0,1,1,2.0,0.0,4755.0,Rejected,Technical,,Unknown,1.0
+411,1007551,Remera,,-2.70332833,29.58839667,Southern Province,Nyaruguru,0.0,1,1,4.0,0.0,4398.0,Rejected,Technical,,Unknown,1.0
+412,1007552,Coko,,2.7139450000000003,29.594535,Southern Province,Nyaruguru,0.0,1,1,5.0,0.0,4586.0,Rejected,Technical,,Unknown,1.0
+413,1007553,Gitara,,-2.71768,29.59726333,Southern Province,Nyaruguru,0.0,1,1,0.0,2.0,5406.0,Rejected,Technical,,Unknown,1.0
+414,1007554,Gitara,,-2.721561,29.596655,Southern Province,Nyaruguru,0.0,1,1,0.0,2.0,5406.0,Rejected,Technical,,No,1.0
+415,1007555,Rwishwa,,-2.651346,29.43843,Southern Province,Nyaruguru,0.0,0,0,,,2757.0,Rejected,Technical,,Unknown,1.0
+416,1007558,Uwamuhizi,,-2.71525,29.5959167,Southern Province,Nyaruguru,0.0,0,0,,,500.0,Rejected,Local Investment,,Unknown,0.0
+417,1007559,Ngarurira,,-2.6965833,29.540111100000004,Southern Province,Nyaruguru,0.0,1,1,1.0,0.0,4515.0,Rejected,Technical,,Unknown,1.0
+418,1007560,Uwumusebeya,,-2.7785278,29.44775,Southern Province,Nyaruguru,0.0,0,0,,,1000.0,Rejected,Technical,,Unknown,1.0
+419,1007561,Mutovu,,-2.6860833,29.4780833,Southern Province,Nyaruguru,0.0,0,0,,,3000.0,Rejected,Technical,,Unknown,1.0
+420,1007564,Businde,,-2.6974722,29.4909444,Southern Province,Nyaruguru,0.0,0,0,,,1000.0,Rejected,Technical,,Unknown,1.0
+421,1007565,Agasaka,,-2.77066667,29.66886,Southern Province,Nyaruguru,0.0,0,0,,,3000.0,Rejected,Technical,,Unknown,1.0
+422,1007566,Mutobwe,,-2.69631,29.43436,Southern Province,Nyaruguru,0.0,1,1,1.0,0.0,2187.0,Rejected,Technical,,Unknown,1.0
+423,1007568,Rugote,,-2.7800833,29.451,Southern Province,Nyaruguru,0.0,0,0,,,1000.0,Rejected,Technical,,Unknown,1.0
+424,1007571,Gituramigina,,-2.7438056,29.670805600000005,Southern Province,Nyaruguru,0.0,1,1,0.0,0.0,3870.0,Rejected,Technical,,Unknown,1.0
+425,1007573,Tugogo,,-2.56058,29.494390000000006,Southern Province,Nyaruguru,0.0,1,1,2.0,0.0,3885.0,Rejected,Technical,,Unknown,1.0
+426,1007574,Uwurusugi,,-2.7014400000000003,29.438440000000003,Southern Province,Nyaruguru,0.0,1,1,3.0,1.0,3900.0,Rejected,Technical,,Unknown,1.0
+427,1007575,Ryarugarama,,-2.7814444,29.663361100000003,Southern Province,Nyaruguru,0.0,0,0,,,500.0,Rejected,Technical,,Unknown,0.0
+428,1007577,Rusuzumiro,,-2.6483056,29.4811389,Southern Province,Nyaruguru,0.0,0,0,,,500.0,Rejected,Technical,,Unknown,0.0
+429,1007578,Rimbamya,,-2.6378056,29.5095,Southern Province,Nyaruguru,0.0,0,0,,,500.0,Rejected,Technical,,Unknown,0.0
+430,1007579,Businde,,-2.636655,29.47937167,Southern Province,Nyaruguru,0.0,1,1,2.0,1.0,5323.0,Rejected,Technical,,Unknown,1.0
+431,1007583,Akatera,,-2.71667,29.738640000000004,Southern Province,Nyaruguru,0.0,1,1,50.0,3.0,5328.0,Rejected,Technical,,Unknown,1.0
+432,1007584,Mashetsa,,-2.614243,29.571836,Southern Province,Nyaruguru,0.0,1,1,6.0,2.0,4070.0,Rejected,Technical,,Unknown,1.0
+433,1007589,Muyira,,-2.7211111,29.448638899999995,Southern Province,Nyaruguru,0.0,1,1,0.0,0.0,1746.0,Rejected,Technical,,Unknown,1.0
+434,1007591,Cyumuzi,,-2.69811,29.42603,Southern Province,Nyaruguru,0.0,0,0,,,1000.0,Rejected,Technical,,Unknown,1.0
+435,1007592,Ndatemwa,,-2.78607,29.53833,Southern Province,Nyaruguru,0.0,1,1,0.0,1.0,5061.0,Rejected,Technical,,Unknown,1.0
+436,1007594,Ruhinga,,-2.69618,29.42616,Southern Province,Nyaruguru,0.0,0,0,,,1000.0,Rejected,Technical,,Unknown,1.0
+437,1007595,Muyira,,-2.7221,29.43916,Southern Province,Nyaruguru,0.0,0,0,,,3000.0,Rejected,Technical,,Unknown,1.0
+438,1007597,Gaseso,,-2.62936,29.4521944,Southern Province,Nyaruguru,0.0,0,0,,,555.0,Rejected,Technical,,Unknown,0.0
+439,1007598,Sheke,,-2.68053167,29.51431667,Southern Province,Nyaruguru,0.0,0,0,,,3000.0,Rejected,Technical,,Unknown,1.0
+440,1007601,Mucyondo,,-1.70902,29.35808,Western Province,Rubavu,0.0,1,1,8.0,4.0,65160.0,Rejected,Technical,,Unknown,1.0
+441,1007603,Gasenyi,,-1.699166,29.336944,Western Province,Rubavu,0.0,1,1,0.0,0.0,1732.0,Rejected,Technical,,No,1.0
+442,1007605,Ruraje,,-1.70833,29.379722,Western Province,Rubavu,0.0,1,1,1.0,1.0,700.0,Rejected,Technical,,Unknown,0.0
+443,1007606,Nyamigina 2,,-2.17262,30.6741,Southern Province,Ruhango,0.0,1,1,2.0,1.0,2436.0,Rejected,Technical,,Unknown,1.0
+444,1007607,Nyangandika,Suspension Bridge,-2.18495,29.80927,Southern Province,Ruhango,0.0,1,1,6.0,4.0,1067.0,Rejected,Technical,,Unknown,1.0
+445,1007612,Mabanza,Suspended Bridge,-2.12558,29.67786,Southern Province,Ruhango,0.0,1,1,0.0,0.0,1321.0,Rejected,Technical,,Unknown,1.0
+446,1007615,Rubanda,,-1.6443888999999998,29.8994722,Northern Province,Rulindo,0.0,1,1,0.0,5.0,2777.0,Rejected,Technical,,Unknown,1.0
+447,1007621,Ruvumba,,-1.7488439999999998,29.951975,Northern Province,Rulindo,0.0,0,0,,,1000.0,Rejected,Technical,,Unknown,1.0
+448,1007622,Ngarama,,-1.692446,29.904097,Northern Province,Rulindo,0.0,0,0,0.0,0.0,1000.0,Rejected,Technical,,Unknown,1.0
+449,1007625,Base,,-1.6404167,29.8977778,Northern Province,Rulindo,0.0,0,0,,,3000.0,Rejected,,,Unknown,1.0
+450,1007626,Nyirangarama,,-1.6688900000000002,29.893890000000006,Northern Province,Rulindo,0.0,1,1,0.0,0.0,1800.0,Rejected,Technical,,Unknown,1.0
+451,1007628,Kabahama,,-1.6306667,29.8939167,Northern Province,Rulindo,0.0,0,0,,,3000.0,Rejected,Technical,,Unknown,1.0
+452,1007631,Gatwa,Suspension Bridge,-1.65237,29.9201,Northern Province,Rulindo,0.0,1,1,3.0,1.0,2509.0,Rejected,Technical,,Unknown,1.0
+453,1007632,Musega,,-1.8023333,30.0800278,Northern Province,Rulindo,0.0,0,0,,,3000.0,Rejected,,,Unknown,1.0
+454,1007633,Gashushura,,-1.61306,29.88583,Northern Province,Rulindo,0.0,1,1,3.0,0.0,1050.0,Rejected,Technical,,No,1.0
+455,1007634,Kamuragi,,-1.74278,29.94694,Northern Province,Rulindo,0.0,1,1,3.0,2.0,1260.0,Rejected,Technical,,Unknown,1.0
+456,1007638,Gitaba,,-1.7067778000000002,29.914361100000004,Northern Province,Rulindo,0.0,0,0,,,1000.0,Rejected,,,Unknown,1.0
+457,1007643,Buhunde,Suspension Bridge,-1.653,29.9257778,Northern Province,Rulindo,0.0,0,0,,,1000.0,Rejected,Social,,Unknown,1.0
+458,1007645,Rukoma,Suspension Bridge,-1.79476,29.98846,Northern Province,Rulindo,0.0,1,1,3.0,2.0,2624.0,Rejected,Technical,,Unknown,1.0
+459,1007652,Nyungwe,,-1.857823,29.992177,Kigali,Gasabo,0.0,1,1,2.0,0.0,3402.0,Rejected,Technical,,Unknown,1.0
+460,1007653,Kiziranyenzi,,-1.848168,29.991187,Kigali,Gasabo,0.0,1,1,4.0,0.0,5983.0,Rejected,Technical,,Unknown,1.0
+461,1007654,Pindura,,-2.594639,28.981427000000004,Western Province,Rusizi,0.0,1,1,2.0,0.0,3802.0,Rejected,Technical,,Unknown,1.0
+462,1007657,cyagara,,-2.6891,28.99726,Western Province,Rusizi,0.0,1,1,3.0,1.0,30956.0,Rejected,Technical,,Unknown,1.0
+463,1007658,Nyabiranka,,-2.396098,28.927481,Western Province,Rusizi,0.0,0,0,,,3000.0,Rejected,Technical,,Unknown,1.0
+464,1007659,Muhari,,-2.45399,28.89774,Western Province,Rusizi,0.0,0,0,,,6000.0,Rejected,Technical,,Unknown,1.0
+465,1007661,Rusayo,,-2.697308,29.029517,Western Province,Rusizi,0.0,0,0,0.0,0.0,17270.0,Rejected,Technical,,Unknown,1.0
+466,1007662,Rungunga,,-2.6668,29.009090000000004,Western Province,Rusizi,0.0,1,1,5.0,2.0,2471.0,Rejected,Technical,,Unknown,1.0
+467,1007663,Kabugarama,,-2.584342,28.971386,Western Province,Rusizi,0.0,1,1,0.0,0.0,3414.0,Rejected,Technical,,Unknown,1.0
+468,1007664,Gasovu,,-1.89261,29.3735,Western Province,Rutsiro,0.0,1,1,0.0,3.0,2135.0,Rejected,Technical,,Unknown,1.0
+469,1007665,Ntaruko,,-2.03645,29.41441,Western Province,Rutsiro,0.0,1,1,9.0,3.0,2590.0,Rejected,Technical,,Unknown,1.0
+470,1007666,Kumizero,,-1.89091,29.37094,Western Province,Rutsiro,0.0,1,1,2.0,0.0,1506.0,Rejected,Technical,,Unknown,1.0
+471,1007674,Kibara,,-1.92899,29.4801,Western Province,Rutsiro,0.0,1,1,4.0,0.0,1750.0,Rejected,Technical,,Unknown,1.0
+472,1007678,Kinyempanda,,-2.02475,29.41743,Western Province,Rutsiro,0.0,1,1,20.0,0.0,1806.0,Rejected,Technical,,Unknown,1.0
+473,1007679,Kazirankomo,,-1.954166,29.3577,Western Province,Rutsiro,0.0,1,1,4.0,0.0,3000.0,Rejected,Technical,,Unknown,1.0
+474,1007680,Ntora,,-1.916403,30.04942,Kigali,Gasabo,0.0,1,1,0.0,4.0,6000.0,Rejected,Technical,,No,1.0
+475,1007897,Baramba,Suspended Bridge,-1.7526099999999998,29.81207,Northern Province,Gakenke,0.0,1,1,0.0,3.0,4032.0,Rejected,Technical,,Unknown,1.0
+476,1009069,Ndindiye,,,,Western Province,Rubavu,0.0,1,0,0.0,1.0,,Rejected,Social,,Unknown,1.0
+477,1009071,Nombe,,-1.7056,29.30982,Western Province,Rubavu,0.0,0,0,8.0,1.0,,Rejected,Technical,,Unknown,1.0
+478,1009329,Gihinga,Suspended Bridge,-1.829439,29.882134000000004,Northern Province,Gakenke,0.0,1,1,0.0,0.0,16300.0,Rejected,Technical,,Unknown,1.0
+479,1009553,Kurutare,,-1.7338888890000002,29.65638889,Northern Province,Gakenke,0.0,1,1,0.0,0.0,2850.0,Rejected,,,Unknown,1.0
+480,1009554,Rutagara,,-1.730472,29.662278000000004,Northern Province,Gakenke,0.0,0,0,0.0,0.0,0.0,Rejected,,,Unknown,0.0
+481,1009702,Kirwa,,-1.61168,30.15833,Northern Province,Gicumbi,0.0,1,1,0.0,1.0,1789.0,Rejected,Technical,,Unknown,1.0
+482,1009703,Sunzu,Suspension Bridge,-1.60178,30.15318,Northern Province,Gicumbi,0.0,1,1,0.0,0.0,612.0,Rejected,Technical,,Unknown,0.0
+483,1009704,Bugomba,,-1.44911,30.04685,Northern Province,Gicumbi,0.0,1,1,0.0,0.0,2294.0,Rejected,Technical,,Unknown,1.0
+484,1009705,Kiruhura,,-1.464697,30.056749,Northern Province,Gicumbi,0.0,1,1,0.0,0.0,1185.0,Rejected,Technical,,Unknown,1.0
+485,1009706,Ndarama,Suspension Bridge,-1.46305,30.0909,Northern Province,Gicumbi,0.0,1,1,0.0,3.0,1523.0,Rejected,Technical,,Unknown,1.0
+486,1009707,Kigoma,,-1.65897,30.114,Northern Province,Gicumbi,0.0,1,1,0.0,0.0,3350.0,Rejected,Technical,,Unknown,1.0
+487,1009710,Rugaragara-Mayogi,,-1.7012,30.20941,Northern Province,Gicumbi,0.0,1,1,0.0,1.0,1060.0,Rejected,Technical,,Unknown,1.0
+488,1009711,Kamutore Barrage,Suspension Bridge,-1.47875,30.10468,Northern Province,Gicumbi,0.0,1,1,1.0,1.0,1796.0,Rejected,Technical,,Unknown,1.0
+489,1009712,Ngabira munsi y umurenge,,-1.4452200000000002,30.08827,Northern Province,Gicumbi,0.0,1,1,0.0,2.0,0.0,Rejected,Technical,,Unknown,0.0
+490,1009713,Nyamugari,,-1.55224,30.16326,Northern Province,Gicumbi,0.0,1,1,1.0,0.0,574.0,Rejected,Technical,,Unknown,0.0
+491,1009715,Rurenge,Suspension Bridge,-1.51969,30.15237,Northern Province,Gicumbi,0.0,1,1,1.0,0.0,1326.0,Rejected,Technical,,Unknown,1.0
+492,1009716,Murehe,,-1.54881,30.13056,Northern Province,Gicumbi,0.0,1,1,0.0,1.0,580.0,Rejected,Technical,,Unknown,0.0
+493,1009857,Gitagara 2,,-2.12042,29.6838,Southern Province,Ruhango,0.0,0,0,,,0.0,Rejected,Technical,,Unknown,0.0
+494,1010404,Mukuge,Suspension Bridge,-2.682028,29.703194,Southern Province,Nyaruguru,0.0,0,0,,,0.0,Rejected,Technical,,Unknown,0.0
+495,1010405,Mbuye,Suspension Bridge,-2.7515560000000003,29.717861,Southern Province,Nyaruguru,0.0,0,0,,,0.0,Rejected,Technical,,Unknown,0.0
+496,1010406,Satinsyi,,-1.75995,29.66276667,Western Province,Ngororero,0.0,0,0,,,0.0,Rejected,Technical,,Unknown,0.0
+497,1010409,Gasharu,,-2.1755400000000003,30.69667,Southern Province,Ruhango,0.0,1,1,0.0,0.0,2246.0,Rejected,Technical,,Unknown,1.0
+498,1010410,Ruhondo,Suspension Bridge,-2.19008333,29.71277778,Southern Province,Ruhango,0.0,0,0,,,0.0,Rejected,,,Unknown,0.0
+499,1010411,Gaseke,Suspension Bridge,-2.16658,29.701040000000006,Southern Province,Ruhango,0.0,1,1,0.0,0.0,1497.0,Rejected,Technical,,Unknown,1.0
+500,1010423,Miguramo 1,,-2.12023,29.6893,Southern Province,Ruhango,0.0,1,1,0.0,0.0,1081.0,Rejected,Technical,,Unknown,1.0
+501,1010425,Mutugezi,,-2.12013889,29.66583333,Southern Province,Ruhango,0.0,0,0,,,0.0,Rejected,,,Unknown,0.0
+502,1010426,Mutugezi,,-2.11994444,29.66611111,Southern Province,Ruhango,0.0,0,0,,,0.0,Rejected,,,Unknown,0.0
+503,1010428,Kiryango,,-2.15158,30.65636,Southern Province,Ruhango,0.0,1,1,10.0,4.0,3613.0,Rejected,Technical,,Unknown,1.0
+504,1010572,Ryakwata,Suspension Bridge,-1.57746,30.136540000000004,Northern Province,Gicumbi,0.0,1,1,0.0,0.0,700.0,Rejected,Technical,,Unknown,0.0
+505,1010573,Rwarurema,,-1.59687,30.15019,Northern Province,Gicumbi,0.0,1,1,0.0,0.0,1100.0,Rejected,Technical,,Unknown,1.0
+506,1010574,Nyagatoma,,-1.564607,30.107231,Northern Province,Gicumbi,0.0,1,1,0.0,0.0,6200.0,Rejected,Social,,Unknown,1.0
+507,1010575,Ryakirayi,,-1.565258,30.110382,Northern Province,Gicumbi,0.0,0,0,,,400.0,Rejected,Social,,Unknown,0.0
+508,1010576,Mugiziza,,-1.554772,30.129922,Northern Province,Gicumbi,0.0,1,1,5.0,2.0,3250.0,Rejected,Social,,Unknown,1.0
+509,1010577,Gahondo,,-1.539721,30.127624,Northern Province,Gicumbi,0.0,1,1,10.0,0.0,1867.0,Rejected,Technical,,Unknown,1.0
+510,1010578,Kwangaruye,Suspension Bridge,-1.6753630000000002,30.097712,Northern Province,Gicumbi,0.0,1,1,0.0,0.0,2940.0,Rejected,Technical,,Unknown,1.0
+511,1010579,Kivugiza (nyange),Suspension Bridge,-1.66842,30.100122,Northern Province,Gicumbi,0.0,1,1,0.0,0.0,2050.0,Rejected,,,Unknown,1.0
+512,1010580,Kavuruga,,-1.5751879999999998,30.144215000000006,Northern Province,Gicumbi,0.0,1,0,0.0,0.0,1460.0,Rejected,Technical,,Unknown,1.0
+513,1010581,Kiruruma,Suspension Bridge,-1.58735,30.14216,Northern Province,Gicumbi,0.0,1,1,4.0,0.0,832.0,Rejected,Technical,,Unknown,0.0
+514,1010583,Ruhango,,-1.65891,30.114194,Northern Province,Gicumbi,0.0,0,0,5.0,,1150.0,Rejected,Social,,Unknown,1.0
+515,1010839,Gasunzu,,-1.506683,30.023419,Northern Province,Gicumbi,0.0,1,1,0.0,0.0,950.0,Rejected,Social,,Unknown,1.0
+516,1010840,Gatare,,-1.455716,30.0494,Northern Province,Gicumbi,0.0,0,0,,,1590.0,Rejected,Technical,,Unknown,1.0
+517,1010842,Gahanda,,-1.621819,30.165954,Northern Province,Gicumbi,0.0,1,0,3.0,0.0,2400.0,Rejected,Social,,Unknown,1.0
+518,1010843,Nyarubande-Gatobotobo,Suspended Bridge,-1.6623,30.08107,Northern Province,Gicumbi,0.0,1,1,0.0,0.0,1353.0,Rejected,Technical,,Unknown,1.0
+519,1010844,Rudogo,,-1.729575,30.231912,Northern Province,Gicumbi,0.0,0,0,1.0,0.0,1350.0,Rejected,Social,,Unknown,1.0
+520,1010845,Rugarama,,-1.7724099999999998,30.22087,Northern Province,Gicumbi,0.0,1,1,0.0,0.0,2243.0,Rejected,,,Unknown,1.0
+521,1010846,Nyamirambo 2,,-1.7613299999999998,30.20837,Northern Province,Gicumbi,0.0,0,0,,,1150.0,Rejected,,,Unknown,1.0
+522,1010847,Mayogi,Suspension Bridge,-1.701199,30.209405,Northern Province,Gicumbi,0.0,0,0,,,2200.0,Rejected,Social,,Unknown,1.0
+523,1010849,Rubindi (Kajevuba),,-1.53941,30.00825,Northern Province,Gicumbi,0.0,1,1,,2.0,2498.0,Rejected,Social,,Unknown,1.0
+524,1010908,Rukondo,Suspension Bridge,-1.7146099999999995,30.08255,Northern Province,Gicumbi,0.0,1,1,3.0,0.0,1300.0,Rejected,Technical,,Unknown,1.0
+525,1010915,Rwafandi,Suspension Bridge,-1.71943,30.11859,Northern Province,Gicumbi,0.0,1,1,0.0,0.0,2876.0,Rejected,Technical,,Unknown,1.0
+526,1011302,Bungwe,,-1.92295,29.47887,Western Province,Rutsiro,0.0,0,0,,,825.0,Rejected,Technical,,Unknown,0.0
+527,1011303,Kabona,,-1.9386111,29.45666,Western Province,Rutsiro,0.0,1,1,5.0,0.0,1200.0,Rejected,Technical,,Unknown,1.0
+528,1011304,Nyamakanda,,-1.948219,29.479638,Western Province,Rutsiro,0.0,0,0,,,800.0,Rejected,Technical,,Unknown,0.0
+529,1011305,Rukorobeza,,-1.94222,29.485,Western Province,Rutsiro,0.0,1,1,1.0,0.0,2521.0,Rejected,Technical,,Unknown,1.0
+530,1011306,Nyagatare,,-1.94833,29.493611,Western Province,Rutsiro,0.0,1,1,3.0,2.0,1788.0,Rejected,Technical,,Unknown,1.0
+531,1011308,Gisayo,Suspended Bridge,-1.7775740000000002,29.377044,Western Province,Rutsiro,0.0,1,1,0.0,0.0,400.0,Rejected,Social,,Unknown,0.0
+532,1011311,Busuti,,-1.7553,29.373762,Western Province,Rutsiro,0.0,1,1,5.0,0.0,600.0,Rejected,Local Investment,,Unknown,0.0
+533,1011313,Nyiramusenyi,,-1.94245,29.470675,Western Province,Rutsiro,0.0,0,0,,,1970.0,Rejected,Technical,,Unknown,1.0
+534,1011314,Marimba,,-1.935,29.47888,Western Province,Rutsiro,0.0,1,1,0.0,0.0,700.0,Rejected,Technical,,Unknown,0.0
+535,1011316,Mungoti,,-1.892213,29.456516,Western Province,Rutsiro,0.0,0,0,,,2780.0,Rejected,Technical,,Unknown,1.0
+536,1011330,Ngabira,Suspension Bridge,-1.43057,30.0783,Northern Province,Gicumbi,0.0,1,1,0.0,2.0,906.0,Rejected,Technical,,Unknown,1.0
+537,1011331,Kibaya,Suspension Bridge,-1.70215,30.07467,Northern Province,Gicumbi,0.0,1,1,0.0,0.0,950.0,Rejected,Technical,,Unknown,1.0
+538,1012380,Kadaho,Suspension Bridge,-2.266448,29.647273,Southern Province,Nyanza,0.0,1,1,0.0,2.0,1158.0,Rejected,Social,,Unknown,1.0
+539,1012493,Nyarubande,,-1.65595,30.078840000000003,Northern Province,Gicumbi,0.0,0,0,,,0.0,Rejected,,,Unknown,0.0
+540,1012540,Karuhura ADPR,,-1.7068299999999998,29.91433,Northern Province,Rulindo,0.0,1,1,1.0,1.0,1778.0,Rejected,Technical,,Unknown,1.0
+541,1012543,Gasumo,,-1.88597,29.65868,Western Province,Ngororero,0.0,1,1,0.0,0.0,2162.0,Rejected,Technical,,Unknown,1.0
+542,1012544,Gasovu,,-1.88597,29.651,Western Province,Ngororero,0.0,1,1,4.0,6.0,3850.0,Rejected,Technical,,Unknown,1.0
+543,1012545,Rwasare,,-1.93678,29.63541,Western Province,Ngororero,0.0,1,1,8.0,0.0,1750.0,Rejected,Technical,,Unknown,1.0
+544,1012546,Nyarubande,,-1.88360333,29.62528667,Western Province,Ngororero,0.0,1,1,5.0,0.0,1923.0,Rejected,Technical,,Unknown,1.0
+545,1012547,Nyamigina,,-2.18874,29.69027,Southern Province,Ruhango,0.0,1,1,0.0,0.0,2008.0,Rejected,Technical,,Unknown,1.0
+546,1012549,Gitenga,,-1.668055556,29.80361111,Northern Province,Gakenke,0.0,1,1,2.0,0.0,4500.0,Rejected,Technical,,Unknown,1.0
+547,1012696,Mwishogwe-nyirarushyunda,,-2.4915700000000003,29.42108,Southern Province,Nyamagabe,0.0,1,1,2.0,0.0,2759.0,Rejected,Technical,,Unknown,1.0
+548,1012697,Gashiha,,-2.424161,29.542492,Southern Province,Nyamagabe,0.0,1,1,4.0,3.0,2110.0,Rejected,Technical,,Unknown,1.0
+549,1012698,Kigogo ku ishuri,,-1.59361,30.01151,Northern Province,Gicumbi,0.0,1,1,0.0,0.0,1002.0,Rejected,Technical,,Unknown,1.0
+550,1012699,Kirwa,,-2.22162,29.619770000000006,Southern Province,Ruhango,0.0,1,1,4.0,0.0,827.0,Rejected,Technical,,Unknown,0.0
+551,1012700,Karambi,,-2.22283,29.65287,Southern Province,Ruhango,0.0,1,1,0.0,0.0,2543.0,Rejected,Technical,,Unknown,1.0
+552,1012701,Mataba,,-2.23697,29.73556,Southern Province,Ruhango,0.0,1,1,0.0,0.0,1140.0,Rejected,Technical,,Unknown,1.0
+553,1012797,Mataba,,-1.62068,29.95006,Northern Province,Rulindo,0.0,1,1,3.0,0.0,1060.0,Rejected,Technical,,Unknown,1.0
+554,1012798,Bushyana,,-1.63296,29.93438,Northern Province,Rulindo,0.0,1,1,30.0,0.0,4016.0,Rejected,Technical,,Unknown,1.0
+555,1012799,Nyirantarengwa,,-1.6798400000000002,29.51707,Western Province,Nyabihu,0.0,1,1,2.0,1.0,2272.0,Rejected,Technical,,Unknown,1.0
+556,1012801,Buhoro,,-2.4418,29.44929833,Southern Province,Nyamagabe,0.0,1,1,3.0,2.0,1150.0,Rejected,Technical,,Unknown,1.0
+557,1012802,Gakangaga,,-2.43705833,29.44304667,Southern Province,Nyamagabe,0.0,1,1,0.0,0.0,1100.0,Rejected,Technical,,Unknown,1.0
+558,1012803,Bishyiga,,-2.42353667,29.46039667,Southern Province,Nyamagabe,0.0,1,1,0.0,0.0,1050.0,Rejected,Technical,,Unknown,1.0
+559,1012804,Kabuyenge,,-1.6225,29.66777,Northern Province,Gakenke,0.0,1,1,1.0,0.0,1493.0,Rejected,Local Investment,,Unknown,1.0
+560,1012805,Nkamba,,-2.42504833,29.42907333,Southern Province,Nyamagabe,0.0,1,1,6.0,1.0,1390.0,Rejected,Technical,,Unknown,1.0
+561,1012806,Uwinzovu,,-2.43816,29.39109667,Southern Province,Nyamagabe,0.0,1,1,20.0,2.0,1180.0,Rejected,,,Unknown,1.0
+562,1012808,Nyagashubi,,-2.10805,29.79286,Southern Province,Muhanga,0.0,1,1,5.0,1.0,1570.0,Rejected,Technical,,Unknown,1.0
+563,1012812,Mucyebera,,-1.974166,29.3933,Western Province,Rutsiro,0.0,1,1,9.0,0.0,2600.0,Rejected,Technical,,Unknown,1.0
+564,1012814,Kabiraho,,-1.9775,29.385,Western Province,Rutsiro,0.0,1,1,20.0,0.0,2458.0,Rejected,Technical,,Unknown,1.0
+565,1012818,Cyori,,-2.31818,29.425777000000004,Southern Province,Nyamagabe,0.0,1,1,2.0,0.0,2380.0,Rejected,Technical,,Unknown,1.0
+566,1012819,Rugano-gatare,,-2.367013,29.437399,Southern Province,Nyamagabe,0.0,1,1,1.0,1.0,1982.0,Rejected,Technical,,Unknown,1.0
+567,1012832,Bweramana,,-2.3098,29.69524,Southern Province,Nyanza,0.0,1,1,5.0,0.0,3531.0,Rejected,Technical,,Unknown,1.0
+568,1012833,Karambi,,-2.34876,29.68835,Southern Province,Nyanza,0.0,1,1,0.0,0.0,3637.0,Rejected,Technical,,Unknown,1.0
+569,1012834,Cyahafi,,-2.37584,29.68033,Southern Province,Nyanza,0.0,1,1,0.0,7.0,2887.0,Rejected,Technical,,No,1.0
+570,1012949,Gisiza,,-2.00518138,29.7139582,Southern Province,Muhanga,0.0,1,1,2.0,0.0,3481.0,Rejected,Technical,,Unknown,1.0
+571,1012954,Kinihira,,-1.73435,29.66043,Southern Province,Muhanga,0.0,1,1,50.0,4.0,4456.0,Rejected,Technical,,Unknown,1.0
+572,1012955,Gitega,,-1.77229,29.66985,Southern Province,Muhanga,0.0,1,1,4.0,3.0,3321.0,Rejected,Technical,,No,1.0
+573,1012957,Mbuga Kwa Habuhazi,,-1.78470369,29.68177755,Southern Province,Muhanga,0.0,1,1,7.0,0.0,1631.0,Rejected,Technical,,Unknown,1.0
+574,1012958,Mu Kivogo,,-1.79307191,29.6751037,Southern Province,Muhanga,0.0,1,1,5.0,0.0,1881.0,Rejected,Technical,,No,1.0
+575,1012972,Ku mashuri ya Rushara,,-1.55437,29.852840000000004,Northern Province,Burera,0.0,1,1,0.0,0.0,2789.0,Rejected,Technical,,Unknown,1.0
+576,1012973,Mukigogo,,-1.56439,29.85781,Northern Province,Burera,0.0,1,1,0.0,0.0,2866.0,Rejected,Technical,,Unknown,1.0
+577,1012974,Ryaruhirima,,-1.54643,29.84546,Northern Province,Burera,0.0,1,1,0.0,0.0,2351.0,Rejected,Technical,,Unknown,1.0
+578,1012975,Musave,,-1.55797,29.86744,Northern Province,Burera,0.0,1,1,0.0,0.0,1972.0,Rejected,Technical,,Unknown,1.0
+579,1012976,Kirwa,,-1.57513,29.87746,Northern Province,Burera,0.0,1,1,0.0,0.0,2885.0,Rejected,Technical,,Unknown,1.0
+580,1012977,Ku mashuri ya rubona,,-1.58122,29.88095,Northern Province,Burera,0.0,1,1,1.0,1.0,2700.0,Rejected,Technical,,Unknown,1.0
+581,1012978,Nyiraruganza( Gakereko),,-2.427205,29.475815,Southern Province,Nyamagabe,0.0,1,1,1.0,0.0,2393.0,Rejected,Technical,,Unknown,1.0
+582,1012979,Rwangambibi(Runege),,-2.422048,29.465853000000006,Southern Province,Nyamagabe,0.0,1,1,0.0,0.0,2393.0,Rejected,Technical,,Unknown,1.0
+583,1012981,Nyamugari(kibiraro),,-2.295722,29.551741,Southern Province,Nyamagabe,0.0,1,1,0.0,0.0,2602.0,Rejected,Technical,,Unknown,1.0
+584,1012982,Rugazi(rukeri),,-2.395584,29.487653,Southern Province,Nyamagabe,0.0,1,1,0.0,0.0,2217.0,Rejected,Technical,,Unknown,1.0
+585,1012985,Nyirarukeri (bitaba),,-2.433943,29.46317,Southern Province,Nyamagabe,0.0,1,1,0.0,0.0,3580.0,Rejected,Technical,,Unknown,1.0
+586,1012987,Kano ya mukebera,,-1.9788,29.378611,Western Province,Rutsiro,0.0,1,1,6.0,2.0,818.0,Rejected,Technical,,Unknown,0.0
+587,1012988,Mwishokero,,-1.97027,29.3844,Western Province,Rutsiro,0.0,1,1,0.0,0.0,2794.0,Rejected,Technical,,Unknown,1.0
+588,1012989,Mucyebera,,-1.93166,29.4955,Western Province,Rutsiro,0.0,1,1,2.0,0.0,2476.0,Rejected,Technical,,Unknown,1.0
+589,1012990,Nyamazi,,-1.975,29.38805,Western Province,Rutsiro,0.0,1,1,2.0,0.0,1250.0,Rejected,Technical,,Unknown,1.0
+590,1012991,Bisomera 1,,-1.9222,29.473611,Western Province,Rutsiro,0.0,1,1,0.0,0.0,2048.0,Rejected,Technical,,Unknown,1.0
+591,1012992,Minaga-Mujerenge,,-2.4595700000000003,29.42245333,Southern Province,Nyamagabe,0.0,1,1,0.0,0.0,4790.0,Rejected,Technical,,Unknown,1.0
+592,1012993,Kinaba-Subukiniro,,-2.4868900000000003,29.416145,Southern Province,Nyamagabe,0.0,1,1,6.0,5.0,4502.0,Rejected,Technical,,Unknown,1.0
+593,1012994,Karambo-Twiya 1,,-2.37318833,29.42095333,Southern Province,Nyamagabe,0.0,1,1,14.0,2.0,3607.0,Rejected,Technical,,Unknown,1.0
+594,1012995,Karambo-Twiya 2,,-2.37023167,29.42249833,Southern Province,Nyamagabe,0.0,1,1,14.0,2.0,3547.0,Rejected,Technical,,Unknown,1.0
+595,1012996,Karambo-Gituntu,,-2.368775,29.42337667,Southern Province,Nyamagabe,0.0,1,1,15.0,2.0,3154.0,Rejected,Technical,,Unknown,1.0
+596,1012998,Gasenge-Mubezi,,-2.52520667,29.50410667,Southern Province,Nyamagabe,0.0,1,1,5.0,0.0,3455.0,Rejected,Technical,,Unknown,1.0
+597,1012999,Baziro-Gishenge,,-2.34743667,29.4097,Southern Province,Nyamagabe,0.0,1,1,3.0,3.0,2744.0,Rejected,Technical,,Unknown,1.0
+598,1013000,Baziro-Kivumu,,-2.35571333,29.4072,Southern Province,Nyamagabe,0.0,1,1,4.0,3.0,2728.0,Rejected,Technical,,Unknown,1.0
+599,1013001,Murembo-Kiyovu,,-2.373135,29.40052667,Southern Province,Nyamagabe,0.0,1,1,7.0,3.0,3924.0,Rejected,Technical,,Unknown,1.0
+600,1013002,Muturirwa,,-2.26129,29.74834,Southern Province,Nyanza,0.0,1,1,0.0,0.0,3723.0,Rejected,Technical,,Unknown,1.0
+601,1013003,Muhazi,,-2.27217,29.76871,Southern Province,Nyanza,0.0,1,1,0.0,0.0,2093.0,Rejected,Technical,,Unknown,1.0
+602,1013004,Rutete,,-2.28832,29.75688,Southern Province,Nyanza,0.0,1,1,0.0,0.0,2810.0,Rejected,Technical,,Unknown,1.0
+603,1013005,Kinyinya,,-2.2864,29.734140000000004,Southern Province,Nyanza,0.0,1,1,12.0,0.0,3381.0,Rejected,Technical,,Unknown,1.0
+604,1013006,Mataba,,-2.28569,29.71634,Southern Province,Nyanza,0.0,1,1,50.0,0.0,5453.0,Rejected,Technical,,Unknown,1.0
+605,1013007,Kavure,,-2.28603,29.67857,Southern Province,Nyanza,0.0,1,1,0.0,0.0,2399.0,Rejected,Technical,,Unknown,1.0
+606,1013008,Ndago,,-2.3593900000000003,29.6848,Southern Province,Nyanza,0.0,1,1,0.0,6.0,2306.0,Rejected,Technical,,Unknown,1.0
+607,1013009,Kubateri,,-2.39148,29.693690000000004,Southern Province,Nyanza,0.0,1,1,1.0,0.0,3704.0,Rejected,Technical,,Unknown,1.0
+608,1013010,Kagina,,-2.34749,29.79864,Southern Province,Nyanza,0.0,1,1,20.0,0.0,4286.0,Rejected,Technical,,Unknown,1.0
+609,1013012,Buhaza,,-2.33834,29.841040000000003,Southern Province,Nyanza,0.0,1,1,2.0,0.0,7973.0,Rejected,Technical,,Unknown,1.0
+610,1013013,Bigugu,,-2.3803400000000003,29.86227,Southern Province,Nyanza,0.0,1,1,0.0,0.0,7734.0,Rejected,Technical,,Unknown,1.0
+611,1013014,Nyakagende,,-2.37474,29.86776,Southern Province,Nyanza,0.0,1,1,21.0,0.0,7734.0,Rejected,Technical,,Unknown,1.0
+612,1013015,Nyamiyaga,,-2.34365,29.72707,Southern Province,Nyanza,0.0,1,1,100.0,0.0,7504.0,Rejected,Technical,,Unknown,1.0
+613,1013018,Bugarama,,-1.61591,29.45511,Western Province,Nyabihu,0.0,1,1,4.0,0.0,4650.0,Rejected,Technical,,Unknown,1.0
+614,1013019,Bukinanyana,,-1.6637400000000002,29.4215,Western Province,Nyabihu,0.0,1,1,4.0,3.0,2098.0,Rejected,Technical,,Unknown,1.0
+615,1013020,Kinaba,,-1.6876400000000005,29.5561,Western Province,Nyabihu,0.0,1,1,6.0,0.0,4352.0,Rejected,Technical,,Unknown,1.0
+616,1013021,Kamiranzovu,,-1.6798099999999998,29.58516,Western Province,Nyabihu,0.0,0,0,,,1.0,Rejected,Technical,,Unknown,0.0
+617,1013022,Rwanika,,-1.67288,29.57468,Western Province,Nyabihu,0.0,1,1,2.0,0.0,1677.0,Rejected,Technical,,Unknown,1.0
+618,1013023,Kidandari,,-1.6693900000000002,29.59021,Western Province,Nyabihu,0.0,1,1,1.0,0.0,3563.0,Rejected,Technical,,Unknown,1.0
+619,1013024,Bihira,,-1.63099,29.58643,Western Province,Nyabihu,0.0,1,1,0.0,2.0,2186.0,Rejected,Technical,,Unknown,1.0
+620,1013026,Rwamigega,,-1.67288,29.57468,Western Province,Nyabihu,0.0,1,1,5.0,0.0,2848.0,Rejected,Technical,,Unknown,1.0
+621,1013027,Murambi,,,,Western Province,Nyabihu,0.0,0,0,,2.0,1.0,Rejected,Technical,,Unknown,0.0
+622,1013028,Nyiragakokora,,-1.68216,29.46831,Western Province,Nyabihu,0.0,1,1,2.0,1.0,1630.0,Rejected,Technical,,Unknown,1.0
+623,1013216,Kirwa,,-2.53163167,29.53586,Southern Province,Nyamagabe,0.0,1,1,2.0,1.0,3838.0,Rejected,Technical,,Unknown,1.0
+624,1013217,Gasenge,,-2.53568,29.5136,Southern Province,Nyamagabe,0.0,1,1,4.0,3.0,3243.0,Rejected,Technical,,Unknown,1.0
+625,1013219,Kigarama,,-2.500105,29.56810167,Southern Province,Nyamagabe,0.0,1,1,0.0,1.0,2894.0,Rejected,Technical,,Unknown,1.0
+626,1013221,Ryanyirataba,,-2.50142333,29.555740000000004,Southern Province,Nyamagabe,0.0,1,1,5.0,1.0,3151.0,Rejected,Technical,,Unknown,1.0
+627,1013223,Gafuro ya 2,,-1.51139,29.81161,Northern Province,Burera,0.0,1,1,0.0,1.0,1594.0,Rejected,Technical,,Unknown,1.0
+628,1013224,Kinyovu,,-2.50159333,29.54305167,Southern Province,Nyamagabe,0.0,1,1,4.0,0.0,3217.0,Rejected,Technical,,Unknown,1.0
+629,1013227,Gafuro ya 1,,-1.5128700000000002,29.8126,Northern Province,Burera,0.0,1,1,0.0,1.0,1594.0,Rejected,Technical,,Unknown,1.0
+630,1013228,Ku gatare,,-1.55931,29.88196,Northern Province,Burera,0.0,1,1,2.0,0.0,3390.0,Rejected,Technical,,Unknown,1.0
+631,1013229,Kwa magorwa,,-1.59194,29.89186,Northern Province,Burera,0.0,1,1,1.0,0.0,1709.0,Rejected,Technical,,Unknown,1.0
+632,1013230,Kwa mizerero,,-1.605,29.89527,Northern Province,Burera,0.0,1,1,1.0,0.0,1598.0,Rejected,Technical,,Unknown,1.0
+633,1013232,Kwa mudahindwa,,-1.5953700000000002,29.89217,Northern Province,Burera,0.0,1,1,0.0,0.0,1709.0,Rejected,Technical,,Unknown,1.0
+634,1013234,Cyabami (kwa jerome),,-1.6020299999999998,29.89157,Northern Province,Burera,0.0,1,1,0.0,1.0,1994.0,Rejected,Technical,,Unknown,1.0
+635,1013235,Kwa Sibomana,,-1.59993,29.85702,Northern Province,Burera,0.0,1,1,20.0,1.0,3759.0,Rejected,Technical,,Unknown,1.0
+636,1013236,Rugarama,,-1.59631,29.857190000000006,Northern Province,Burera,0.0,1,1,0.0,0.0,3054.0,Rejected,Technical,,Unknown,1.0
+637,1013237,Kwa mvunabandi,,-1.61204,29.862990000000003,Northern Province,Burera,0.0,1,1,15.0,0.0,5421.0,Rejected,Technical,,Unknown,1.0
+638,1013238,Kwa Rwanziye,,-1.6070799999999998,29.858970000000006,Northern Province,Burera,0.0,1,1,1.0,0.0,2451.0,Rejected,Technical,,Unknown,1.0
+639,1013239,Kigeyo ya 2,,-1.5999,29.88097,Northern Province,Burera,0.0,1,1,0.0,0.0,2952.0,Rejected,Technical,,Unknown,1.0
+640,1013240,Kabubandi (Kwa mutayumba),,-1.6032,29.85826,Northern Province,Burera,0.0,1,1,16.0,0.0,3884.0,Rejected,Technical,,Unknown,1.0
+641,1013241,Nyamusanze,,-1.758679,29.8733,Northern Province,Burera,0.0,1,1,0.0,0.0,2789.0,Rejected,Technical,,Unknown,1.0
+642,1013242,Kwa nshoboye,,-1.59526,29.87748,Northern Province,Burera,0.0,1,1,0.0,0.0,2952.0,Rejected,Technical,,Unknown,1.0
+643,1013243,Kwa Rucagu,,-1.59855,29.89346,Northern Province,Burera,0.0,0,0,0.0,0.0,955.0,Rejected,,,Unknown,1.0
+644,1013244,Mubarame,,-1.58391,29.85683,Northern Province,Burera,0.0,0,0,0.0,0.0,970.0,Rejected,,,Unknown,1.0
+645,1013245,Kigeyo ya 1 (Butambi),,-1.60154,29.88182,Northern Province,Burera,0.0,0,0,0.0,0.0,1976.0,Rejected,,,Unknown,1.0
+646,1013246,Kidomo,,-1.5650700000000002,29.83916,Northern Province,Burera,0.0,1,1,3.0,1.0,0.0,Rejected,Technical,,Unknown,0.0
+647,1013247,Gisayo,,-2.01790012,29.67739076,Southern Province,Muhanga,0.0,1,1,2.0,0.0,2127.0,Rejected,Technical,,Unknown,1.0
+648,1013248,Gatura,,-2.0118896,29.68145493,Southern Province,Muhanga,0.0,1,1,3.0,1.0,2923.0,Rejected,Technical,,Unknown,1.0
+649,1013249,Kucyuzi,,-2.03657322,29.66738107,Southern Province,Muhanga,0.0,1,1,9.0,1.0,1960.0,Rejected,Technical,,Unknown,1.0
+650,1013250,Gahama,,-2.0290507,29.69007869,Southern Province,Muhanga,0.0,1,1,3.0,0.0,4191.0,Rejected,Technical,,Unknown,1.0
+651,1013251,Gasharu,,-2.02696824,29.69545811,Southern Province,Muhanga,0.0,1,1,4.0,0.0,3705.0,Rejected,Technical,,Unknown,1.0
+652,1013252,Budashya,,-1.83974569,29.70503476,Southern Province,Muhanga,0.0,1,1,12.0,2.0,1187.0,Rejected,Technical,,Unknown,1.0
+653,1013253,Cyuzu,,-1.85356287,29.67139626,Southern Province,Muhanga,0.0,1,1,3.0,0.0,3270.0,Rejected,Technical,,Unknown,1.0
+654,1013254,Nyakirambo,,-1.8784817,29.69778352,Southern Province,Muhanga,0.0,1,1,6.0,0.0,2307.0,Rejected,Technical,,Unknown,1.0
+655,1013255,Kwa Munyarubuga,,-1.87302569,29.67017014,Southern Province,Muhanga,0.0,1,1,7.0,6.0,3103.0,Rejected,,,Unknown,1.0
+656,1013257,Mu Gisuma,,-1.81917977,29.69307801,Southern Province,Muhanga,0.0,1,1,3.0,0.0,2959.0,Rejected,Technical,,Unknown,1.0
+657,1013258,Burumba,,-1.81408288,29.67507767,Southern Province,Muhanga,0.0,1,1,6.0,0.0,2471.0,Rejected,Technical,,Unknown,1.0
+658,1013259,Musenyi,,-2.01273958,29.69851613,Southern Province,Muhanga,0.0,1,1,3.0,2.0,2660.0,Rejected,Social,,Unknown,1.0
+659,1013260,Munazi,,-2.01273958,29.69851613,Southern Province,Muhanga,0.0,1,1,2.0,0.0,2581.0,Rejected,Technical,,Unknown,1.0
+660,1013261,Ku Gatare,,-1.99297066,29.68900376,Southern Province,Muhanga,0.0,1,1,3.0,0.0,2350.0,Rejected,Technical,,Unknown,1.0
+661,1013262,Nyamugari,,-1.99009157,29.667002,Southern Province,Muhanga,0.0,1,1,2.0,0.0,2180.0,Rejected,Technical,,Unknown,1.0
+662,1013268,Sheni,,-2.40452,29.83705,Southern Province,Nyanza,0.0,1,1,0.0,0.0,3112.0,Rejected,Technical,,Unknown,1.0
+663,1013269,Nyabugugu,,-2.33172,29.88638,Southern Province,Nyanza,0.0,1,1,0.0,0.0,3642.0,Rejected,Technical,,Unknown,1.0
+664,1013270,Gateme,,-2.35699,29.93402,Southern Province,Nyanza,0.0,1,1,0.0,0.0,2037.0,Rejected,Technical,,Unknown,1.0
+665,1013271,Kigufi,,-2.33736,29.8197,Southern Province,Nyanza,0.0,1,1,0.0,0.0,2054.0,Rejected,Technical,,Unknown,1.0
+666,1013272,Nyakagende,,-2.29712,29.93744,Southern Province,Nyanza,0.0,1,1,100.0,0.0,3284.0,Rejected,Technical,,Unknown,1.0
+667,1013274,Marongi,,-2.30781,29.814840000000004,Southern Province,Nyanza,0.0,1,1,12.0,5.0,6724.0,Rejected,Technical,,Unknown,1.0
+668,1013276,Rwanamiza,,-2.3084,29.88881,Southern Province,Nyanza,0.0,1,1,100.0,0.0,4791.0,Rejected,Technical,,Unknown,1.0
+669,1013277,Seyi,,-2.45455,29.85668,Southern Province,Nyanza,0.0,1,1,0.0,0.0,3261.0,Rejected,Technical,,Unknown,1.0
+670,1013278,Ntebe,,-2.45118,29.87035,Southern Province,Nyanza,0.0,1,1,0.0,5.0,1764.0,Rejected,Technical,,Unknown,1.0
+671,1013279,Cyiri,,-2.45403,29.84815,Southern Province,Nyanza,0.0,1,1,100.0,20.0,4264.0,Rejected,Technical,,Unknown,1.0
+672,1013280,Mukinyogo,,,,Southern Province,Nyamagabe,0.0,0,0,0.0,0.0,650.0,Rejected,,,Unknown,0.0
+673,1013282,Gasagara,,-2.28862,29.604975,Southern Province,Nyamagabe,0.0,1,1,0.0,0.0,2356.0,Rejected,Technical,,Unknown,1.0
+674,1013283,Gitega,,-2.335233,29.499042,Southern Province,Nyamagabe,0.0,1,1,1.0,1.0,2445.0,Rejected,Technical,,Unknown,1.0
+675,1013284,Bamba,,-2.337125,29.525828000000004,Southern Province,Nyamagabe,0.0,1,1,0.0,0.0,2338.0,Rejected,Social,,Unknown,1.0
+676,1013285,Nyakabingo,,-2.37564,29.490052,Southern Province,Nyamagabe,0.0,1,1,0.0,0.0,2170.0,Rejected,Technical,,Unknown,1.0
+677,1013286,Nyamugari,,-2.37027,29.484132,Southern Province,Nyamagabe,0.0,1,1,1.0,1.0,2170.0,Rejected,Technical,,Unknown,1.0
+678,1013287,Gafukuru,,-2.331309,29.535533,Southern Province,Nyamagabe,0.0,1,1,0.0,0.0,3130.0,Rejected,Technical,,Unknown,1.0
+679,1013288,Cyamuhinda,,-2.290274,29.569592,Southern Province,Nyamagabe,0.0,1,1,0.0,0.0,2634.0,Rejected,Social,,Unknown,1.0
+680,1013290,Kigarama,,-2.271943,29.514311,Southern Province,Nyamagabe,0.0,1,1,3.0,3.0,2873.0,Rejected,Technical,,Unknown,1.0
+681,1013293,Kamurera,,,,Northern Province,Musanze,0.0,0,0,1.0,1.0,876.0,Rejected,,,Unknown,1.0
+682,1013294,Gakoro,,,,Northern Province,Musanze,0.0,0,0,,,1345.0,Rejected,,,Unknown,1.0
+683,1013295,Runyangwe,,,,Northern Province,Musanze,0.0,0,0,,,976.0,Rejected,,,Unknown,1.0
+684,1013296,Rugari 2,,,,Northern Province,Musanze,0.0,0,0,0.0,0.0,876.0,Rejected,,,Unknown,1.0
+685,1013301,Kukamagi,,-1.585599,29.749456,Northern Province,Musanze,0.0,1,1,0.0,0.0,2142.0,Rejected,Technical,,Unknown,1.0
+686,1013305,Kabuba,,-1.583976,29.74787,Northern Province,Musanze,0.0,1,1,0.0,0.0,2142.0,Rejected,Technical,,Unknown,1.0
+687,1013309,Kamisave~kukibuga,,-1.562608,29.705632,Northern Province,Musanze,0.0,0,0,,,1516.0,Rejected,Social,,Unknown,1.0
+688,1013311,Pansezi,,-1.545719,29.672590000000003,Northern Province,Musanze,0.0,1,1,1.0,1.0,4146.0,Rejected,Technical,,Unknown,1.0
+689,1013312,Bigeshi,,-1.557449,29.728546,Northern Province,Musanze,0.0,1,1,0.0,0.0,1800.0,Rejected,Technical,,Unknown,1.0
+690,1013313,Gatare,,-1.5664049999999998,29.731918,Northern Province,Musanze,0.0,1,1,0.0,0.0,2351.0,Rejected,Technical,,Unknown,1.0
+691,1013314,Gatare2,,-1.576444,29.728154,Northern Province,Musanze,0.0,0,0,,,1114.0,Rejected,Technical,,Unknown,1.0
+692,1013315,Kabashima-mikamo,,-1.536183,29.706608000000006,Northern Province,Musanze,0.0,1,1,1.0,1.0,2936.0,Rejected,Technical,,Unknown,1.0
+693,1013316,Zihare,,-1.50342,29.95362,Northern Province,Burera,0.0,1,1,3.0,0.0,4869.0,Rejected,Technical,,Unknown,1.0
+694,1013317,Buzaniro,,-1.50145,29.95181,Northern Province,Burera,0.0,1,1,2.0,0.0,1434.0,Rejected,Technical,,Unknown,1.0
+695,1013318,Kwa musakiranya,,-1.56761,29.99711,Northern Province,Burera,0.0,1,1,0.0,1.0,3383.0,Rejected,Technical,,Unknown,1.0
+696,1013319,Kivumo,,-1.49022,29.95422,Northern Province,Burera,0.0,1,1,0.0,0.0,1205.0,Rejected,Technical,,Unknown,1.0
+697,1013320,Rusuzuma,,-1.49763,29.80603,Northern Province,Burera,0.0,1,1,4.0,1.0,3880.0,Rejected,Technical,,Unknown,1.0
+698,1013321,Kwa moja,,-1.52521,29.78268,Northern Province,Burera,0.0,1,1,0.0,0.0,4327.0,Rejected,Technical,,Unknown,1.0
+699,1013322,Mushubi,,-1.5298200000000002,29.85156,Northern Province,Burera,0.0,1,1,0.0,0.0,6566.0,Rejected,Technical,,Unknown,1.0
+700,1013323,Tangata,,-1.51042,29.8463,Northern Province,Burera,0.0,1,1,0.0,0.0,3991.0,Rejected,Technical,,Unknown,1.0
+701,1013324,Burindwa,,-1.5088700000000002,29.84577,Northern Province,Burera,0.0,1,1,0.0,0.0,4393.0,Rejected,Technical,,Unknown,1.0
+702,1013325,Ruheka,,-1.59185,29.923,Northern Province,Burera,0.0,1,1,0.0,2.0,2627.0,Rejected,Technical,,Unknown,1.0
+703,1013326,Kwa kabandwa,,-1.55462,29.98703,Northern Province,Burera,0.0,1,1,0.0,0.0,3422.0,Rejected,Technical,,Unknown,1.0
+704,1013327,Kwa Bizimana,,-1.55547,29.98941,Northern Province,Burera,0.0,1,1,0.0,0.0,3422.0,Rejected,Technical,,Unknown,1.0
+705,1013328,Kwa rangira,,-1.59045,29.93291,Northern Province,Burera,0.0,0,0,4.0,0.0,762.0,Rejected,,,Unknown,0.0
+706,1013329,Rugarama,,-1.50973,29.92132,Northern Province,Burera,0.0,0,0,0.0,0.0,1391.0,Rejected,,,Unknown,1.0
+707,1013330,Mu rubuye,,-1.5145,29.79785,Northern Province,Burera,0.0,0,0,0.0,0.0,526.0,Rejected,,,Unknown,0.0
+708,1013331,Nyabusunzu,,-2.4851,29.809040000000003,Southern Province,Huye,0.0,1,1,0.0,5.0,4275.0,Rejected,Technical,,Unknown,1.0
+709,1013332,Rubanga,,-2.46826,29.77101,Southern Province,Huye,0.0,1,1,1.0,0.0,4831.0,Rejected,Technical,,Unknown,1.0
+710,1013333,Ruvugizo,,-2.3965,29.79099,Southern Province,Huye,0.0,1,1,0.0,0.0,1701.0,Rejected,Technical,,Unknown,1.0
+711,1013334,Kibiraro,,-2.43844,29.7937,Southern Province,Huye,0.0,1,1,0.0,0.0,3500.0,Rejected,Technical,,Unknown,1.0
+712,1013335,Rugarama,,-2.4812,29.741290000000006,Southern Province,Huye,0.0,1,1,0.0,0.0,1554.0,Rejected,Technical,,Unknown,1.0
+713,1013336,Musonga,,-2.48378,29.68794,Southern Province,Huye,0.0,1,1,0.0,0.0,2945.0,Rejected,Technical,,Unknown,1.0
+714,1013337,Akanyana,,-2.49432,29.735090000000003,Southern Province,Huye,0.0,1,1,30.0,0.0,5277.0,Rejected,Technical,,Unknown,1.0
+715,1013338,Nyarutovu,,-2.44354,29.7827,Southern Province,Huye,0.0,1,1,1.0,0.0,4308.0,Rejected,Technical,,Unknown,1.0
+716,1013340,Gahana,,-2.38471,29.76592,Southern Province,Huye,0.0,1,1,50.0,2.0,2290.0,Rejected,Technical,,Unknown,1.0
+717,1013342,Kibaribari,,-1.537665,29.700128000000007,Northern Province,Musanze,0.0,1,1,1.0,1.0,2936.0,Rejected,Technical,,Unknown,1.0
+718,1013343,Bukane,,-1.497265,29.616601,Northern Province,Musanze,0.0,1,1,2.0,2.0,6321.0,Rejected,Technical,,Unknown,1.0
+719,1013345,Kageyo,,-1.491395,29.626729,Northern Province,Musanze,0.0,1,1,1.0,1.0,8280.0,Rejected,Technical,,Unknown,1.0
+720,1013363,Rwangege,,-1.60288,29.59389,Western Province,Nyabihu,0.0,1,1,2.0,0.0,2849.0,Rejected,Technical,,Unknown,1.0
+721,1013366,Ruyebe,,-1.6503599999999998,29.52165,Western Province,Nyabihu,0.0,1,1,2.0,0.0,2671.0,Rejected,Technical,,Unknown,1.0
+722,1013367,Mashyuza,,-1.64985,29.522890000000004,Western Province,Nyabihu,0.0,1,1,1.0,0.0,2025.0,Rejected,Technical,,Unknown,1.0
+723,1013368,Rubare,,-1.59466,29.471840000000004,Western Province,Nyabihu,0.0,1,1,2.0,0.0,3159.0,Rejected,Technical,,Unknown,1.0
+724,1013369,Matyazo,,-1.64694,29.47735,Western Province,Nyabihu,0.0,1,1,5.0,0.0,4288.0,Rejected,Technical,,No,1.0
+725,1013370,Rushungura,,-1.6286200000000002,29.47369,Western Province,Nyabihu,0.0,1,1,3.0,0.0,2862.0,Rejected,Technical,,Unknown,1.0
+726,1013371,Gisozi,,-1.6145200000000002,29.47951,Western Province,Nyabihu,0.0,0,0,0.0,0.0,1000.0,Rejected,Technical,,Unknown,1.0
+727,1013372,RunyanjaII,,-1.61142,29.472890000000003,Western Province,Nyabihu,0.0,1,1,10.0,2.0,4855.0,Rejected,Technical,,Unknown,1.0
+728,1013373,RunyanjaI,,-1.60836,29.47061,Western Province,Nyabihu,0.0,1,1,4.0,0.0,2887.0,Rejected,Technical,,Unknown,1.0
+729,1013375,Ruhigiro,,-1.65254,29.4929,Western Province,Nyabihu,0.0,1,1,3.0,0.0,1320.0,Rejected,Technical,,Unknown,1.0
+730,1013379,Gatagara,,-1.62934,29.4568,Western Province,Nyabihu,0.0,1,1,10.0,0.0,2017.0,Rejected,Technical,,Unknown,1.0
+731,1013380,Nyagasozi,,-1.62865,29.61529,Western Province,Nyabihu,0.0,1,1,6.0,0.0,4946.0,Rejected,Technical,,Unknown,1.0
+732,1013381,Nyagihinga,,-1.6562400000000002,29.42214,Western Province,Nyabihu,0.0,1,1,0.0,1.0,2528.0,Rejected,Technical,,Unknown,1.0
+733,1013382,Busasamana,,-1.61593,29.45548,Western Province,Nyabihu,0.0,1,1,3.0,0.0,1678.0,Rejected,Technical,,Unknown,1.0
+734,1013383,Kabahendanyi,,-1.6243299999999998,29.59547,Western Province,Nyabihu,0.0,0,0,,,1064.0,Rejected,Technical,,Unknown,1.0
+735,1013384,Bwumba,,-1.61143,29.578290000000006,Western Province,Nyabihu,0.0,1,1,2.0,0.0,3312.0,Rejected,Technical,,Unknown,1.0
+736,1013385,Gasayo,,-1.61454,29.5842,Western Province,Nyabihu,0.0,1,1,12.0,0.0,4424.0,Rejected,Technical,,Unknown,1.0
+737,1013386,Murengere,,-1.62778,29.59093,Western Province,Nyabihu,0.0,1,1,0.0,0.0,3334.0,Rejected,Technical,,Unknown,1.0
+738,1013387,Mucaca,,-1.62606,29.60041,Western Province,Nyabihu,0.0,1,1,3.0,0.0,1864.0,Rejected,Technical,,Unknown,1.0
+739,1013388,RuhigiroKibundi,,-1.65113,29.491840000000003,Western Province,Nyabihu,0.0,0,0,,,720.0,Rejected,Technical,,Unknown,0.0
+740,1013389,Nyacyonga,,-1.57778,29.47565,Western Province,Nyabihu,0.0,1,1,3.0,0.0,4139.0,Rejected,Technical,,Unknown,1.0
+741,1013390,Nyakiriba,,-1.63183,29.60816,Western Province,Nyabihu,0.0,0,0,,,1000.0,Rejected,Technical,,Unknown,1.0
+742,1013391,Ruyebe-cyanika,,-1.66123,29.52429,Western Province,Nyabihu,0.0,1,1,1.0,0.0,1.0,Rejected,Technical,,Unknown,0.0
+743,1013413,Gatandaganya,,-2.39137,29.52399167,Southern Province,Nyamagabe,0.0,1,1,0.0,0.0,2136.0,Rejected,Technical,,Unknown,1.0
+744,1013414,Nyamirama,,-2.385695,29.54770167,Southern Province,Nyamagabe,0.0,1,1,0.0,0.0,2504.0,Rejected,Technical,,Unknown,1.0
+745,1013415,Nyamifumba,,-2.46756167,29.55258167,Southern Province,Nyamagabe,0.0,1,1,0.0,2.0,4139.0,Rejected,Technical,,Unknown,1.0
+746,1013416,Butare,,-2.3796,29.6106633,Southern Province,Nyamagabe,0.0,1,1,2.0,0.0,2252.0,Rejected,Technical,,Unknown,1.0
+747,1013417,Ruseke,,-2.372525,29.6006183,Southern Province,Nyamagabe,0.0,1,1,0.0,0.0,2668.0,Rejected,Technical,,Unknown,1.0
+748,1013418,Gatare,,-2.46321833,29.63056167,Southern Province,Nyamagabe,0.0,1,1,0.0,2.0,2425.0,Rejected,Technical,,Unknown,1.0
+749,1013419,Kanyege,,-2.396595,29.549835,Southern Province,Nyamagabe,0.0,1,1,0.0,0.0,2530.0,Rejected,Technical,,Unknown,1.0
+750,1013420,Kinyana,,-2.37946833,29.54139167,Southern Province,Nyamagabe,0.0,1,1,0.0,0.0,2384.0,Rejected,Technical,,Unknown,1.0
+751,1013421,Gikomero,,2.442831,29.49934667,Southern Province,Nyamagabe,0.0,0,0,,,0.0,Rejected,Technical,,Unknown,0.0
+752,1013423,Kanyinya,,-2.374415,29.51966667,Southern Province,Nyamagabe,0.0,1,1,2.0,0.0,3246.0,Rejected,Technical,,Unknown,1.0
+753,1013424,Zigati,,-2.39188167,29.52233833,Southern Province,Nyamagabe,0.0,1,1,0.0,0.0,2136.0,Rejected,Technical,,Unknown,1.0
+754,1013425,Kabajogo,,-2.48488667,29.57838,Southern Province,Nyamagabe,0.0,1,1,0.0,1.0,4509.0,Rejected,Technical,,Unknown,1.0
+755,1013450,Muganza,,-2.04927,29.5796,Western Province,Ngororero,0.0,1,1,2.0,3.0,3950.0,Rejected,Technical,,Unknown,1.0
+756,1013453,Kiriza,,-2.03409,29.63099,Western Province,Ngororero,0.0,1,1,3.0,12.0,5519.0,Rejected,Technical,,Unknown,1.0
+757,1013454,Nyabisindu,,-2.08128,29.61731,Western Province,Ngororero,0.0,1,1,5.0,2.0,4873.0,Rejected,Technical,,Unknown,1.0
+758,1013456,Cyahafi,,-1.92556,29.60749,Western Province,Ngororero,0.0,1,1,0.0,3.0,3620.0,Rejected,Technical,,No,1.0
+759,1013458,Kireka,,-1.96626,29.57464,Western Province,Ngororero,0.0,1,1,2.0,1.0,4272.0,Rejected,Technical,,Unknown,1.0
+760,1013463,Nyarubuye,,-1.523318,29.691622,Northern Province,Musanze,0.0,1,1,0.0,0.0,2500.0,Rejected,Technical,,Unknown,1.0
+761,1013464,Gakoro~muhe,,-1.530129,29.631873,Northern Province,Musanze,0.0,1,1,1.0,1.0,2166.0,Rejected,Technical,,Unknown,1.0
+762,1013466,Nyabirehe~ Nyarubande,,-1.548732,29.515524,Northern Province,Musanze,0.0,1,1,0.0,0.0,7753.0,Rejected,Technical,,Unknown,1.0
+763,1013467,Nyakanama 2,,-1.527581,29.62739,Northern Province,Musanze,0.0,1,1,1.0,0.0,2786.0,Rejected,Technical,,Unknown,1.0
+764,1013468,Nyakanama 1,,-1.532046,29.62881,Northern Province,Musanze,0.0,1,1,0.0,0.0,2786.0,Rejected,Technical,,Unknown,1.0
+765,1013469,Gakoro 2 ~ Rwebeya,,-1.529524,29.633423,Northern Province,Musanze,0.0,1,1,1.0,1.0,2166.0,Rejected,Technical,,Unknown,1.0
+766,1013470,Bunyereri,,-1.477522,29.714723,Northern Province,Musanze,0.0,1,1,0.0,0.0,6737.0,Rejected,Technical,,Unknown,1.0
+767,1013471,Kidendezi,,-1.47301,29.53233,Northern Province,Musanze,0.0,1,1,1.0,0.0,3926.0,Rejected,Technical,,Unknown,1.0
+768,1013472,Rufugwe,,-1.543877,29.546123,Northern Province,Musanze,0.0,1,1,0.0,0.0,5767.0,Rejected,Technical,,Unknown,1.0
+769,1013473,Nyamiyaga,,-1.43056,29.624836,Northern Province,Musanze,0.0,0,0,0.0,0.0,1510.0,Rejected,Technical,,Unknown,1.0
+770,1013474,Kavumu,,-1.596674,29.658056,Northern Province,Musanze,0.0,1,1,0.0,0.0,2488.0,Rejected,Technical,,Unknown,1.0
+771,1013475,Ruhehe,,-1.535683,29.745093,Northern Province,Musanze,0.0,1,1,1.0,1.0,1352.0,Rejected,Social,,Unknown,1.0
+772,1013478,Gakoro 1,,-1.527416,29.631312,Northern Province,Musanze,0.0,1,1,0.0,0.0,2166.0,Rejected,Technical,,Unknown,1.0
+773,1013480,Kurimurora,,-1.494191,29.715385,Northern Province,Musanze,0.0,0,0,0.0,0.0,1110.0,Rejected,Social,,Unknown,1.0
+774,1013481,Kabuye,,-1.577664,29.654812,Northern Province,Musanze,0.0,0,0,0.0,0.0,567.0,Rejected,Social,,Unknown,0.0
+775,1013482,Rubona,,-2.73310167,29.57745167,Southern Province,Nyaruguru,0.0,1,1,1.0,,4633.0,Rejected,Technical,,Unknown,1.0
+776,1013483,Rutega,,-2.735675,29.59105333,Southern Province,Nyaruguru,0.0,1,1,10.0,0.0,4776.0,Rejected,Technical,,Unknown,1.0
+777,1013484,Resume (kwa Frederick),,-1.37445,29.80846,Northern Province,Burera,0.0,1,1,2.0,3.0,1892.0,Rejected,Technical,,Unknown,1.0
+778,1013487,Karunga,,-1.38143,29.81682,Northern Province,Burera,0.0,1,1,0.0,0.0,1714.0,Rejected,Technical,,Unknown,1.0
+779,1013488,Ku mashuri ya GSNDM Carmel Gahunga,,-1.45014,29.67945,Northern Province,Burera,0.0,1,1,3.0,0.0,3119.0,Rejected,Technical,,Unknown,1.0
+780,1013489,Nyagatoki,,-1.43466,29.6722,Northern Province,Burera,0.0,1,1,0.0,0.0,902.0,Rejected,Technical,,Unknown,1.0
+781,1013490,Kwa Twagira,,-1.46467,29.74894,Northern Province,Burera,0.0,1,1,1.0,0.0,1519.0,Rejected,Social,,Unknown,1.0
+782,1013492,Ku mashuri ya karangara,,-1.42212,29.70465,Northern Province,Burera,0.0,1,1,1.0,0.0,3255.0,Rejected,Technical,,Unknown,1.0
+783,1013493,Mugeshi,,-1.38299,29.71278,Northern Province,Burera,0.0,1,1,3.0,0.0,2398.0,Rejected,Technical,,Unknown,1.0
+784,1013494,Shaga,,-1.34705,29.82387,Northern Province,Burera,0.0,1,1,0.0,1.0,2267.0,Rejected,Technical,,Unknown,1.0
+785,1013495,Kwa Cosma,,-1.32782,29.83106,Northern Province,Burera,0.0,1,1,1.0,0.0,1854.0,Rejected,Technical,,Unknown,1.0
+786,1013497,Nyarubuye,,-1.46659,29.74716,Northern Province,Burera,0.0,1,1,1.0,0.0,1519.0,Rejected,Technical,,Unknown,1.0
+787,1013498,Muranbo,,-1.36675,29.80889,Northern Province,Burera,0.0,0,0,0.0,0.0,2942.0,Rejected,,,Unknown,1.0
+788,1013499,Buharo,,-1.45314,29.73895,Northern Province,Burera,0.0,0,0,0.0,0.0,902.0,Rejected,,,Unknown,1.0
+789,1013500,Kwa ntawitonderisi,,-1.46061,29.74088,Northern Province,Burera,0.0,1,1,0.0,0.0,1241.0,Rejected,Technical,,Unknown,1.0
+790,1013501,Gasumo,,-1.33816,29.818620000000006,Northern Province,Burera,0.0,1,1,0.0,0.0,2889.0,Rejected,Technical,,Unknown,1.0
+791,1013502,Kanyiramana,,-2.48655,29.65746,Southern Province,Huye,0.0,1,1,100.0,5.0,1865.0,Rejected,Requested,,Unknown,1.0
+792,1013503,Cyendajuru,,-2.51947,29.6697,Southern Province,Huye,0.0,1,1,50.0,1.0,2542.0,Rejected,Technical,,Unknown,1.0
+793,1013504,Mariza,,-2.51052,29.70255,Southern Province,Huye,0.0,1,1,0.0,0.0,1178.0,Rejected,Technical,,Unknown,1.0
+794,1013505,Gasekebuye,,-2.63019,29.71337,Southern Province,Huye,0.0,1,1,0.0,0.0,3254.0,Rejected,Technical,,Unknown,1.0
+795,1013506,Kiduha,,-2.61005,29.69215,Southern Province,Huye,0.0,1,1,0.0,0.0,2141.0,Rejected,Technical,,Unknown,1.0
+796,1013507,Nyamapfunda,,-2.63352,29.62583,Southern Province,Huye,0.0,1,1,100.0,0.0,2832.0,Rejected,Technical,,Unknown,1.0
+797,1013508,Nyumba,,-2.66388,29.69276,Southern Province,Huye,0.0,1,1,20.0,0.0,5654.0,Rejected,Technical,,Unknown,1.0
+798,1013509,Gatongati,,-2.5880400000000003,29.67228,Southern Province,Huye,0.0,1,1,0.0,0.0,979.0,Rejected,Technical,,Unknown,1.0
+799,1013510,Kinyamaganga,,-2.61104,29.65406,Southern Province,Huye,0.0,1,1,0.0,0.0,3800.0,Rejected,Technical,,Unknown,1.0
+800,1013540,Rubambira,,-1.82053,29.547590000000003,Western Province,Ngororero,0.0,1,1,3.0,1.0,4403.0,Rejected,Technical,,Unknown,1.0
+801,1013543,Nyarubuye,,-2.10774,29.42038,Western Province,Karongi,0.0,1,1,10.0,3.0,4304.0,Rejected,Technical,,Unknown,1.0
+802,1013544,Kamuhenja,,-2.1067,29.42296,Western Province,Karongi,0.0,1,1,1.0,2.0,2530.0,Rejected,Technical,,Unknown,1.0
+803,1013545,Rukombe,,-2.11248,29.422690000000006,Western Province,Karongi,0.0,1,1,5.0,1.0,4514.0,Rejected,Technical,,Unknown,1.0
+804,1013546,Gasuma,,-2.12787,29.43396,Western Province,Karongi,0.0,1,1,6.0,0.0,2110.0,Rejected,Technical,,Unknown,1.0
+805,1013548,Nyarukeri,,-2.14404,29.43463,Western Province,Karongi,0.0,1,1,3.0,0.0,4386.0,Rejected,Technical,,Unknown,1.0
+806,1013549,Kwarushishi,,-2.12657,29.45745,Western Province,Karongi,0.0,1,1,1.0,0.0,1642.0,Rejected,Technical,,Unknown,1.0
+807,1013550,Gakoma,,-2.108,29.44281,Western Province,Karongi,0.0,1,1,3.0,1.0,1706.0,Rejected,Technical,,Unknown,1.0
+808,1013551,Gisiza,,-2.11251,29.41945,Western Province,Karongi,0.0,1,1,2.0,1.0,4353.0,Rejected,Technical,,Unknown,1.0
+809,1013552,Karambo,,-2.11217,29.41652,Western Province,Karongi,0.0,1,1,0.0,0.0,2079.0,Rejected,Technical,,Unknown,1.0
+810,1013553,Gisiza Ya Ruhinga,,-2.1158900000000003,29.4245,Western Province,Karongi,0.0,1,1,2.0,0.0,4023.0,Rejected,Technical,,Unknown,1.0
+811,1013554,Nyakibyeyi,,-2.09586,29.3907,Western Province,Karongi,0.0,1,1,2.0,0.0,3131.0,Rejected,Technical,,Unknown,1.0
+812,1013558,Kageyo,,-2.332639,29.249679,Western Province,Nyamasheke,0.0,1,1,8.0,0.0,2571.0,Rejected,Technical,,Unknown,1.0
+813,1013559,Ruzibira,,-2.324086,29.237155,Western Province,Nyamasheke,0.0,1,1,0.0,0.0,2395.0,Rejected,Technical,,Unknown,1.0
+814,1013560,Mugohe~Bugarama,,-2.316496,29.218564,Western Province,Nyamasheke,0.0,1,1,5.0,0.0,4299.0,Rejected,Technical,,Unknown,1.0
+815,1013562,Bisamba,,-2.3235330000000003,29.254731,Western Province,Nyamasheke,0.0,1,1,0.0,0.0,2076.0,Rejected,Technical,,Unknown,1.0
+816,1013563,Peru,,-2.3047470000000003,29.219334000000003,Western Province,Nyamasheke,0.0,1,1,0.0,0.0,2955.0,Rejected,Technical,,No,1.0
+817,1013564,Murambi,,-2.311176,29.239786,Western Province,Nyamasheke,0.0,1,1,1.0,1.0,2829.0,Rejected,Technical,,Unknown,1.0
+818,1013565,Mubitare,,-2.322038,29.247239,Western Province,Nyamasheke,0.0,1,1,3.0,1.0,2043.0,Rejected,Technical,,Unknown,1.0
+819,1013566,Mugasebeya,,-2.251326,29.21786,Western Province,Nyamasheke,0.0,1,1,2.0,1.0,2780.0,Rejected,Technical,,Unknown,1.0
+820,1013567,Gacumbi,Suspension Bridge,-2.26295,29.189909000000004,Western Province,Nyamasheke,0.0,1,1,0.0,0.0,1888.0,Rejected,,,Unknown,1.0
+821,1013569,Murama,,-2.301919,29.242738,Western Province,Nyamasheke,0.0,1,1,4.0,4.0,2889.0,Rejected,Technical,,Unknown,1.0
+822,1013571,Kinamba,,-2.46509,29.94044,Southern Province,Gisagara,0.0,1,1,100.0,0.0,6191.0,Rejected,Technical,,Unknown,1.0
+823,1013572,Runyeshyanga,,-2.40829,29.9468,Southern Province,Gisagara,0.0,1,1,100.0,4.0,5170.0,Rejected,Technical,,Unknown,1.0
+824,1013573,Rwihinda,,-2.434,29.93238,Southern Province,Gisagara,0.0,1,1,0.0,0.0,5191.0,Rejected,Technical,,Unknown,1.0
+825,1013574,Bojo,,-2.50203,29.917140000000003,Southern Province,Gisagara,0.0,1,1,30.0,0.0,5131.0,Rejected,Technical,,Unknown,1.0
+826,1013575,Rwamuzenga,,-2.49883,29.927,Southern Province,Gisagara,0.0,1,1,0.0,0.0,3359.0,Rejected,Technical,,Unknown,1.0
+827,1013577,Nyamiyaga,,-2.52882,29.82786,Southern Province,Gisagara,0.0,1,1,0.0,0.0,1706.0,Rejected,Technical,,Unknown,1.0
+828,1013578,Akarukambira,,-2.4855,29.84336,Southern Province,Gisagara,0.0,1,1,0.0,0.0,2364.0,Rejected,Technical,,Unknown,1.0
+829,1013579,Gatare,,-2.49034,29.875770000000006,Southern Province,Gisagara,0.0,1,1,100.0,0.0,3643.0,Rejected,Technical,,Unknown,1.0
+830,1013580,Gahuru,,-2.5093400000000003,29.90858,Southern Province,Gisagara,0.0,1,1,50.0,0.0,4404.0,Rejected,Technical,,Unknown,1.0
+831,1013595,Bisomera,,-1.9233,29.469722,Western Province,Rutsiro,0.0,1,1,1.0,0.0,1394.0,Rejected,Technical,,Unknown,1.0
+832,1013596,Gitunu,,,,Western Province,Rutsiro,0.0,0,0,0.0,0.0,1.0,Rejected,Technical,,Unknown,0.0
+833,1013599,Cyacika,,-1.74886,29.87465,Northern Province,Gakenke,0.0,1,1,2.0,0.0,1372.0,Rejected,Technical,,Unknown,1.0
+834,1013601,Kabingo,,-1.7309900000000005,29.873520000000006,Northern Province,Gakenke,0.0,1,1,23.0,7.0,1250.0,Rejected,Technical,,Unknown,1.0
+835,1013603,Cyinoni 1,,-1.65105,29.80862,Northern Province,Gakenke,0.0,1,1,3.0,2.0,1892.0,Rejected,Requested,,Unknown,1.0
+836,1013605,Mohora,,-1.97905,29.361790000000006,Western Province,Rutsiro,0.0,1,1,0.0,2.0,921.0,Rejected,Technical,,Unknown,1.0
+837,1013611,Tububuro,,-2.59941667,29.56459167,Southern Province,Nyamagabe,0.0,1,1,5.0,1.0,2579.0,Rejected,Technical,,Unknown,1.0
+838,1013612,Runono,,-2.56125667,29.56492833,Southern Province,Nyaruguru,0.0,1,1,0.0,0.0,4192.0,Rejected,Technical,,Unknown,1.0
+839,1013613,Kintama,,-2.62757667,29.43474,Southern Province,Nyaruguru,0.0,1,1,3.0,3.0,3778.0,Rejected,Technical,,Unknown,1.0
+840,1013614,Ryabidandi,,-2.74995333,29.62531333,Southern Province,Nyaruguru,0.0,1,1,0.0,0.0,4794.0,Rejected,Technical,,Unknown,1.0
+841,1013618,Kwa Ndimurwango,,-1.591966,29.876044,Northern Province,Burera,0.0,1,1,0.0,0.0,2946.0,Rejected,Technical,,Unknown,1.0
+842,1013619,Bwingeyo,,-1.93923,30.46986,Eastern Province,Kayonza,0.0,1,1,0.0,0.0,5481.0,Rejected,Technical,,Unknown,1.0
+843,1013620,Mburabuturo,,-1.90822,30.4727,Eastern Province,Kayonza,0.0,1,1,0.0,0.0,2877.0,Rejected,Technical,,Unknown,1.0
+844,1013621,Bisiniya,,-1.95182,30.59996,Eastern Province,Kayonza,0.0,1,1,0.0,0.0,2969.0,Rejected,Social,,Unknown,1.0
+845,1013622,Barage,,-1.95152,30.599120000000006,Eastern Province,Kayonza,0.0,1,1,0.0,0.0,2969.0,Rejected,Technical,,Unknown,1.0
+846,1013624,Gisiza,,-1.92376,29.32233,Western Province,Rutsiro,0.0,1,1,10.0,0.0,1697.0,Rejected,Technical,,Unknown,1.0
+847,1013625,Kamujyambere,,-1.7631400000000002,29.30402,Western Province,Rutsiro,0.0,1,1,3.0,1.0,1428.0,Rejected,Technical,,Unknown,1.0
+848,1013627,Nyarutovu,,-1.68267,29.67093,Northern Province,Gakenke,0.0,1,1,21.0,0.0,1592.0,Rejected,Technical,,Unknown,1.0
+849,1013629,Mujebeshi,,-1.92009,29.462290000000007,Western Province,Rutsiro,0.0,1,1,3.0,1.0,1561.0,Rejected,Technical,,Unknown,1.0
+850,1013630,Rufungo,,-1.92623,29.44603,Western Province,Rutsiro,0.0,1,1,0.0,0.0,1378.0,Rejected,Technical,,Unknown,1.0
+851,1013631,Kirinja,,-1.87014,29.37139,Western Province,Rutsiro,0.0,1,1,10.0,1.0,1100.0,Rejected,Technical,,Unknown,1.0
+852,1013633,Ruhengeri 2,,-1.88027,29.34277,Western Province,Rutsiro,0.0,1,1,1.0,2.0,519.0,Rejected,Technical,,Unknown,0.0
+853,1013634,Ruhengeri,,-1.880833,29.341388,Western Province,Rutsiro,0.0,1,1,0.0,0.0,1052.0,Rejected,Technical,,Unknown,1.0
+854,1013635,Kagano,,-1.876944,29.348055,Western Province,Rutsiro,0.0,1,1,1.0,0.0,2696.0,Rejected,Technical,,Unknown,1.0
+855,1013636,Rucamahembe,,-1.81695,29.29326,Western Province,Rutsiro,0.0,1,1,4.0,0.0,860.0,Rejected,Technical,,Unknown,1.0
+856,1013637,Rucamahembe2,,-1.81635,29.29171,Western Province,Rutsiro,0.0,1,1,3.0,0.0,850.0,Rejected,Technical,,Unknown,0.0
+857,1013638,Burambo,,-1.80494,29.30232,Western Province,Rutsiro,0.0,1,1,4.0,2.0,6052.0,Rejected,Technical,,Unknown,1.0
+858,1013640,Nganzo,,-1.8054,29.29628,Western Province,Rutsiro,0.0,1,1,0.0,2.0,6052.0,Rejected,Technical,,Unknown,1.0
+859,1013643,Manjanja,,-1.91805,29.43911,Western Province,Rutsiro,0.0,1,1,2.0,0.0,1373.0,Rejected,Technical,,Unknown,1.0
+860,1013644,Musekera,,-1.90752,29.44373,Western Province,Rutsiro,0.0,1,1,0.0,0.0,1541.0,Rejected,Technical,,Unknown,1.0
+861,1013649,Ruvayaga,,-1.85333,29.320833,Western Province,Rutsiro,0.0,1,1,0.0,0.0,1969.0,Rejected,Technical,,Unknown,1.0
+862,1013650,Kayabaraza,,-1.8577,29.3111,Western Province,Rutsiro,0.0,1,1,9.0,1.0,1118.0,Rejected,Technical,,Unknown,1.0
+863,1013651,Kayabaraza 2,,-1.855,29.31,Western Province,Rutsiro,0.0,1,1,2.0,1.0,1010.0,Rejected,Technical,,Unknown,1.0
+864,1013653,Kivumu-nyamugari,,-1.85666,29.290277000000003,Western Province,Rutsiro,0.0,1,1,3.0,0.0,1530.0,Rejected,Technical,,Unknown,1.0
+865,1013655,Nyakagezi-kariba,,-1.84493,29.34447,Western Province,Rutsiro,0.0,1,1,4.0,2.0,635.0,Rejected,Technical,,Unknown,0.0
+866,1013656,Peru,,-1.85047,29.33792,Western Province,Rutsiro,0.0,1,1,2.0,0.0,1815.0,Rejected,Technical,,Unknown,1.0
+867,1013657,Gahotora,,-1.84792,29.33218,Western Province,Rutsiro,0.0,1,1,5.0,4.0,1450.0,Rejected,Technical,,Unknown,1.0
+868,1013659,Rugamba,,-1.8777,29.3219444,Western Province,Rutsiro,0.0,1,1,4.0,0.0,1348.0,Rejected,Technical,,Unknown,1.0
+869,1013660,Kabeza,,-1.87722,29.319444,Western Province,Rutsiro,0.0,1,1,6.0,0.0,484.0,Rejected,Technical,,Unknown,0.0
+870,1013664,Gasoyo,,-1.85645,29.36927,Western Province,Rutsiro,0.0,1,1,0.0,0.0,2403.0,Rejected,Technical,,Unknown,1.0
+871,1013666,Cyinoni 2,,-1.6473799999999998,29.80296,Northern Province,Gakenke,0.0,1,1,0.0,0.0,1364.0,Rejected,Technical,,Unknown,1.0
+872,1013667,Kamuhimba,,-1.6279,29.79311,Northern Province,Gakenke,0.0,1,1,8.0,0.0,870.0,Rejected,Technical,,Unknown,1.0
+873,1013669,Munyege,,-1.6141299999999998,29.79371,Northern Province,Gakenke,0.0,1,1,8.0,0.0,1136.0,Rejected,Technical,,Unknown,1.0
+874,1013671,Mugera,,-1.79797,29.803790000000006,Northern Province,Gakenke,0.0,1,1,2.0,2.0,1340.0,Rejected,Technical,,Unknown,1.0
+875,1013674,Mukati,,-1.86618,29.33919,Western Province,Rutsiro,0.0,1,1,3.0,0.0,1071.0,Rejected,Technical,,Unknown,1.0
+876,1013675,Nyakina,,-1.64821,29.85487,Northern Province,Gakenke,0.0,1,1,0.0,0.0,11408.0,Rejected,Technical,,Unknown,1.0
+877,1013676,Cyondo,,-1.62306,29.86773,Northern Province,Gakenke,0.0,1,1,0.0,8.0,1768.0,Rejected,Technical,,Unknown,1.0
+878,1013677,Rutenderi,,-1.66137,29.84701,Northern Province,Gakenke,0.0,1,1,0.0,1.0,1450.0,Rejected,Technical,,Unknown,1.0
+879,1013679,Ryumuzungu,,-1.76435,29.8756,Northern Province,Gakenke,0.0,1,1,0.0,2.0,1274.0,Rejected,Technical,,Unknown,1.0
+880,1013681,Congori,,-1.79831,29.83496,Northern Province,Gakenke,0.0,1,1,1.0,0.0,1171.0,Rejected,Technical,,Unknown,1.0
+881,1013682,Nyarutovu 2,,-1.68267,29.67093,Northern Province,Gakenke,0.0,1,1,15.0,0.0,892.0,Rejected,Technical,,Unknown,1.0
+882,1013684,Kamubuga,,-1.61659,29.7064,Northern Province,Gakenke,0.0,1,1,8.0,1.0,1400.0,Rejected,Technical,,Unknown,1.0
+883,1013685,Rusenyi,,-1.62252,29.70826,Northern Province,Gakenke,0.0,1,1,5.0,0.0,1550.0,Rejected,Technical,,Unknown,1.0
+884,1013686,Mubatarugera,,-1.61835,29.7302,Northern Province,Gakenke,0.0,1,1,0.0,2.0,1550.0,Rejected,Technical,,Unknown,1.0
+885,1013688,Miraramo,,-2.0312,29.39964,Western Province,Rutsiro,0.0,0,0,,,1.0,Rejected,Technical,,Unknown,0.0
+886,1013689,Nyabutaka kwamuvara,,-1.66377,29.80285,Northern Province,Gakenke,0.0,1,1,0.0,0.0,1510.0,Rejected,Technical,,Unknown,1.0
+887,1013690,Kirebe,,-1.63772,29.81581,Northern Province,Gakenke,0.0,1,1,0.0,0.0,1838.0,Rejected,Technical,,Unknown,1.0
+888,1013691,Ndurumu,,-1.62681,29.80387,Northern Province,Gakenke,0.0,1,1,0.0,1.0,1820.0,Rejected,Technical,,Unknown,1.0
+889,1013693,Nkondo,,-1.9314,30.60922,Eastern Province,Kayonza,0.0,1,1,0.0,0.0,2471.0,Rejected,Social,,Unknown,1.0
+890,1013694,Bisayu2,,-1.46159,29.82579,Northern Province,Burera,0.0,1,1,0.0,0.0,1426.0,Rejected,Technical,,Unknown,1.0
+891,1013695,Ngundu,,-1.45343,29.85064,Northern Province,Burera,0.0,1,1,0.0,0.0,1952.0,Rejected,Technical,,Unknown,1.0
+892,1013697,Murori,,-1.91118,30.56047,Eastern Province,Kayonza,0.0,1,1,2.0,0.0,2871.0,Rejected,Technical,,Unknown,1.0
+893,1013699,Rwamiko~Gitwa,,-2.286079,29.17952,Western Province,Nyamasheke,0.0,1,1,1.0,1.0,8374.0,Rejected,Technical,,Unknown,1.0
+894,1013702,Rumamfu~Mugeyo,,-2.337668,29.186374,Western Province,Nyamasheke,0.0,1,1,4.0,1.0,2617.0,Rejected,Technical,,Unknown,1.0
+895,1013703,Mutongo,,-2.288204,29.197543,Western Province,Nyamasheke,0.0,1,1,0.0,0.0,3734.0,Rejected,Technical,,Unknown,1.0
+896,1013704,Kabeza,,-1.89013,30.611390000000004,Eastern Province,Kayonza,0.0,1,1,0.0,0.0,3695.0,Rejected,Technical,,Unknown,1.0
+897,1013705,Mutembo,,-1.96456,30.66115,Eastern Province,Kayonza,0.0,1,1,0.0,0.0,2269.0,Rejected,Technical,,Unknown,1.0
+898,1013706,Kazeneza,,-2.06686,30.62524,Eastern Province,Kayonza,0.0,1,1,0.0,0.0,1862.0,Rejected,Technical,,Unknown,1.0
+899,1013707,Gikombe,,-2.0901,30.65996,Eastern Province,Kayonza,0.0,1,1,0.0,1.0,1603.0,Rejected,Technical,,Unknown,1.0
+900,1013708,Nyarukore,,-1.5066,29.99458,Northern Province,Burera,0.0,1,1,0.0,0.0,1416.0,Rejected,Technical,,Unknown,1.0
+901,1013709,Sangabuzi,,-1.47722,29.94955,Northern Province,Burera,0.0,1,1,2.0,0.0,1807.0,Rejected,Technical,,Unknown,1.0
+902,1013710,Cyahera,,-1.43601,29.85018,Northern Province,Burera,0.0,1,1,0.0,0.0,964.0,Rejected,Technical,,Unknown,1.0
+903,1013711,Muhozi,,-1.9054,30.55323,Eastern Province,Kayonza,0.0,1,1,0.0,0.0,3654.0,Rejected,Social,,Unknown,1.0
+904,1013712,Ryashyomba,,-2.12346,29.40763,Western Province,Karongi,0.0,1,1,1.0,0.0,3907.0,Rejected,Technical,,Unknown,1.0
+905,1013713,Kamatabaro,,-2.14826,29.46926,Western Province,Karongi,0.0,1,1,0.0,1.0,3917.0,Rejected,Technical,,Unknown,1.0
+906,1013714,Senga,,-2.0824,29.4245,Western Province,Karongi,0.0,1,1,3.0,0.0,4329.0,Rejected,Technical,,Unknown,1.0
+907,1013715,Gitindo,,-2.335284,29.184096000000004,Western Province,Nyamasheke,0.0,1,1,0.0,0.0,1949.0,Rejected,Technical,,Unknown,1.0
+908,1013716,Ruganzu,,-2.319874,29.161228,Western Province,Nyamasheke,0.0,1,1,4.0,4.0,2680.0,Rejected,Technical,,Unknown,1.0
+909,1013720,Karambo,,-2.18681,29.42727,Western Province,Karongi,0.0,1,1,2.0,0.0,3724.0,Rejected,Technical,,Unknown,1.0
+910,1013722,Gitongo,,-2.312095,29.149186,Western Province,Nyamasheke,0.0,0,0,0.0,0.0,1030.0,Rejected,Technical,,Unknown,1.0
+911,1013725,Kivumu,,-2.5914900000000003,29.75931,Southern Province,Gisagara,0.0,1,1,50.0,4.0,2477.0,Rejected,Technical,,Unknown,1.0
+912,1013726,Gaseke,,-2.59415,29.77829,Southern Province,Gisagara,0.0,1,1,0.0,0.0,3182.0,Rejected,Technical,,Unknown,1.0
+913,1013727,Kabogoti,,-2.64711,29.80976,Southern Province,Gisagara,0.0,1,1,0.0,0.0,2305.0,Rejected,Technical,,Unknown,1.0
+914,1013728,Kigarama,,-2.65762,29.81981,Southern Province,Gisagara,0.0,1,1,50.0,0.0,2975.0,Rejected,Technical,,Unknown,1.0
+915,1013729,Cyogo,,-2.56425,29.78521,Southern Province,Gisagara,0.0,1,1,1.0,50.0,3079.0,Rejected,Technical,,Unknown,1.0
+916,1013730,Ingirakamaro,,-2.57166,29.78138,Southern Province,Gisagara,0.0,1,1,100.0,0.0,2751.0,Rejected,Technical,,Unknown,1.0
+917,1013731,Nyakagezi,,-2.55904,29.83055,Southern Province,Gisagara,0.0,1,1,0.0,0.0,2647.0,Rejected,Technical,,Unknown,1.0
+918,1013732,Nyirakimene,,-2.52261,29.86105,Southern Province,Gisagara,0.0,1,1,0.0,0.0,6360.0,Rejected,Technical,,Unknown,1.0
+919,1013733,Runigiro,,-2.51012,29.86378,Southern Province,Gisagara,0.0,1,1,0.0,0.0,2378.0,Rejected,Technical,,Unknown,1.0
+920,1013734,Kabasore,,-2.4919,29.858040000000006,Southern Province,Gisagara,0.0,1,1,0.0,0.0,2248.0,Rejected,Technical,,Unknown,1.0
+921,1013745,Kibuye,,-1.64805,30.01587,Northern Province,Rulindo,0.0,1,1,0.0,0.0,4343.0,Rejected,Technical,,Unknown,1.0
+922,1013746,Karambo,,-1.8472,30.02041,Northern Province,Rulindo,0.0,1,1,3.0,0.0,4418.0,Rejected,Technical,,Unknown,1.0
+923,1013748,Bitare,,-1.82989,29.92981,Northern Province,Rulindo,0.0,1,1,0.0,0.0,2841.0,Rejected,Technical,,Unknown,1.0
+924,1013749,Kigarama,,-1.78679,29.93873,Northern Province,Rulindo,0.0,0,0,,,1000.0,Rejected,Technical,,Unknown,1.0
+925,1013750,Gifumba,,-1.83904,29.97107,Northern Province,Rulindo,0.0,1,1,5.0,0.0,5300.0,Rejected,Technical,,Unknown,1.0
+926,1013751,Kabuye,,-1.79607,29.9438,Northern Province,Rulindo,0.0,1,1,4.0,0.0,1961.0,Rejected,Technical,,Unknown,1.0
+927,1013752,Karenge,,-1.83068,29.90837,Northern Province,Rulindo,0.0,1,1,0.0,0.0,2772.0,Rejected,Technical,,Unknown,1.0
+928,1013753,Kinini/health center,,-1.77387,29.93239,Northern Province,Rulindo,0.0,1,1,2.0,0.0,3356.0,Rejected,Technical,,Unknown,1.0
+929,1013754,Kinini,,-1.75492,29.92516,Northern Province,Rulindo,0.0,1,1,0.0,0.0,4460.0,Rejected,Technical,,Unknown,1.0
+930,1013755,Rutabo,,-1.66643,30.03168,Northern Province,Rulindo,0.0,1,1,0.0,0.0,2552.0,Rejected,Technical,,Unknown,1.0
+931,1013756,Karwa,,-1.83463,30.04618,Northern Province,Rulindo,0.0,0,0,,,1500.0,Rejected,Technical,,Unknown,1.0
+932,1013757,Rumuri,,-1.63989,30.01374,Northern Province,Rulindo,0.0,1,1,0.0,0.0,2488.0,Rejected,Technical,,Unknown,1.0
+933,1013758,Kinaba,,-1.74472,29.53323,Western Province,Nyabihu,0.0,0,0,,,1200.0,Rejected,Technical,,Unknown,1.0
+934,1013759,Cyabihira,,-1.74404,29.534440000000004,Western Province,Nyabihu,0.0,1,1,3.0,1.0,3873.0,Rejected,Technical,,Unknown,1.0
+935,1013763,Iraro,,-1.77748,30.01516,Northern Province,Rulindo,0.0,1,1,2.0,1.0,2846.0,Rejected,Technical,,Unknown,1.0
+936,1013764,Gahama,,-1.795,30.03292,Northern Province,Rulindo,0.0,0,0,,,520.0,Rejected,Technical,,Unknown,0.0
+937,1013772,Mubahayo,,-2.18591,29.43513,Western Province,Karongi,0.0,1,1,3.0,0.0,4002.0,Rejected,Technical,,Unknown,1.0
+938,1013775,Ryampande,,-2.16427,29.41347,Western Province,Karongi,0.0,1,1,2.0,1.0,10007.0,Rejected,Technical,,Unknown,1.0
+939,1013778,Nyagasozi,,-2.08015,29.4189,Western Province,Karongi,0.0,1,1,3.0,2.0,11383.0,Rejected,Technical,,Unknown,1.0
+940,1013779,Kigarama,,-2.0924,29.44834,Western Province,Karongi,0.0,1,1,3.0,2.0,4026.0,Rejected,Technical,,Unknown,1.0
+941,1013780,Gisiza,,-2.08381,29.45655,Western Province,Karongi,0.0,1,1,2.0,0.0,3536.0,Rejected,Technical,,Unknown,1.0
+942,1013781,Ntarabana,,-2.13355,29.5053,Western Province,Karongi,0.0,1,1,5.0,0.0,3318.0,Rejected,Technical,,Unknown,1.0
+943,1013782,Rubona,,-2.13374,29.50472,Western Province,Karongi,0.0,1,1,6.0,0.0,3768.0,Rejected,Technical,,Unknown,1.0
+944,1013783,Nyamwenda,,-2.1213,29.48652,Western Province,Karongi,0.0,1,1,3.0,0.0,4201.0,Rejected,Technical,,Unknown,1.0
+945,1013784,Nyakabingo,,-2.12557,29.48183,Western Province,Karongi,0.0,0,0,,,987.0,Rejected,Technical,,Unknown,1.0
+946,1013785,Kabyaza,,-2.11554,29.47351,Western Province,Karongi,0.0,1,1,1.0,1.0,11064.0,Rejected,Technical,,Unknown,1.0
+947,1013787,Cyiryamo,,-1.68275,29.74224,Northern Province,Gakenke,0.0,1,1,5.0,0.0,1230.0,Rejected,Technical,,Unknown,1.0
+948,1013788,Mugambazi,,-1.72692,29.72306,Northern Province,Gakenke,0.0,1,1,8.0,0.0,2188.0,Rejected,Technical,,Unknown,1.0
+949,1013789,Gikokwe,,-1.67796,29.70261,Northern Province,Gakenke,0.0,1,1,2.0,0.0,1100.0,Rejected,Technical,,Unknown,1.0
+950,1013790,Burera,,-1.68033,29.69028,Northern Province,Gakenke,0.0,1,1,0.0,0.0,850.0,Rejected,Technical,,Unknown,0.0
+951,1013791,Cyifuzo,,-1.65975,29.72655,Northern Province,Gakenke,0.0,1,1,4.0,0.0,1600.0,Rejected,Technical,,Unknown,1.0
+952,1013793,Gihonga,,-1.64305,29.67318,Northern Province,Gakenke,0.0,1,1,5.0,0.0,1709.0,Rejected,Technical,,Unknown,1.0
+953,1013794,Cyimbogo,,-1.81602,29.85876,Northern Province,Gakenke,0.0,1,1,6.0,0.0,2190.0,Rejected,Technical,,Unknown,1.0
+954,1013795,Kugasumo,,-1.56001,29.69342,Northern Province,Gakenke,0.0,1,1,8.0,1.0,1700.0,Rejected,Technical,,Unknown,1.0
+955,1013796,Kumusenyi,,-1.5905,29.7052,Northern Province,Gakenke,0.0,1,1,6.0,0.0,1400.0,Rejected,Technical,,Unknown,1.0
+956,1013797,Kigembe,,-1.62963,29.65738,Northern Province,Gakenke,0.0,1,1,8.0,0.0,2386.0,Rejected,Technical,,Unknown,1.0
+957,1013798,Kugatare,,-1.5932,29.70506,Northern Province,Gakenke,0.0,1,1,8.0,0.0,1370.0,Rejected,Technical,,Unknown,1.0
+958,1013799,Kirombe,,-1.63737,29.65462,Northern Province,Gakenke,0.0,1,1,12.0,0.0,1768.0,Rejected,Technical,,Unknown,1.0
+959,1013800,Kubahamya,,-1.73494,29.85478,Northern Province,Gakenke,0.0,1,1,0.0,0.0,1542.0,Rejected,Technical,,Unknown,1.0
+960,1013801,Razi,,-1.6969900000000002,29.86647,Northern Province,Gakenke,0.0,1,1,0.0,0.0,1871.0,Rejected,Technical,,Unknown,1.0
+961,1013802,Mbizi,,-1.72314,29.84565,Northern Province,Gakenke,0.0,1,1,30.0,0.0,1888.0,Rejected,Technical,,Unknown,1.0
+962,1013803,Kabere,,-1.69199,29.70148,Northern Province,Gakenke,0.0,0,0,0.0,0.0,650.0,Rejected,,,Unknown,0.0
+963,1013804,Nyarukurazo,,-2.7242,29.75411,Southern Province,Gisagara,0.0,1,1,0.0,3.0,3437.0,Rejected,Technical,,Unknown,1.0
+964,1013807,Rususa,,-2.74102,29.856240000000003,Southern Province,Gisagara,0.0,1,1,0.0,0.0,5175.0,Rejected,Technical,,Unknown,1.0
+965,1013808,Maheresho,,-2.77338,29.75503,Southern Province,Gisagara,0.0,1,1,0.0,0.0,2879.0,Rejected,Technical,,Unknown,1.0
+966,1013809,Akagano,,-2.78075,29.74108,Southern Province,Gisagara,0.0,1,1,0.0,0.0,2490.0,Rejected,Technical,,Unknown,1.0
+967,1013810,Nyarunyinya,,-2.7234,29.76373,Southern Province,Gisagara,0.0,1,1,0.0,2.0,2631.0,Rejected,Technical,,Unknown,1.0
+968,1013811,Nyabinyenga,,-2.70198,29.812890000000003,Southern Province,Gisagara,0.0,1,1,0.0,5.0,5029.0,Rejected,Technical,,Unknown,1.0
+969,1013812,Akadogo,,-2.70192,29.76218,Southern Province,Gisagara,0.0,1,1,30.0,0.0,2941.0,Rejected,Technical,,Unknown,1.0
+970,1013813,Gasharu,,-2.7045,29.75324,Southern Province,Gisagara,0.0,1,1,100.0,0.0,5282.0,Rejected,Technical,,Unknown,1.0
+971,1013828,Nyagacyamo,,-1.9592,30.47838,Eastern Province,Kayonza,0.0,1,1,0.0,0.0,3189.0,Rejected,Technical,,Unknown,1.0
+972,1013829,Karambi,,-2.01879,30.7448,Eastern Province,Kayonza,0.0,0,0,0.0,0.0,21305.0,Rejected,,,Unknown,1.0
+973,1013830,Taba,,-2.00111,30.53096,Eastern Province,Kayonza,0.0,1,1,0.0,0.0,3926.0,Rejected,Technical,,Unknown,1.0
+974,1013831,Vungiro,,-1.94853,30.66917,Eastern Province,Kayonza,0.0,1,1,0.0,0.0,3055.0,Rejected,Technical,,Unknown,1.0
+975,1013832,Rucaca,,-1.74771,30.50005,Eastern Province,Kayonza,0.0,1,1,0.0,0.0,7168.0,Rejected,Technical,,Unknown,1.0
+976,1013833,Ryamanyoni,,-1.74678,30.50085,Eastern Province,Kayonza,0.0,1,1,0.0,0.0,7168.0,Rejected,Technical,,Unknown,1.0
+977,1013834,Kanyabugore (kanyinya),,-1.93163,30.790190000000006,Eastern Province,Kayonza,0.0,1,1,0.0,0.0,394.0,Rejected,Technical,,Unknown,0.0
+978,1013835,Nyamata,,-2.04215,30.67317,Eastern Province,Kayonza,0.0,1,1,0.0,0.0,39670.0,Rejected,Technical,,Unknown,1.0
+979,1013836,Ngoma,,-2.05688,30.59736,Eastern Province,Kayonza,0.0,1,1,0.0,0.0,3134.0,Rejected,Technical,,Unknown,1.0
+980,1013837,Rebezo,,-2.05203,30.58818,Eastern Province,Kayonza,0.0,1,1,0.0,0.0,2076.0,Rejected,Technical,,Unknown,1.0
+981,1013838,Ku mbuga ya 1,,-2.0104900000000003,30.48377,Eastern Province,Kayonza,0.0,1,1,0.0,0.0,37326.0,Rejected,Technical,,Unknown,1.0
+982,1013839,Ku mbuga ya 2,,-2.01757,30.48546,Eastern Province,Kayonza,0.0,1,1,0.0,0.0,37321.0,Rejected,Technical,,Unknown,1.0
+983,1013840,Migera,,-1.92364,30.57811,Eastern Province,Kayonza,0.0,1,1,0.0,0.0,951.0,Rejected,Technical,,Unknown,1.0
+984,1013846,Ndatemwa,,-2.799865,29.55367,Southern Province,Nyaruguru,0.0,1,1,2.0,0.0,4288.0,Rejected,Technical,,Unknown,1.0
+985,1013862,Rukoro,,-2.19868,29.4931,Western Province,Karongi,0.0,1,1,7.0,0.0,2270.0,Rejected,Technical,,Unknown,1.0
+986,1013864,Nyabikenke,,-2.07676,29.38212,Western Province,Karongi,0.0,0,0,,,1120.0,Rejected,Technical,,Unknown,1.0
+987,1013865,KwaJackson,,-2.06989,29.342,Western Province,Karongi,0.0,1,1,0.0,0.0,2138.0,Rejected,Technical,,Unknown,1.0
+988,1013868,Muryaruzigura,,-2.16278,29.28921,Western Province,Karongi,0.0,1,1,2.0,0.0,3904.0,Rejected,Technical,,Unknown,1.0
+989,1013869,Bizitiro,,-2.19785667,29.496655,Western Province,Karongi,0.0,0,0,,,2270.0,Rejected,Technical,,Unknown,1.0
+990,1013870,Gatare,,,,Western Province,Karongi,0.0,0,0,,,55.0,Rejected,,,Unknown,0.0
+991,1013871,Rwagisasa,,-2.14492,29.30137,Western Province,Karongi,0.0,1,1,0.0,1.0,3843.0,Rejected,Technical,,Unknown,1.0
+992,1013872,Gahinga,,-2.11586,29.26521,Western Province,Karongi,0.0,1,1,2.0,0.0,3780.0,Rejected,Technical,,Unknown,1.0
+993,1013874,Gasharu,,-2.12272,29.34027,Western Province,Karongi,0.0,1,1,1.0,0.0,2176.0,Rejected,Technical,,Unknown,1.0
+994,1013876,Wagati,,-2.18942,29.507745,Western Province,Karongi,0.0,1,1,7.0,3.0,1646.0,Rejected,Technical,,Unknown,1.0
+995,1013877,Kanyegenyege,,-2.19348,-29.49645,Western Province,Karongi,0.0,1,1,0.0,3.0,2270.0,Rejected,Technical,,Unknown,1.0
+996,1013878,Rwabagoyi,,-2.414849,29.046601000000006,Western Province,Nyamasheke,0.0,1,1,0.0,0.0,3087.0,Rejected,Technical,,Unknown,1.0
+997,1013879,Mpishyi,,-2.422817,29.043546000000006,Western Province,Nyamasheke,0.0,1,1,3.0,0.0,2563.0,Rejected,Technical,,Unknown,1.0
+998,1013880,Gakombe,,-2.395291,28.992706,Western Province,Nyamasheke,0.0,0,0,,,1622.0,Rejected,Technical,,Unknown,1.0
+999,1013881,Rushoka 2,,-2.213654,29.257268,Western Province,Nyamasheke,0.0,1,1,0.0,0.0,2078.0,Rejected,Technical,,Unknown,1.0
+1000,1013882,Nyarunyinya~Rwabisindu,,-2.183169,29.262155,Western Province,Nyamasheke,0.0,1,1,2.0,0.0,3765.0,Rejected,Technical,,Unknown,1.0
+1001,1013883,Kizenga 2,,-2.2323630000000003,29.254785,Western Province,Nyamasheke,0.0,1,1,0.0,0.0,1531.0,Rejected,Technical,,Unknown,1.0
+1002,1013884,Kigarama,,-2.200863,29.268609,Western Province,Nyamasheke,0.0,1,1,0.0,0.0,1934.0,Rejected,Technical,,Unknown,1.0
+1003,1013885,Muhororo,,-2.232662,29.218742,Western Province,Nyamasheke,0.0,1,1,0.0,0.0,1720.0,Rejected,Technical,,Unknown,1.0
+1004,1013887,Kizenga 1,,-2.233859,29.250362,Western Province,Nyamasheke,0.0,1,1,0.0,0.0,1408.0,Rejected,Technical,,Unknown,1.0
+1005,1013888,Mutusa,,-2.37385,29.095785,Western Province,Nyamasheke,0.0,1,1,2.0,2.0,2662.0,Rejected,Technical,,Unknown,1.0
+1006,1013889,Rwisovo~Nyarusasa,,-2.34745,29.143437,Western Province,Nyamasheke,0.0,1,1,1.0,1.0,2123.0,Rejected,Technical,,Unknown,1.0
+1007,1013890,Nyakabingo,,-2.393212,29.219801,Western Province,Nyamasheke,0.0,1,1,2.0,2.0,3336.0,Rejected,Technical,,Unknown,1.0
+1008,1013891,Gasasa~ mutuntu,,-2.392599,29.239326,Western Province,Nyamasheke,0.0,1,1,0.0,0.0,3697.0,Rejected,Technical,,Unknown,1.0
+1009,1013893,Nyamiheha,,-2.210267,29.263236,Western Province,Nyamasheke,0.0,1,1,6.0,6.0,2698.0,Rejected,Technical,,Unknown,1.0
+1010,1013896,Nyarubura,,-2.36254,29.2193,Western Province,Nyamasheke,0.0,1,1,5.0,2.0,4514.0,Rejected,Technical,,Unknown,1.0
+1011,1013897,Rushoka 1,,-2.208637,29.262007,Western Province,Nyamasheke,0.0,1,1,4.0,1.0,2078.0,Rejected,Technical,,Unknown,1.0
+1012,1013900,Kumugeti,,-2.404371,29.168585,Western Province,Nyamasheke,0.0,1,1,1.0,1.0,2014.0,Rejected,Technical,,Unknown,1.0
+1013,1013901,Gahisi,,-2.408611,29.188273,Western Province,Nyamasheke,0.0,1,1,2.0,2.0,1559.0,Rejected,Technical,,Unknown,1.0
+1014,1013902,Gahira 1,,-2.442198,29.203302,Western Province,Nyamasheke,0.0,1,1,1.0,1.0,7032.0,Rejected,Technical,,Unknown,1.0
+1015,1013903,Gahira 2,,-2.442784,29.202178000000004,Western Province,Nyamasheke,0.0,0,0,,,980.0,Rejected,Technical,,Unknown,1.0
+1016,1013904,Kabukunzi,,-2.36555,29.033081,Western Province,Nyamasheke,0.0,0,0,,,741.0,Rejected,Technical,,Unknown,0.0
+1017,1013905,Kamabera,,-2.365632,29.008657,Western Province,Nyamasheke,0.0,1,1,0.0,0.0,2112.0,Rejected,Technical,,Unknown,1.0
+1018,1013909,Rubindi,,-2.54605,28.96095,Western Province,Rusizi,0.0,1,1,0.0,0.0,2908.0,Rejected,Technical,,Unknown,1.0
+1019,1013910,Rugabe,,-2.51669,28.96432,Western Province,Rusizi,0.0,1,1,50.0,0.0,2449.0,Rejected,Technical,,Unknown,1.0
+1020,1013911,Kabumbwe,,-2.53318,28.95045,Western Province,Rusizi,0.0,1,1,0.0,0.0,3037.0,Rejected,Technical,,Unknown,1.0
+1021,1013912,Nyabyunyu,,-2.57105,29.889740000000003,Southern Province,Gisagara,0.0,1,1,100.0,0.0,5337.0,Rejected,Technical,,Unknown,1.0
+1022,1013913,Rusasa,,-2.59858,29.81743,Southern Province,Gisagara,0.0,1,1,50.0,2.0,3822.0,Rejected,Technical,,Unknown,1.0
+1023,1013914,Musizi,,-2.60413,29.80698,Southern Province,Gisagara,0.0,1,1,0.0,0.0,3851.0,Rejected,Technical,,Unknown,1.0
+1024,1013915,Rusasa,,-2.59392,29.8922,Southern Province,Gisagara,0.0,1,1,300.0,0.0,7829.0,Rejected,Technical,,Unknown,1.0
+1025,1013916,Kanyovu,,-2.55346,28.952240000000003,Western Province,Rusizi,0.0,1,1,2.0,0.0,2905.0,Rejected,Technical,,Unknown,1.0
+1026,1013917,Ngoboka,,-2.54047,28.95991,Western Province,Rusizi,0.0,1,1,0.0,0.0,1753.0,Rejected,Technical,,Unknown,1.0
+1027,1013918,Kankenge2,,-2.55358,28.95937,Western Province,Rusizi,0.0,1,1,0.0,0.0,2247.0,Rejected,Technical,,Unknown,1.0
+1028,1013919,Gisuma,,-2.7055700000000003,29.89536,Southern Province,Gisagara,0.0,1,1,0.0,0.0,2563.0,Rejected,Technical,,Unknown,1.0
+1029,1013920,Karuhinda,,-2.68141,29.87402,Southern Province,Gisagara,0.0,1,1,0.0,0.0,2096.0,Rejected,Technical,,Unknown,1.0
+1030,1013921,Busave,,-2.57408,29.87933,Southern Province,Gisagara,0.0,1,1,100.0,0.0,6071.0,Rejected,Technical,,Unknown,1.0
+1031,1013922,Uwinyana,,-2.69786,29.90142,Southern Province,Gisagara,0.0,1,1,0.0,0.0,2959.0,Rejected,Technical,,Unknown,1.0
+1032,1013923,Gitinsi,,-2.62646,29.88709,Southern Province,Gisagara,0.0,1,1,30.0,2.0,4897.0,Rejected,Technical,,Unknown,1.0
+1033,1013924,Bitaba,,-2.55713,28.92587,Western Province,Rusizi,0.0,1,1,0.0,0.0,3092.0,Rejected,Technical,,Unknown,1.0
+1034,1013925,Gihari,,-2.55375,28.94637,Western Province,Rusizi,0.0,1,1,0.0,0.0,5138.0,Rejected,Technical,,Unknown,1.0
+1035,1013926,Kankenge1,,-2.53862,28.96073,Western Province,Rusizi,0.0,1,1,0.0,0.0,2908.0,Rejected,Technical,,Unknown,1.0
+1036,1013966,Kabutimbiri,,-2.40129,28.95172,Western Province,Rusizi,0.0,1,1,0.0,0.0,3601.0,Rejected,Technical,,Unknown,1.0
+1037,1013967,Burege,,-2.40908,28.94244,Western Province,Rusizi,0.0,1,1,0.0,0.0,2081.0,Rejected,Technical,,Unknown,1.0
+1038,1013968,Sumoyamana,,-2.39416,28.94347,Western Province,Rusizi,0.0,1,1,0.0,0.0,1716.0,Rejected,Technical,,Unknown,1.0
+1039,1013969,Karama,,-2.42356,28.94508,Western Province,Rusizi,0.0,1,1,0.0,0.0,1850.0,Rejected,Technical,,Unknown,1.0
+1040,1013970,Kamahoro,,-2.42341,28.951970000000006,Western Province,Rusizi,0.0,1,1,0.0,0.0,1850.0,Rejected,Technical,,Unknown,1.0
+1041,1013971,Buzi,,-2.42021,28.95772,Western Province,Rusizi,0.0,1,1,0.0,0.0,4850.0,Rejected,Technical,,Unknown,1.0
+1042,1013972,Kwa Ntomoka,,-2.49231,28.910870000000006,Western Province,Rusizi,0.0,1,1,0.0,0.0,2270.0,Rejected,Social,,Unknown,1.0
+1043,1013973,Nkurunziza,,-2.48234,28.90941,Western Province,Rusizi,0.0,1,1,0.0,0.0,3614.0,Rejected,Technical,,Unknown,1.0
+1044,1013974,Burunga,,-2.47061,28.91442,Western Province,Rusizi,0.0,1,1,0.0,0.0,4328.0,Rejected,Technical,,Unknown,1.0
+1045,1013975,Gitinda,,-2.46143,28.91068,Western Province,Rusizi,0.0,1,1,0.0,0.0,4287.0,Rejected,Technical,,Unknown,1.0
+1046,1013976,Rubenga1,,-2.45007,28.91671,Western Province,Rusizi,0.0,1,1,0.0,0.0,2554.0,Rejected,Technical,,Unknown,1.0
+1047,1013977,Rukohwa,,-2.44658,28.9137,Western Province,Rusizi,0.0,1,1,0.0,5.0,2344.0,Rejected,Technical,,Unknown,1.0
+1048,1013978,Kivoga,,-2.4432,28.90885,Western Province,Rusizi,0.0,1,1,0.0,0.0,1836.0,Rejected,Technical,,Unknown,1.0
+1049,1013979,Nyagasozi,,-2.57813,28.97657,Western Province,Rusizi,0.0,1,1,100.0,0.0,5081.0,Rejected,Technical,,Unknown,1.0
+1050,1013980,Karongi,,-2.5754900000000003,28.97839,Western Province,Rusizi,0.0,1,1,100.0,0.0,5081.0,Rejected,Technical,,Unknown,1.0
+1051,1013981,Gafumba,,-2.58071,28.97723,Western Province,Rusizi,0.0,1,1,50.0,0.0,5081.0,Rejected,Technical,,Unknown,1.0
+1052,1013982,Gitega,,-2.57392,28.98504,Western Province,Rusizi,0.0,1,1,100.0,0.0,5081.0,Rejected,Technical,,Unknown,1.0
+1053,1013983,Nyakivomero,,-2.5847,29.014090000000003,Western Province,Rusizi,0.0,1,1,0.0,0.0,9195.0,Rejected,Technical,,Unknown,1.0
+1054,1013984,Karama,,-2.60072,28.997020000000006,Western Province,Rusizi,0.0,1,1,2.0,0.0,4309.0,Rejected,Technical,,Unknown,1.0
+1055,1013985,Ntenyi,,-2.60778,28.95301,Western Province,Rusizi,0.0,1,1,0.0,0.0,3384.0,Rejected,Technical,,Unknown,1.0
+1056,1013986,Nyange,,-2.61167,28.96442,Western Province,Rusizi,0.0,1,1,200.0,2.0,3437.0,Rejected,Technical,,Unknown,1.0
+1057,1013987,Cyuma,,-2.62002,28.96343,Western Province,Rusizi,0.0,1,1,20.0,1.0,1610.0,Rejected,Technical,,Unknown,1.0
+1058,1013988,Gahongobwe,,-2.6174,28.95564,Western Province,Rusizi,0.0,1,1,0.0,0.0,2169.0,Rejected,Technical,,Unknown,1.0
+1059,1013989,Cyamabuye,,-2.6627,28.95512,Western Province,Rusizi,0.0,1,1,100.0,1.0,4686.0,Rejected,Technical,,Unknown,1.0
+1060,1013990,Gatare,,-2.6639,28.95315,Western Province,Rusizi,0.0,1,1,100.0,1.0,4154.0,Rejected,Technical,,Unknown,1.0
+1061,1013991,Nyagasayo,,-2.66859,28.94991,Western Province,Rusizi,0.0,1,1,50.0,0.0,4263.0,Rejected,Technical,,Unknown,1.0
+1062,1013992,Ruramba,,-2.6402,29.00718,Western Province,Rusizi,0.0,1,1,30.0,0.0,4704.0,Rejected,Technical,,Unknown,1.0
+1063,1013993,Karitasi 2,,-2.45603,28.91183,Western Province,Rusizi,0.0,1,1,0.0,0.0,5163.0,Rejected,Technical,,Unknown,1.0
+1064,1013994,Karitasi 1,,-2.45187,28.91158,Western Province,Rusizi,0.0,1,1,0.0,0.0,4842.0,Rejected,Technical,,Unknown,1.0
+1065,1013995,Karushaririza,,-2.46236,28.92434,Western Province,Rusizi,0.0,1,1,0.0,9.0,7365.0,Rejected,Technical,,Unknown,1.0
+1066,1013996,Rebero,,-2.40718,28.95003,Western Province,Rusizi,0.0,1,1,0.0,0.0,2804.0,Rejected,Technical,,Unknown,1.0
+1067,1014004,Pfunda,,-1.70533,29.30478,Western Province,Rubavu,0.0,1,1,2.0,0.0,650.0,Rejected,Technical,,Unknown,0.0
+1068,1014005,Kiziguro,,-1.70002,29.34484,Western Province,Rubavu,0.0,1,1,3.0,0.0,1506.0,Rejected,Social,,Unknown,1.0
+1069,1014007,Kayanza,,-1.70278,29.33445,Western Province,Rubavu,0.0,1,1,4.0,1.0,560.0,Rejected,Social,,Unknown,0.0
+1070,1014008,Rusambu,,-2.431462,29.018172,Western Province,Nyamasheke,0.0,1,1,5.0,0.0,4465.0,Rejected,Technical,,Unknown,1.0
+1071,1014009,Ruhabwa,,-2.515733,29.04382,Western Province,Nyamasheke,0.0,1,1,5.0,4.0,9384.0,Rejected,Technical,,No,1.0
+1072,1014010,Bushekeri~ kamina,,-2.401338,29.092203,Western Province,Nyamasheke,0.0,1,1,3.0,2.0,6637.0,Rejected,,,Unknown,1.0
+1073,1014012,Kabuganza,,-2.504565,28.994356,Western Province,Rusizi,0.0,1,1,1.0,1.0,4005.0,Rejected,Technical,,Unknown,1.0
+1074,1014013,Mpinga,,-2.517903,29.002786,Western Province,Rusizi,0.0,1,1,0.0,0.0,4281.0,Rejected,Technical,,Unknown,1.0
+1075,1014014,Gahati,,-2.523685,28.998094,Western Province,Rusizi,0.0,1,1,0.0,0.0,2616.0,Rejected,Technical,,Unknown,1.0
+1076,1014015,Muhora,,-2.531842,29.000594,Western Province,Rusizi,0.0,1,1,0.0,0.0,3350.0,Rejected,Technical,,Unknown,1.0
+1077,1014016,Gitwa,,-2.434499,28.946438,Western Province,Rusizi,0.0,0,0,,,565.0,Rejected,Technical,,Unknown,0.0
+1078,1014017,Isha,,-2.452429,28.938735,Western Province,Rusizi,0.0,1,1,0.0,0.0,565.0,Rejected,Social,,Unknown,0.0
+1079,1014018,Honga,,-2.533586,28.997215,Western Province,Rusizi,0.0,1,1,0.0,0.0,500.0,Rejected,Technical,,Unknown,0.0
+1080,1014019,Gatagara,,-2.552118,29.007152,Western Province,Rusizi,0.0,1,1,0.0,0.0,5237.0,Rejected,Technical,,Unknown,1.0
+1081,1014020,Gatondo,,-2.53305,29.016558000000003,Western Province,Rusizi,0.0,1,1,3.0,1.0,8228.0,Rejected,Technical,,Unknown,1.0
+1082,1014021,Ruvunasati,,-2.542708,29.035636,Western Province,Nyamasheke,0.0,1,1,12.0,0.0,19437.0,Rejected,Technical,,Unknown,1.0
+1083,1014022,Rushwati ~ mwimereri,,-2.575882,29.136492,Western Province,Rusizi,0.0,1,1,0.0,0.0,2631.0,Rejected,Technical,,Unknown,1.0
+1084,1014023,Rushwati~ kirwano,,-2.578095,29.140707,Western Province,Rusizi,0.0,1,1,0.0,0.0,2267.0,Rejected,Technical,,Unknown,1.0
+1085,1014024,Kirwano~ mwimereri,,-2.577491,29.140912,Western Province,Rusizi,0.0,1,1,0.0,0.0,1446.0,Rejected,Technical,,Unknown,1.0
+1086,1014025,Munkamba,,-2.566146,29.144802,Western Province,Rusizi,0.0,1,1,0.0,0.0,1403.0,Rejected,Technical,,Unknown,1.0
+1087,1014029,Nyamata,,,,Western Province,Karongi,0.0,0,0,,,55.0,Rejected,,,Unknown,0.0
+1088,1014030,Ngange,,-2.230115,29.47708167,Western Province,Karongi,0.0,1,1,1.0,0.0,2400.0,Rejected,Technical,,Unknown,1.0
+1089,1014032,Dusasa,,-2.2195333,29.459935,Western Province,Karongi,0.0,1,1,0.0,0.0,2205.0,Rejected,Technical,,Unknown,1.0
+1090,1014033,Gikuku,,-2.23241333,29.4756,Western Province,Karongi,0.0,1,1,0.0,0.0,2400.0,Rejected,Technical,,Unknown,1.0
+1091,1014034,Rubona 1,,-2.2405167,29.491855,Western Province,Karongi,0.0,1,1,0.0,0.0,22292.0,Rejected,Technical,,Unknown,1.0
+1092,1014035,Kabingo,,-2.20644333,29.518888,Western Province,Karongi,0.0,1,1,0.0,0.0,5441.0,Rejected,Technical,,Unknown,1.0
+1093,1014036,Rubona 2,,-2.2408033,29.4925267,Western Province,Karongi,0.0,1,1,1.0,0.0,22292.0,Rejected,Technical,,Unknown,1.0
+1094,1014037,Nyagahara,,-2.23438167,29.47267167,Western Province,Karongi,0.0,1,1,0.0,0.0,2400.0,Rejected,Technical,,Unknown,1.0
+1095,1014040,Nyakibande1,,-1.67323,29.36088,Western Province,Rubavu,0.0,1,1,0.0,3.0,1200.0,Rejected,Technical,,Unknown,1.0
+1096,1014041,Nyakibande2,,-1.67428,29.36004,Western Province,Rubavu,0.0,1,1,4.0,0.0,2150.0,Rejected,Social,,Unknown,1.0
+1097,1014042,Nyakibande3,Concrete (11 - 20m),-1.676,29.35857,Western Province,Rubavu,0.0,1,1,0.0,0.0,2060.0,Rejected,Social,,Unknown,1.0
+1098,1014043,Kanyahene,,-1.72928,29.3348,Western Province,Rubavu,0.0,1,1,0.0,0.0,680.0,Rejected,Technical,,No,0.0
+1099,1014044,Mizingo,,-1.63268,29.39084,Western Province,Rubavu,0.0,1,1,9.0,1.0,2060.0,Rejected,Technical,,Unknown,1.0
+1100,1014045,Rwamikungu2,,-1.63268,29.39084,Western Province,Rubavu,0.0,1,1,0.0,0.0,2160.0,Rejected,Technical,,Unknown,1.0
+1101,1014046,Basesa,,-1.7302400000000002,29.36502,Western Province,Rubavu,0.0,1,1,0.0,0.0,1440.0,Rejected,Technical,,Unknown,1.0
+1102,1014048,Muremure,,-2.2357400000000003,29.48168167,Western Province,Karongi,0.0,1,1,0.0,0.0,22292.0,Rejected,Technical,,Unknown,1.0
+1103,1014049,Nyabisiga,,-2.153882,29.506953000000006,Western Province,Karongi,0.0,1,1,7.0,0.0,1836.0,Rejected,Technical,,Unknown,1.0
+1104,1014050,Rwankuba,,-2.18135,29.37769,Western Province,Karongi,0.0,1,1,0.0,10.0,3441.0,Rejected,Technical,,No,1.0
+1105,1014051,Karutare,,-2.164835,29.491473,Western Province,Karongi,0.0,1,1,10.0,0.0,3151.0,Rejected,Technical,,No,1.0
+1106,1014053,Munini II,,-2.1886,29.37909,Western Province,Karongi,0.0,0,0,0.0,2.0,852.0,Rejected,Technical,,Unknown,0.0
+1107,1014055,Rukore,,-2.17259,29.40382,Western Province,Karongi,0.0,1,1,0.0,0.0,2606.0,Rejected,Technical,,Unknown,1.0
+1108,1014057,Kivumu,,-2.228383,29.51722,Western Province,Karongi,0.0,1,1,0.0,0.0,21645.0,Rejected,Technical,,Unknown,1.0
+1109,1014058,Marero,,-1.6407200000000002,29.39906,Western Province,Rubavu,0.0,1,1,8.0,0.0,1748.0,Rejected,Technical,,Unknown,1.0
+1110,1014060,Birambo,,-2.21065,29.519803000000003,Western Province,Karongi,0.0,1,1,0.0,0.0,4626.0,Rejected,Technical,,Unknown,1.0
+1111,1014062,Gitwa,,-2.242973,29.464718,Western Province,Karongi,0.0,1,1,0.0,0.0,1703.0,Rejected,Technical,,Unknown,1.0
+1112,1014070,Nyabivumu,,-2.154842,29.510738300000003,Western Province,Karongi,0.0,1,0,10.0,0.0,4055.0,Rejected,Technical,,Unknown,1.0
+1113,1014071,Rugogo,,-2.20755,29.44008,Western Province,Karongi,0.0,1,1,2.0,1.0,3955.0,Rejected,Technical,,Unknown,1.0
+1114,1014073,Ruhondo,,-2.24952,29.38323,Western Province,Karongi,0.0,1,1,2.0,3.0,4867.0,Rejected,Technical,,Unknown,1.0
+1115,1014074,Cyamakamba,,-2.22396167,29.43661833,Western Province,Karongi,0.0,1,1,10.0,0.0,5357.0,Rejected,Technical,,Unknown,1.0
+1116,1014077,Rasaniro,,-2.24468,29.40848,Western Province,Karongi,0.0,1,1,3.0,2.0,3263.0,Rejected,Technical,,Unknown,1.0
+1117,1014078,Kwa Ruberandinda,,-2.23732,29.40253,Western Province,Karongi,0.0,1,1,2.0,1.0,2383.0,Rejected,Technical,,Unknown,1.0
+1118,1014079,Rusayo,,-2.2414,29.395290000000006,Western Province,Karongi,0.0,1,1,2.0,0.0,1802.0,Rejected,Technical,,Unknown,1.0
+1119,1014080,Ruhina,,-2.11637,29.5875,Western Province,Karongi,0.0,1,1,2.0,0.0,2582.0,Rejected,Technical,,Unknown,1.0
+1120,1014081,Rwinkomo,,-2.10922,29.59721,Western Province,Karongi,0.0,1,1,4.0,0.0,2059.0,Rejected,Technical,,Unknown,1.0
+1121,1014084,Nyabutaka,,-2.57067,29.02658,Western Province,Rusizi,0.0,0,0,,,965.0,Rejected,Social,,Unknown,1.0
+1122,1014085,Nkanga,,-2.57161,29.03953,Western Province,Rusizi,0.0,1,1,7.0,2.0,42778.0,Rejected,Technical,,Unknown,1.0
+1123,1014086,Gata,,-2.60327,29.0416,Western Province,Rusizi,0.0,1,1,10.0,3.0,1694.0,Rejected,Technical,,Unknown,1.0
+1124,1014087,Gisesero2,,-2.59176,29.04348,Western Province,Rusizi,0.0,1,1,10.0,2.0,1863.0,Rejected,Technical,,Unknown,1.0
+1125,1014088,Nyabusheshe,,-2.59647,29.04596,Western Province,Rusizi,0.0,1,1,12.0,2.0,1825.0,Rejected,Technical,,Unknown,1.0
+1126,1014089,Gisesero,,-2.5886,29.05452,Western Province,Rusizi,0.0,0,0,,,850.0,Rejected,Social,,Unknown,0.0
+1127,1014090,Kabusunzu,,-2.7023,29.00658,Western Province,Rusizi,0.0,0,0,,,858.0,Rejected,Social,,Unknown,0.0
+1128,1014092,Kabirundwe,,-2.5886,29.05452,Western Province,Rusizi,0.0,1,1,0.0,0.0,1852.0,Rejected,Technical,,Unknown,1.0
+1129,1014093,Gipfura,,-2.5886,29.05452,Western Province,Rusizi,0.0,1,1,3.0,0.0,7070.0,Rejected,Technical,,Unknown,1.0
+1130,1014096,Nyabutagwa-gaseke,,-2.55317,28.99986,Western Province,Rusizi,0.0,0,0,,,968.0,Rejected,Technical,,Unknown,1.0
+1131,1014097,Gaseke,,-2.5679,29.01254,Western Province,Rusizi,0.0,1,1,2.0,0.0,8296.0,Rejected,Technical,,Unknown,1.0
+1132,1014098,Kabagu -gasihe,,-2.57552,29.0818,Western Province,Rusizi,0.0,1,1,0.0,0.0,1791.0,Rejected,Technical,,Unknown,1.0
+1133,1014100,Nyabitimbo mwoya,,-2.56517,29.08278,Western Province,Rusizi,0.0,1,1,8.0,0.0,1855.0,Rejected,Technical,,Unknown,1.0
+1134,1014101,Mugongo,,-2.50322,28.90339,Western Province,Rusizi,0.0,1,1,2.0,2.0,2425.0,Rejected,Technical,,Unknown,1.0
+1135,1014102,Mizibira,,-2.56301,29.06172,Western Province,Rusizi,0.0,1,1,0.0,0.0,8925.0,Rejected,Technical,,Unknown,1.0
+1136,1014103,Kigarama,,-2.55734,29.0933,Western Province,Rusizi,0.0,1,1,3.0,0.0,6073.0,Rejected,Technical,,Unknown,1.0
+1137,1014105,Nyakabanda,,-2.42715,28.95369,Western Province,Rusizi,0.0,1,1,0.0,0.0,3418.0,Rejected,Technical,,Unknown,1.0
+1138,1014106,Kamigisha,,-2.42486,28.95726,Western Province,Rusizi,0.0,1,1,0.0,0.0,3398.0,Rejected,Technical,,Unknown,1.0
+1139,1014107,Buzi,,-2.42056,28.9662,Western Province,Rusizi,0.0,1,1,0.0,0.0,2859.0,Rejected,Technical,,Unknown,1.0
+1140,1014108,Gacyamo,,-2.41855,28.96946,Western Province,Rusizi,0.0,1,1,0.0,0.0,2859.0,Rejected,Technical,,Unknown,1.0
+1141,1014109,Nyagatango,,-2.58868,29.11247,Western Province,Rusizi,0.0,1,1,0.0,0.0,2780.0,Rejected,Technical,,Unknown,1.0
+1142,1014112,Bisoro-Makoko,,-2.3557,29.11136,Western Province,Nyamasheke,0.0,0,0,,,1000.0,Rejected,Technical,,Unknown,1.0
+1143,1014113,Murambi- Makoko,,-2.34996,29.11603,Western Province,Nyamasheke,0.0,1,1,1.0,2.0,7477.0,Rejected,Technical,,Unknown,1.0
+1144,1014114,Murambi,,-2.3645,29.1246,Western Province,Nyamasheke,0.0,0,0,,,1000.0,Rejected,Technical,,Unknown,1.0
+1145,1014115,Rubindi,,-2.73352,29.44932,Southern Province,Nyaruguru,0.0,0,0,,,1100.0,Rejected,Technical,,Unknown,1.0
+1146,1014116,Gasharu-Makoko,,-2.34716,29.11627,Western Province,Nyamasheke,0.0,0,0,,,743.0,Rejected,Technical,,Unknown,0.0
+1147,1014117,Murambi,,-2.38842,29.16833,Western Province,Nyamasheke,0.0,1,1,0.0,0.0,1.0,Rejected,Technical,,Unknown,0.0
+1148,1014120,Gatagara,,-2.38897,29.1315,Western Province,Nyamasheke,0.0,0,1,3.0,1.0,12237.0,Rejected,Technical,,Unknown,1.0
+1149,1014121,Kazibo,,-2.34955,29.04256,Western Province,Nyamasheke,0.0,1,1,0.0,0.0,1030.0,Rejected,Technical,,Unknown,1.0
+1150,1014122,Cyamuti,,-2.33294045,29.02570225,Western Province,Nyamasheke,0.0,1,1,0.0,0.0,2959.0,Rejected,Technical,,Unknown,1.0
+1151,1014124,Karuhigi,,-2.38012159,29.04157223,Western Province,Nyamasheke,0.0,1,1,4.0,1.0,6190.0,Rejected,Technical,,Unknown,1.0
+1152,1014125,Kigenge-Kamayenga,,-2.43036899,28.98131295,Western Province,Nyamasheke,0.0,1,1,10.0,0.0,5115.0,Rejected,Technical,,Unknown,1.0
+1153,1014126,Gitwa,,-2.42782026,28.96789415,Western Province,Nyamasheke,0.0,1,1,2.0,1.0,5811.0,Rejected,Technical,,Unknown,1.0
+1154,1014131,Rujeberi,,-2.54704093,29.03581174,Western Province,Nyamasheke,0.0,1,1,1.0,3.0,5644.0,Rejected,Technical,,Unknown,1.0
+1155,1014137,Wambonye,,-2.36102,29.14898,Western Province,Nyamasheke,0.0,0,1,1.0,2.0,4373.0,Rejected,Technical,,Unknown,1.0
+1156,1014139,Rugombo,,-2.46906,28.95562,Western Province,Rusizi,0.0,1,1,0.0,0.0,4203.0,Rejected,Technical,,Unknown,1.0
+1157,1014140,Karambo,,-2.45575,28.97641,Western Province,Rusizi,0.0,1,1,5.0,0.0,4588.0,Rejected,Technical,,Unknown,1.0
+1158,1014142,Kabeza,,-2.46169,28.96475,Western Province,Rusizi,0.0,1,1,3.0,1.0,2631.0,Rejected,Technical,,Unknown,1.0
+1159,1014143,Burembo,,-2.44613,28.96986,Western Province,Rusizi,0.0,1,1,0.0,0.0,1441.0,Rejected,Technical,,Unknown,1.0
+1160,1014144,Kabakure,,-2.46402,28.95182,Western Province,Rusizi,0.0,1,1,0.0,0.0,1334.0,Rejected,Technical,,Unknown,1.0
+1161,1014148,Kabere,,-2.39624002,28.996980600000004,Western Province,Nyamasheke,0.0,1,1,0.0,0.0,4696.0,Rejected,Technical,,Unknown,1.0
+1162,1014154,Karambi,,-2.43675,28.95227,Western Province,Rusizi,0.0,1,1,0.0,0.0,3651.0,Rejected,Technical,,Unknown,1.0
+1163,1014155,Maryohe,,-2.44319,28.97635,Western Province,Rusizi,0.0,0,0,,,1430.0,Rejected,Technical,,Unknown,1.0
+1164,1014156,Kabyuma,,-2.44926,28.95522,Western Province,Rusizi,0.0,1,0,3.0,0.0,3570.0,Rejected,Technical,,Unknown,1.0
+1165,1014159,Kabagabo,,-2.3441,29.11119,Western Province,Nyamasheke,0.0,0,0,,,620.0,Rejected,Technical,,Unknown,0.0
+1166,1014161,Kabuye,,-2.3468400000000003,29.114320000000006,Western Province,Rusizi,0.0,1,1,0.0,0.0,4256.0,Rejected,Technical,,Unknown,1.0
+1167,1014165,Rwega,,-2.4334,28.933740000000004,Western Province,Rusizi,0.0,0,0,0.0,0.0,750.0,Rejected,Technical,,Unknown,0.0
+1168,1014166,Impala,,-2.44246,28.9333,Western Province,Rusizi,0.0,0,0,,,400.0,Rejected,Technical,,Unknown,0.0
+1169,1014167,Ndengerezi,,-2.58127,28.15265,Western Province,Rusizi,0.0,0,1,0.0,1.0,2380.0,Rejected,Technical,,Unknown,1.0
+1170,1014168,Munkamba,,-2.57245,29.15343,Western Province,Rusizi,0.0,1,1,0.0,0.0,2985.0,Rejected,Technical,,Unknown,1.0
+1171,1014169,Rushwati,,-2.58421,29.14232,Western Province,Rusizi,0.0,1,1,0.0,0.0,3991.0,Rejected,Technical,,Unknown,1.0
+1172,1014238,Iterambere,,-1.94381,30.05001,Kigali,Nyarugenge,0.0,0,0,0.0,0.0,712.0,Rejected,,,Unknown,0.0
+1173,1014239,Akatabaro,,-1.985294,30.056113,Kigali,Nyarugenge,0.0,0,0,0.0,0.0,3340.0,Rejected,,,Unknown,1.0
+1174,1014241,Kwa Dubaii,,-1.903719,30.104828,Kigali,Gasabo,0.0,0,0,0.0,0.0,4500.0,Rejected,,,Unknown,1.0
+1175,1014242,Itsinzi,,-1.96302,30.05622,Kigali,Nyarugenge,0.0,1,1,3.0,0.0,1824.0,Rejected,Technical,,Unknown,1.0
+1176,1014243,Kanyami,,-1.36537,30.17092,Eastern Province,Nyagatare,0.0,1,1,0.0,0.0,2576.0,Rejected,Technical,,Unknown,1.0
+1177,1014244,Kisaro,,-1.45106,30.207140000000006,Eastern Province,Nyagatare,0.0,1,1,30.0,,6245.0,Rejected,Technical,,Unknown,1.0
+1178,1014245,Kavu,,-1.35292,30.144,Eastern Province,Nyagatare,0.0,1,1,50.0,0.0,2494.0,Rejected,Technical,,Unknown,1.0
+1179,1014246,Katoma,,-1.44263,30.15516,Eastern Province,Nyagatare,0.0,1,1,50.0,3.0,2405.0,Rejected,Technical,,Unknown,1.0
+1180,1014247,Burera,,-1.52911,30.30129,Eastern Province,Nyagatare,0.0,1,1,0.0,0.0,3354.0,Rejected,Technical,,Unknown,1.0
+1181,1014248,Nyakagende,,-1.46111,30.23321,Eastern Province,Nyagatare,0.0,1,1,10.0,4.0,6204.0,Rejected,Technical,,Unknown,1.0
+1182,1014249,Kubwamariko,,-1.43877,30.25549,Eastern Province,Nyagatare,0.0,1,1,10.0,3.0,6852.0,Rejected,Technical,,Unknown,1.0
+1183,1014251,Isangano I,,-1.4216,30.27098,Eastern Province,Nyagatare,0.0,1,1,15.0,2.0,8144.0,Rejected,Technical,,Unknown,1.0
+1184,1014252,Rujuga,,-1.42013,30.26972,Eastern Province,Nyagatare,0.0,1,1,0.0,0.0,8144.0,Rejected,Technical,,Unknown,1.0
+1185,1014253,Nyagatare,,-1.42836,30.1828,Eastern Province,Nyagatare,0.0,1,1,0.0,0.0,2972.0,Rejected,Technical,,Unknown,1.0
+1186,1014254,Ubumwe,,-1.966149,30.05606,Kigali,Nyarugenge,0.0,1,1,0.0,0.0,1821.0,Rejected,Technical,,Unknown,1.0
+1187,1014255,Gishenyi,,-1.3683,30.17181,Eastern Province,Nyagatare,0.0,1,1,10.0,2.0,2514.0,Rejected,Technical,,Unknown,1.0
+1188,1014256,Mpazi Wasac,,-1.95435,30.054,Kigali,Nyarugenge,0.0,1,1,0.0,0.0,869.0,Rejected,Technical,,Unknown,1.0
+1189,1014257,Ituze,,-1.95322,30.0552,Kigali,Nyarugenge,0.0,1,1,1.0,0.0,1018.0,Rejected,Technical,,Unknown,1.0
+1190,1014258,Ubukorikori,,-1.94934,30.05571,Kigali,Nyarugenge,0.0,1,1,0.0,0.0,1211.0,Rejected,Technical,,Unknown,1.0
+1191,1014259,Rugano,,-1.94354,30.05083,Kigali,Nyarugenge,0.0,1,1,0.0,0.0,51939.0,Rejected,Technical,,Unknown,1.0
+1192,1014260,Karushuga,,-1.29792,30.55167,Eastern Province,Nyagatare,0.0,1,1,50.0,0.0,2140.0,Rejected,Technical,,Unknown,1.0
+1193,1014261,Rugari,,-1.9517,30.052540000000004,Kigali,Nyarugenge,0.0,1,1,0.0,0.0,51377.0,Rejected,Technical,,Unknown,1.0
+1194,1014262,Ku kibuga,,-1.95291,30.0532,Kigali,Nyarugenge,0.0,1,1,0.0,0.0,50628.0,Rejected,Technical,,Unknown,1.0
+1195,1014263,Iterambere,,-1.94544,30.05341,Kigali,Nyarugenge,0.0,1,1,0.0,0.0,1162.0,Rejected,Technical,,Unknown,1.0
+1196,1014264,Nyabirondo,,-2.0543400000000003,30.04781,Kigali,Nyarugenge,0.0,1,1,0.0,0.0,5872.0,Rejected,Technical,,No,1.0
+1197,1014265,Mpanga,,-2.0638,30.0279,Kigali,Nyarugenge,0.0,1,1,0.0,0.0,12213.0,Rejected,Technical,,No,1.0
+1198,1014266,Rubungo,,-2.072995,30.016687,Kigali,Nyarugenge,0.0,1,1,0.0,0.0,9713.0,Rejected,Technical,,Unknown,1.0
+1199,1014267,Nyarubuye,,-2.04925,29.98573,Kigali,Nyarugenge,0.0,1,1,0.0,0.0,3484.0,Rejected,Technical,,Unknown,1.0
+1200,1014268,Karukina,,-2.01861,30.0085,Kigali,Nyarugenge,0.0,1,1,0.0,0.0,3180.0,Rejected,Technical,,No,1.0
+1201,1014270,Nyakirambi,,-1.91659,30.01887,Kigali,Nyarugenge,0.0,1,1,1.0,3.0,1220.0,Rejected,Technical,,Unknown,1.0
+1202,1014271,Kwa Makuza,,-1.982414,30.056395,Kigali,Nyarugenge,0.0,1,1,5.0,0.0,3060.0,Rejected,Technical,,Unknown,1.0
+1203,1014272,Mu Bitare,,-1.94731,30.025352,Kigali,Nyarugenge,0.0,1,1,0.0,0.0,8643.0,Rejected,Technical,,Unknown,1.0
+1204,1014273,Kohaki,,-1.88659,30.09792,Kigali,Gasabo,0.0,1,0,0.0,0.0,5492.0,Rejected,Technical,,Unknown,1.0
+1205,1014274,Kanyangesa,,-2.06966,29.84335,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,2055.0,Rejected,Technical,,Unknown,1.0
+1206,1014275,Mukunguri,,-2.05318,29.86879,Southern Province,Kamonyi,0.0,1,1,5.0,1.0,1858.0,Rejected,Technical,,Unknown,1.0
+1207,1014276,Gacaca-rubanga,,-2.0392200000000003,29.84801,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,3868.0,Rejected,Technical,,Unknown,1.0
+1208,1014277,Bweya,,-2.03693,29.83341,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,1858.0,Rejected,Technical,,Unknown,1.0
+1209,1014278,Gahama,,-2.02057,29.80686,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,3558.0,Rejected,Technical,,Unknown,1.0
+1210,1014279,Bahimba,,-2.05153,29.83695,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,3362.0,Rejected,Technical,,Unknown,1.0
+1211,1014280,Kajinja,,-2.0264,29.85626,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,2858.0,Rejected,Technical,,Unknown,1.0
+1212,1014281,Karubanda,,-2.08084,29.91191,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,3490.0,Rejected,Technical,,Unknown,1.0
+1213,1014282,Kataburara,,-2.0979400000000004,29.93278,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,1659.0,Rejected,Technical,,Unknown,1.0
+1214,1014284,Mombori2,,-2.08488,29.81828,Southern Province,Kamonyi,0.0,1,1,6.0,3.0,2800.0,Rejected,Technical,,Unknown,1.0
+1215,1014285,Gasenyi,,-2.05255,29.89237,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,1580.0,Rejected,Technical,,Unknown,1.0
+1216,1014286,Kanyonyombya,,-2.065,29.91408,Southern Province,Kamonyi,0.0,1,1,2.0,0.0,5000.0,Rejected,Technical,,Unknown,1.0
+1217,1014287,Mugomero,,-2.05616,29.90943,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,1850.0,Rejected,Technical,,Unknown,1.0
+1218,1014288,Kabungo-nyagihamba,,-2.0829,29.88202,Southern Province,Kamonyi,0.0,0,0,,,850.0,Rejected,Technical,,Unknown,0.0
+1219,1014289,Bigaga,,-2.07133,29.87194,Southern Province,Kamonyi,0.0,0,0,,,890.0,Rejected,Technical,,Unknown,1.0
+1220,1014291,Ruhuha/akaruruma,,-2.06986,29.860840000000003,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,2160.0,Rejected,Technical,,Unknown,1.0
+1221,1014294,Gasamasazi,,-2.10176,29.84282,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,5057.0,Rejected,Technical,,Unknown,1.0
+1222,1014295,Kavumu-ngarama,,-2.0661400000000003,29.827340000000003,Southern Province,Kamonyi,0.0,1,1,0.0,1.0,1850.0,Rejected,Technical,,Unknown,1.0
+1223,1014296,Kanombe,,-2.08032,29.822,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,2650.0,Rejected,Technical,,Unknown,1.0
+1224,1014297,Nyagashubi,,-2.07748,29.90302,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,1986.0,Rejected,Technical,,Unknown,1.0
+1225,1014298,Bahimba ya kigabiro,,-2.08375,29.9012,Southern Province,Kamonyi,0.0,1,1,9.0,0.0,1810.0,Rejected,Technical,,Unknown,1.0
+1226,1014300,Kimiyumbo,,-2.07671,29.88236,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,1606.0,Rejected,Technical,,Unknown,1.0
+1227,1014301,Mugitare,,-2.1120400000000004,29.82869,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,2560.0,Rejected,Technical,,Unknown,1.0
+1228,1014302,Runiga,,-2.10741,29.800420000000006,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,1690.0,Rejected,Technical,,Unknown,1.0
+1229,1014303,Ntibiki,,-2.09932,29.812690000000003,Southern Province,Kamonyi,0.0,1,1,1.0,1.0,2496.0,Rejected,Technical,,Unknown,1.0
+1230,1014304,Nyiragakokwe,,-2.07101,29.84978,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,2870.0,Rejected,Technical,,Unknown,1.0
+1231,1014305,Bahimba-maswa-nyamweru,,-2.08723,29.92198,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,2554.0,Rejected,Technical,,Unknown,1.0
+1232,1014306,Kazabagarura,,-2.08435,29.93516,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,2640.0,Rejected,Technical,,Unknown,1.0
+1233,1014307,Kamirabageni,,-2.08754,29.94017,Southern Province,Kamonyi,0.0,1,1,1.0,0.0,8025.0,Rejected,Technical,,Unknown,1.0
+1234,1014309,Nyakigezi,,-1.87493,29.849092,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,1830.0,Rejected,Technical,,Unknown,1.0
+1235,1014311,Kamabuye,,-1.856669,29.838176,Southern Province,Kamonyi,0.0,0,0,,,5800.0,Rejected,Technical,,Unknown,1.0
+1236,1014313,Cyabariza,,-2.056492,29.940225,Southern Province,Kamonyi,0.0,0,0,,,13900.0,Rejected,Technical,,Unknown,1.0
+1237,1014314,Gatovu,,-1.985042,29.951748,Southern Province,Kamonyi,0.0,1,1,1.0,1.0,5572.0,Rejected,Technical,,Unknown,1.0
+1238,1014315,Kibanza,,-1.951433,29.878932,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,2646.0,Rejected,Technical,,Unknown,1.0
+1239,1014316,Mataba,,-2.005117,29.917354,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,6305.0,Rejected,Technical,,Unknown,1.0
+1240,1014319,Ruheka,,-1.883957,29.850548,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,1559.0,Rejected,Technical,,Unknown,1.0
+1241,1014320,Munyegera,,-1.915772,29.866533,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,5030.0,Rejected,Technical,,Unknown,1.0
+1242,1014321,Nyenyeri,,-1.939737,29.843622,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,2200.0,Rejected,Technical,,Unknown,1.0
+1243,1014323,Bunyonga 2,,-1.939927,29.818313,Southern Province,Kamonyi,0.0,0,0,,,500.0,Rejected,Technical,,Unknown,0.0
+1244,1014324,Kinkeri,,-1.977729,29.850108,Southern Province,Kamonyi,0.0,0,0,,,600.0,Rejected,Technical,,Unknown,0.0
+1245,1014325,Karama,,-1.980126,29.905502,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,4804.0,Rejected,Technical,,Unknown,1.0
+1246,1014326,Rugobagoba,,-2.001263,29.888983000000003,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,3070.0,Rejected,Technical,,Unknown,1.0
+1247,1014327,Raro,,-1.896261,29.951448,Southern Province,Kamonyi,0.0,0,0,,,600.0,Rejected,Technical,,Unknown,0.0
+1248,1014328,Kagarama,,-1.984548,29.931428000000004,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,6640.0,Rejected,Technical,,Unknown,1.0
+1249,1014329,Kabuga (Fukwe),,-1.872181,29.92942,Southern Province,Kamonyi,0.0,1,1,6.0,4.0,6500.0,Rejected,Technical,,No,1.0
+1250,1014331,Rubare,,-1.908306,29.881692,Southern Province,Kamonyi,0.0,0,0,,,800.0,Rejected,Technical,,Unknown,0.0
+1251,1014332,Kigabiro 1,,-1.964977,29.975556,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,3963.0,Rejected,Technical,,Unknown,1.0
+1252,1014333,Kigabiro 2,,-1.960603,29.972412,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,3057.0,Rejected,Technical,,Unknown,1.0
+1253,1014334,Nyaruhoko,,-1.969472,29.959591,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,3793.0,Rejected,Technical,,Unknown,1.0
+1254,1014336,Nyamabuye,,-1.931734,29.894059,Southern Province,Kamonyi,0.0,1,1,2.0,1.0,3702.0,Rejected,Technical,,Unknown,1.0
+1255,1014337,Kireka,,-2.119285,29.997436,Southern Province,Kamonyi,0.0,0,0,0.0,0.0,1026.0,Rejected,Technical,,Unknown,1.0
+1256,1014338,Bukimba,,-1.943021,29.982635,Southern Province,Kamonyi,0.0,0,0,,,1383.0,Rejected,Technical,,Unknown,1.0
+1257,1014339,Mikamba~nyaruhengeri,,-2.126854,29.946166,Southern Province,Kamonyi,0.0,1,1,1.0,0.0,23060.0,Rejected,Technical,,Unknown,1.0
+1258,1014340,Kigende,,-2.362459,30.642264,Southern Province,Kamonyi,0.0,0,0,0.0,0.0,418.0,Rejected,Technical,,Unknown,0.0
+1259,1014345,Ruhungamiyaga,,-2.13099,29.57793,Western Province,Karongi,0.0,1,1,0.0,0.0,1823.0,Rejected,Technical,,Unknown,1.0
+1260,1014346,Gatare,,-2.10761,29.56258,Western Province,Karongi,0.0,1,1,1.0,2.0,2972.0,Rejected,Technical,,Unknown,1.0
+1261,1014347,Kinyinya,,-2.07245,29.60469,Western Province,Karongi,0.0,1,1,1.0,0.0,3105.0,Rejected,Technical,,Unknown,1.0
+1262,1014348,Kwa Gahakwa,,-2.10605,30.49761,Eastern Province,Ngoma,0.0,1,1,4.0,0.0,11503.0,Rejected,Technical,,Unknown,1.0
+1263,1014349,Gitinga,,-2.0566,30.47997,Eastern Province,Ngoma,0.0,1,1,0.0,0.0,11340.0,Rejected,Technical,,Unknown,1.0
+1264,1014350,Ngoma 22,,-2.08722,30.50135,Eastern Province,Ngoma,0.0,1,1,0.0,0.0,11512.0,Rejected,Technical,,Unknown,1.0
+1265,1014351,Kasherangabo,,-2.1344,30.533790000000003,Eastern Province,Ngoma,0.0,1,1,0.0,0.0,12039.0,Rejected,Technical,,Unknown,1.0
+1266,1014352,Rugazi,,-2.068,30.57965,Eastern Province,Ngoma,0.0,1,1,0.0,0.0,9156.0,Rejected,Technical,,Unknown,1.0
+1267,1014353,Rugaragara,,-2.19132,30.60191,Eastern Province,Ngoma,0.0,1,1,0.0,0.0,6321.0,Rejected,Technical,,Unknown,1.0
+1268,1014354,Cyunuzi,,-2.2017900000000004,30.60416,Eastern Province,Ngoma,0.0,1,1,3.0,2.0,9665.0,Rejected,Technical,,Unknown,1.0
+1269,1014355,Nyakondo,,-2.20091,30.60236,Eastern Province,Ngoma,0.0,1,1,0.0,0.0,10789.0,Rejected,Technical,,Unknown,1.0
+1270,1014356,Bweranka,,-2.15593,30.63163,Eastern Province,Ngoma,0.0,1,1,1.0,0.0,7491.0,Rejected,Technical,,Unknown,1.0
+1271,1014357,Rusenyi,,-2.1287700000000003,30.64523,Eastern Province,Ngoma,0.0,1,1,0.0,0.0,584.0,Rejected,Technical,,Unknown,0.0
+1272,1014358,Masoko,,-2.12746,30.64571,Eastern Province,Ngoma,0.0,0,0,,,584.0,Rejected,Technical,,Unknown,0.0
+1273,1014359,Nyamabuye,,-2.1293900000000003,30.61855,Eastern Province,Ngoma,0.0,1,1,2.0,0.0,12806.0,Rejected,Technical,,Unknown,1.0
+1274,1014360,Ruhama,,-2.18396,30.62926,Eastern Province,Ngoma,0.0,1,1,3.0,0.0,12210.0,Rejected,Technical,,Unknown,1.0
+1275,1014361,MuKirombe,,-2.18396,30.62258,Eastern Province,Ngoma,0.0,1,1,0.0,0.0,6890.0,Rejected,Technical,,Unknown,1.0
+1276,1014362,Karuberwa,,-2.14193,30.50383,Eastern Province,Ngoma,0.0,1,1,0.0,0.0,11555.0,Rejected,Technical,,Unknown,1.0
+1277,1014363,Busasamana,,-2.18739,30.410090000000004,Eastern Province,Ngoma,0.0,1,1,2.0,0.0,11440.0,Rejected,Technical,,Unknown,1.0
+1278,1014364,Rubirizi,,-2.17331,30.57956,Eastern Province,Ngoma,0.0,1,1,0.0,0.0,13110.0,Rejected,Technical,,Unknown,1.0
+1279,1014365,Rwarudogodo,,-2.14107,30.59631,Eastern Province,Ngoma,0.0,1,1,1.0,0.0,12806.0,Rejected,Technical,,Unknown,1.0
+1280,1014366,Mukibimba,,-2.14135,30.49706,Eastern Province,Ngoma,0.0,1,1,0.0,0.0,9025.0,Rejected,Technical,,Unknown,1.0
+1281,1014367,Nyagahandagaza,,-2.1755,30.40085,Eastern Province,Ngoma,0.0,1,1,1.0,0.0,10440.0,Rejected,Technical,,Unknown,1.0
+1282,1014368,Kagongoyi,,-2.11144,30.46133,Eastern Province,Ngoma,0.0,1,1,3.0,0.0,12766.0,Rejected,Technical,,Unknown,1.0
+1283,1014369,Gatembo,,-2.11637,30.46358,Eastern Province,Ngoma,0.0,1,1,2.0,0.0,12766.0,Rejected,Technical,,Unknown,1.0
+1284,1014370,Gikomero,,-2.085,30.50046,Eastern Province,Ngoma,0.0,0,0,0.0,0.0,6450.0,Rejected,Technical,,Unknown,1.0
+1285,1014371,Kwa Gapfizi,,-2.07431,30.486490000000003,Eastern Province,Ngoma,0.0,1,1,1.0,0.0,14418.0,Rejected,Technical,,Unknown,1.0
+1286,1014373,Kanyarusanga,,-2.15347,29.35955,Western Province,Karongi,0.0,0,0,,,5748.0,Rejected,Technical,,Unknown,1.0
+1287,1014377,Rutovu,,-2.095675,30.576452000000003,Eastern Province,Ngoma,0.0,0,0,0.0,0.0,12720.0,Rejected,Technical,,Unknown,1.0
+1288,1014378,Rwamihuro,,-2.103568,30.57552,Eastern Province,Ngoma,0.0,1,1,0.0,0.0,8714.0,Rejected,Technical,,Unknown,1.0
+1289,1014379,Misange,,-2.0921133000000003,30.585332,Eastern Province,Ngoma,0.0,1,1,0.0,0.0,8628.0,Rejected,Technical,,Unknown,1.0
+1290,1014380,Kagumiro,,-2.107592,30.609893,Eastern Province,Ngoma,0.0,1,1,0.0,0.0,10222.0,Rejected,Technical,,Unknown,1.0
+1291,1014381,Kabimba,,-2.1655450000000003,30.549758,Eastern Province,Ngoma,0.0,1,1,2.0,0.0,14274.0,Rejected,Technical,,Unknown,1.0
+1292,1014382,Marembo,,-2.160985,30.551312,Eastern Province,Ngoma,0.0,1,1,0.0,0.0,10352.0,Rejected,Technical,,Unknown,1.0
+1293,1014383,Kabeza,,-2.144405,30.531062,Eastern Province,Ngoma,0.0,1,1,5.0,0.0,12153.0,Rejected,Technical,,Unknown,1.0
+1294,1014384,Rwasaburo,,-2.157735,30.532793,Eastern Province,Ngoma,0.0,1,1,6.0,0.0,12153.0,Rejected,Technical,,Unknown,1.0
+1295,1014385,Akabaya,,-2.181385,30.479072,Eastern Province,Ngoma,0.0,0,1,0.0,0.0,7450.0,Rejected,Technical,,Unknown,1.0
+1296,1014387,Isangano,,-1.39413,30.28182,Eastern Province,Nyagatare,0.0,1,1,1.0,,3683.0,Rejected,Technical,,Unknown,1.0
+1297,1014388,Kagarama,,-2.1866220000000003,30.483668,Eastern Province,Ngoma,0.0,0,1,0.0,0.0,4146.0,Rejected,Technical,,Unknown,1.0
+1298,1014389,Kabeza,,-1.36432,30.28194,Eastern Province,Nyagatare,0.0,1,1,0.0,0.0,3293.0,Rejected,Technical,,Unknown,1.0
+1299,1014390,Akimpundu,,-1.340982,30.219604,Eastern Province,Nyagatare,0.0,1,1,4.0,0.0,14036.0,Rejected,Technical,,Unknown,1.0
+1300,1014391,Nyagasharara,,-1.336893,30.213863,Eastern Province,Nyagatare,0.0,1,1,5.0,0.0,14036.0,Rejected,Technical,,Unknown,1.0
+1301,1014392,Murujanjara,,-1.393255,30.162868,Eastern Province,Nyagatare,0.0,1,1,0.0,0.0,1942.0,Rejected,Technical,,Unknown,1.0
+1302,1014393,Isangano-Kabeza,,-1.349094,30.202762,Eastern Province,Nyagatare,0.0,1,1,0.0,0.0,4604.0,Rejected,Technical,,Unknown,1.0
+1303,1014394,Kabeza,,-1.40815,30.189856,Eastern Province,Nyagatare,0.0,1,1,0.0,0.0,2054.0,Rejected,Technical,,Unknown,1.0
+1304,1014395,Nyabwongoroka,,-1.432879,30.133993,Eastern Province,Nyagatare,0.0,1,1,3.0,0.0,1076.0,Rejected,Technical,,Unknown,1.0
+1305,1014396,Kavumu,,-1.391233,30.171654,Eastern Province,Nyagatare,0.0,1,1,0.0,0.0,1942.0,Rejected,Technical,,Unknown,1.0
+1306,1014397,Kabaya,,-1.436156,30.307663,Eastern Province,Nyagatare,0.0,1,1,0.0,0.0,1405.0,Rejected,Technical,,Unknown,1.0
+1307,1014398,Kajevuba,,-1.4428040000000002,30.274319,Eastern Province,Nyagatare,0.0,0,0,,,1.0,Rejected,Technical,,Unknown,0.0
+1308,1014399,Kagogo,,-1.471113,30.285693,Eastern Province,Nyagatare,0.0,0,0,,,1.0,Rejected,Technical,,Unknown,0.0
+1309,1014400,Akindege,,-1.461997,30.264872,Eastern Province,Nyagatare,0.0,1,1,0.0,0.0,7353.0,Rejected,Technical,,Unknown,1.0
+1310,1014401,Gasasa,,-1.456525,30.280659000000004,Eastern Province,Nyagatare,0.0,0,0,,,1.0,Rejected,Technical,,Unknown,0.0
+1311,1014402,Byimana,,-1.0667870000000002,30.432849,Eastern Province,Nyagatare,0.0,0,0,,,1.0,Rejected,Technical,,Unknown,0.0
+1312,1014403,Byimana3,,-1.109384,30.433798,Eastern Province,Nyagatare,0.0,0,0,,,1.0,Rejected,Technical,,Unknown,0.0
+1313,1014404,Fotorero,,-1.163172,30.476046000000004,Eastern Province,Nyagatare,0.0,1,1,0.0,0.0,9631.0,Rejected,Technical,,Unknown,1.0
+1314,1014405,Cyenjojo,,-1.239774,30.344471,Eastern Province,Nyagatare,0.0,1,1,0.0,4.0,6055.0,Rejected,Technical,,Unknown,1.0
+1315,1014407,Akagera,,-1.286986,30.550523,Eastern Province,Nyagatare,0.0,1,1,0.0,3.0,1820.0,Rejected,Technical,,Unknown,1.0
+1316,1014408,Nyakagezi,,-2.229162,30.514947,Eastern Province,Ngoma,0.0,1,1,0.0,0.0,15602.0,Rejected,Technical,,Unknown,1.0
+1317,1014409,Bitaba,,-1.5306879999999998,30.210441,Eastern Province,Gatsibo,0.0,1,1,0.0,0.0,5779.0,Rejected,Technical,,Unknown,1.0
+1318,1014410,Kadogo,,-1.660292,30.461698,Eastern Province,Gatsibo,0.0,0,0,,,1.0,Rejected,Technical,,Unknown,0.0
+1319,1014411,Gisharara,,-1.633869,30.338833,Eastern Province,Gatsibo,0.0,1,1,0.0,0.0,5381.0,Rejected,Technical,,Unknown,1.0
+1320,1014412,Kivuba,,-1.684211,30.350028,Eastern Province,Gatsibo,0.0,1,1,4.0,0.0,5838.0,Rejected,Technical,,Unknown,1.0
+1321,1014413,Byimana,,-1.658066,30.462945,Eastern Province,Gatsibo,0.0,0,0,,,1850.0,Rejected,Technical,,Unknown,1.0
+1322,1014414,Nyagacyamo,,-1.6296,30.343077,Eastern Province,Gatsibo,0.0,0,1,4.0,0.0,3242.0,Rejected,Technical,,Unknown,1.0
+1323,1014415,Matereza,,-1.36087,30.181669,Eastern Province,Nyagatare,0.0,1,1,7.0,0.0,6782.0,Rejected,Requested,,Unknown,1.0
+1324,1014416,Gakirage,,-1.365045,30.148672,Eastern Province,Nyagatare,0.0,1,1,1.0,0.0,2813.0,Rejected,Technical,,Unknown,1.0
+1325,1014417,Murujanjara,,-1.397253,30.163373,Eastern Province,Nyagatare,0.0,1,1,0.0,0.0,2898.0,Rejected,Technical,,Unknown,1.0
+1326,1014418,Bwicaro,,-1.564462,30.194624,Eastern Province,Gatsibo,0.0,0,0,,,1.0,Rejected,Technical,,Unknown,0.0
+1327,1014419,Kigobe,,-1.576221,30.201582,Eastern Province,Gatsibo,0.0,1,1,0.0,3.0,3740.0,Rejected,Technical,,Unknown,1.0
+1328,1014420,Gakiri,,-1.629849,30.379612,Eastern Province,Gatsibo,0.0,1,1,0.0,0.0,8255.0,Rejected,Technical,,Unknown,1.0
+1329,1014421,Rugenge,,-2.234163,30.513445,Eastern Province,Ngoma,0.0,1,1,0.0,0.0,11799.0,Rejected,Technical,,Unknown,1.0
+1330,1014422,Kibimba,,-2.2381330000000004,30.513978,Eastern Province,Ngoma,0.0,1,1,0.0,0.0,11799.0,Rejected,Technical,,Unknown,1.0
+1331,1014423,Rebero,,-2.1342683,30.533528000000004,Eastern Province,Ngoma,0.0,1,1,4.0,0.0,11791.0,Rejected,Technical,,Unknown,1.0
+1332,1014424,Umukamba,,-2.170028,30.497287,Eastern Province,Ngoma,0.0,1,1,1.0,0.0,4146.0,Rejected,Technical,,Unknown,1.0
+1333,1014425,Mukibara,,-2.229075,30.526267,Eastern Province,Ngoma,0.0,0,1,3.0,0.0,10899.0,Rejected,Technical,,Unknown,1.0
+1334,1014426,Cyeru,,-2.201705,30.60411,Eastern Province,Ngoma,0.0,1,1,2.0,0.0,7812.0,Rejected,Technical,,Unknown,1.0
+1335,1014427,Kabahushi,,-2.235312,30.552363,Eastern Province,Ngoma,0.0,1,1,1.0,0.0,10530.0,Rejected,Technical,,Unknown,1.0
+1336,1014428,Gashekasheke,,-2.085295,30.445293,Eastern Province,Ngoma,0.0,1,1,3.0,0.0,6325.0,Rejected,Technical,,Unknown,1.0
+1337,1014429,Kanama,,-2.106907,30.42817,Eastern Province,Ngoma,0.0,1,1,6.0,0.0,12427.0,Rejected,Technical,,Unknown,1.0
+1338,1014430,Rwakayango,,-2.101273,30.426758000000003,Eastern Province,Ngoma,0.0,1,1,5.0,0.0,12427.0,Rejected,Technical,,Unknown,1.0
+1339,1014431,Gahondo,,-2.195678,30.476143,Eastern Province,Ngoma,0.0,1,1,0.0,0.0,5899.0,Rejected,Technical,,Unknown,1.0
+1340,1014432,Gakuto,,-2.195243,30.475603000000003,Eastern Province,Ngoma,0.0,1,1,0.0,0.0,6709.0,Rejected,Technical,,Unknown,1.0
+1341,1014433,Cyerwa,,-2.1821080000000004,30.453907,Eastern Province,Ngoma,0.0,1,1,4.0,0.0,10926.0,Rejected,Technical,,Unknown,1.0
+1342,1014434,Rukizi,,-2.166942,30.441723,Eastern Province,Ngoma,0.0,1,1,0.0,0.0,10847.0,Rejected,Technical,,Unknown,1.0
+1343,1014435,Kanege,,-2.20317,30.464068,Eastern Province,Ngoma,0.0,1,0,2.0,0.0,2906.0,Rejected,Technical,,Unknown,1.0
+1344,1014436,Bamporeze 1,,-1.9919444,30.14638889,Kigali,Kicukiro,0.0,0,0,0.0,0.0,4607.0,Rejected,,,Unknown,1.0
+1345,1014437,Indatwa,,-1.965987,30.110639000000006,Kigali,Kicukiro,0.0,0,0,0.0,0.0,4750.0,Rejected,,,Unknown,1.0
+1346,1014438,Ruhihi/Nyakabungo,,-1.878459,30.035062,Kigali,Gasabo,0.0,0,0,0.0,0.0,4952.0,Rejected,,,Unknown,1.0
+1347,1014439,Antenna 2,,-1.98388889,30.13861111,Kigali,Kicukiro,0.0,1,1,0.0,0.0,7864.0,Rejected,Technical,,Unknown,1.0
+1348,1014440,Antenne,,-1.9761111,30.1425,Kigali,Kicukiro,0.0,1,1,0.0,0.0,7894.0,Rejected,Technical,,Unknown,1.0
+1349,1014441,Abarezi,,-1.97972222,30.14083333,Kigali,Kicukiro,0.0,1,1,0.0,0.0,6542.0,Rejected,Technical,,Unknown,1.0
+1350,1014442,Gitare,,-1.986291,30.115909,Kigali,Kicukiro,0.0,0,0,0.0,0.0,28178.0,Rejected,,,Unknown,1.0
+1351,1014443,Byimana,,-1.988027,30.117593,Kigali,Kicukiro,0.0,1,1,0.0,0.0,28178.0,Rejected,Technical,,Unknown,1.0
+1352,1014444,Nyarurembo,,-1.969082,30.115851,Kigali,Kicukiro,0.0,1,1,0.0,0.0,20855.0,Rejected,Technical,,Unknown,1.0
+1353,1014445,Nyarubande,,-1.968372,30.112113,Kigali,Kicukiro,0.0,1,1,10.0,0.0,18340.0,Rejected,Technical,,Unknown,1.0
+1354,1014446,Akanyaru,,-2.14197,29.98984,Southern Province,Kamonyi,0.0,0,0,,,1506.0,Rejected,Technical,,Unknown,1.0
+1355,1014447,Ntasi,,-2.09453,29.9943,Southern Province,Kamonyi,0.0,0,0,,,1850.0,Rejected,Technical,,Unknown,1.0
+1356,1014448,Nyakirehe,,-1.836888,30.075740000000003,Kigali,Gasabo,0.0,1,1,0.0,0.0,819.0,Rejected,Technical,,Unknown,0.0
+1357,1014449,Ngugu,,-2.05618,29.923990000000003,Southern Province,Kamonyi,0.0,1,1,3.0,0.0,2707.0,Rejected,Technical,,Unknown,1.0
+1358,1014450,Agahama,,-1.849236,30.064609,Kigali,Gasabo,0.0,1,1,0.0,0.0,1484.0,Rejected,Technical,,Unknown,1.0
+1359,1014451,Murindi,,-2.05615,29.93258,Southern Province,Kamonyi,0.0,1,1,0.0,0.0,6620.0,Rejected,Technical,,Unknown,1.0
+1360,1014452,Gahama,,-2.02057,29.80686,Eastern Province,Kirehe,0.0,0,0,,,5600.0,Rejected,Technical,,Unknown,1.0
+1361,1014461,Rugobagoba,,-2.02333,30.43209,Eastern Province,Rwamagana,0.0,1,1,0.0,0.0,3468.0,Rejected,Technical,,Unknown,1.0
+1362,1014462,Kizoke,,-2.184027,30.767541,Eastern Province,Kirehe,0.0,1,1,0.0,0.0,2099.0,Rejected,Technical,,Unknown,1.0
+1363,1014463,Kwanyiramanyana,,-2.009512,30.421038,Eastern Province,Rwamagana,0.0,1,1,0.0,0.0,1851.0,Rejected,Technical,,Unknown,1.0
+1364,1014464,Mugatare,,-2.296406,30.52359,Eastern Province,Kirehe,0.0,0,0,,,6500.0,Rejected,Technical,,Unknown,1.0
+1365,1014465,Murama,,-2.3152,30.470953,Eastern Province,Kirehe,0.0,0,0,,,857.0,Rejected,Technical,,Unknown,0.0
+1366,1014466,Rwabiyombi~ kijumbura 2,,-2.365716,30.542117,Eastern Province,Kirehe,0.0,0,0,,,5000.0,Rejected,Technical,,Unknown,1.0
+1367,1014467,Butezi,,-2.371645,30.539508,Eastern Province,Kirehe,0.0,0,0,,,5000.0,Rejected,Technical,,Unknown,1.0
+1368,1014468,Kabigembe 2,,-2.09732,30.701159000000004,Eastern Province,Kirehe,0.0,0,0,0.0,0.0,480.0,Rejected,Technical,,Unknown,0.0
+1369,1014469,Barisuka,,-2.208786,30.695041,Eastern Province,Kirehe,0.0,1,1,1.0,1.0,4243.0,Rejected,Technical,,Unknown,1.0
+1370,1014470,Tomi,,-2.1496,30.66541,Eastern Province,Kirehe,0.0,0,0,,,320.0,Rejected,Technical,,Unknown,0.0
+1371,1014472,Karuruma,,-2.18715,30.62265,Eastern Province,Kirehe,0.0,1,1,0.0,0.0,1000.0,Rejected,Technical,,Unknown,1.0
+1372,1014473,Kiyanja,,-2.17478,30.76704,Eastern Province,Kirehe,0.0,1,1,6.0,0.0,1750.0,Rejected,Technical,,Unknown,1.0
+1373,1014474,Rwayikona,,-2.164154,30.695954,Eastern Province,Kirehe,0.0,1,1,0.0,0.0,4730.0,Rejected,Technical,,Unknown,1.0
+1374,1014475,Gatari,,-2.3592,30.677613,Eastern Province,Kirehe,0.0,0,0,,,500.0,Rejected,Technical,,Unknown,0.0
+1375,1014476,Kabare,,-2.332831,30.652159,Eastern Province,Kirehe,0.0,0,0,,,670.0,Rejected,Technical,,Unknown,0.0
+1376,1014477,kadigadiga,,-1.99173,30.448175,Eastern Province,Rwamagana,0.0,1,1,0.0,0.0,2006.0,Rejected,Technical,,Unknown,1.0
+1377,1014478,Rutaka,,-1.99518,30.47381,Eastern Province,Rwamagana,0.0,1,1,30.0,2.0,16196.0,Rejected,Technical,,Unknown,1.0
+1378,1014479,Gahama ya nyagasenyi,,-2.2136,30.77847,Eastern Province,Kirehe,0.0,1,1,4.0,0.0,1046.0,Rejected,Technical,,Unknown,1.0
+1379,1014480,Mitsindo,,-2.7278,30.72778,Eastern Province,Kirehe,0.0,1,1,0.0,0.0,1576.0,Rejected,Technical,,Unknown,1.0
+1380,1014481,Mitsindo-nyabihara,,-2.1403,30.72741,Eastern Province,Kirehe,0.0,1,1,0.0,0.0,696.0,Rejected,Technical,,Unknown,0.0
+1381,1014482,Gatabura,,-2.1486,30.72617,Eastern Province,Kirehe,0.0,1,1,0.0,0.0,700.0,Rejected,Technical,,Unknown,0.0
+1382,1014483,Rwamaziba,,-2.2318,30.8131,Eastern Province,Kirehe,0.0,0,0,,,612.0,Rejected,Technical,,Unknown,0.0
+1383,1014484,Nyagasenyi kwa mbaraga,,-2.2073,30.79185,Eastern Province,Kirehe,0.0,0,0,,,456.0,Rejected,Technical,,Unknown,0.0
+1384,1014485,Mareba,,-2.2107900000000003,30.73431,Eastern Province,Kirehe,0.0,0,0,,,560.0,Rejected,Technical,,Unknown,0.0
+1385,1014486,Rwanyagatamu,,-2.2099,30.78795,Eastern Province,Kirehe,0.0,0,0,,,3500.0,Rejected,Technical,,Unknown,1.0
+1386,1014487,Kereta,,-2.1664,30.78863,Eastern Province,Kirehe,0.0,1,1,0.0,0.0,10098.0,Rejected,Technical,,Unknown,1.0
+1387,1014490,Nyagatovu,,-2.117773,30.607615000000006,Eastern Province,Ngoma,0.0,1,1,0.0,0.0,10639.0,Rejected,Technical,,Unknown,1.0
+1388,1014491,Mukomango,,-2.206378,30.521405,Eastern Province,Ngoma,0.0,0,1,0.0,0.0,5065.0,Rejected,Technical,,Unknown,1.0
+1389,1014492,Kigobe,,-2.137525,30.459055,Eastern Province,Ngoma,0.0,1,1,0.0,0.0,9363.0,Rejected,Technical,,Unknown,1.0
+1390,1014493,Kagoma,,-2.271583,30.334962,Eastern Province,Ngoma,0.0,0,0,,,55.0,Rejected,Technical,,Unknown,0.0
+1391,1014494,Meraneza,,-2.267435,30.545003,Eastern Province,Ngoma,0.0,1,1,3.0,0.0,10803.0,Rejected,Technical,,Unknown,1.0
+1392,1014495,Musenyi,,-2.256448,30.484267,Eastern Province,Ngoma,0.0,0,0,,,555.0,Rejected,Social,,Unknown,0.0
+1393,1014497,Gisasa,,-1.9020028,30.122190000000003,Kigali,Gasabo,0.0,0,0,3.0,0.0,4860.0,Rejected,,,Unknown,1.0
+1394,1014498,Akigabiro,,-1.822718,30.146343,Kigali,Gasabo,0.0,0,0,0.0,0.0,1845.0,Rejected,,,Unknown,1.0
+1395,1014499,Barage,,-1.829462,30.158647,Kigali,Gasabo,0.0,0,0,0.0,0.0,1726.0,Rejected,,,Unknown,1.0
+1396,1014500,Nyacyonga Kigasa,,-2.000188,30.112183,Kigali,Kicukiro,0.0,0,0,0.0,0.0,3868.0,Rejected,,,Unknown,1.0
+1397,1014502,Bigo1,,-2.012684,30.087223,Kigali,Kicukiro,0.0,0,0,2.0,0.0,8759.0,Rejected,,,Unknown,1.0
+1398,1014503,Bigo 2,,-2.0125900000000003,30.08668,Kigali,Kicukiro,0.0,0,0,0.0,0.0,8759.0,Rejected,,,Unknown,1.0
+1399,1014504,Sabaganga,,-1.992257,30.085447,Kigali,Kicukiro,0.0,1,1,0.0,0.0,1925.0,Rejected,Technical,,Unknown,1.0
+1400,1014505,Karwa,,-1.998487,30.107728,Kigali,Kicukiro,0.0,1,1,0.0,0.0,3071.0,Rejected,Technical,,Unknown,1.0
+1401,1014506,Bigo-Nyarurama,,-2.007747,30.079832,Kigali,Kicukiro,0.0,1,1,4.0,0.0,13584.0,Rejected,Technical,,Unknown,1.0
+1402,1014507,Bigo2,,-2.011603,30.082825,Kigali,Kicukiro,0.0,1,1,0.0,0.0,13756.0,Rejected,Technical,,Unknown,1.0
+1403,1014508,Buranga,,-1.94362,30.121686,Kigali,Gasabo,0.0,1,1,0.0,0.0,36450.0,Rejected,Technical,,Unknown,1.0
+1404,1014509,Gisera,,-2.21354,30.437908,Eastern Province,Ngoma,0.0,1,0,4.0,0.0,11068.0,Rejected,Technical,,Unknown,1.0
+1405,1014511,Gaseke,,-2.0083450000000003,30.412562,Eastern Province,Ngoma,0.0,1,1,4.0,0.0,7563.0,Rejected,Technical,,Unknown,1.0
+1406,1014512,Mataba,,-2.025878,30.360528,Eastern Province,Ngoma,0.0,1,1,10.0,0.0,8093.0,Rejected,Technical,,Unknown,1.0
+1407,1014532,Ryabugenge,,-1.6575400000000002,30.2992,Eastern Province,Gatsibo,0.0,1,1,2.0,0.0,1510.0,Rejected,Technical,,Unknown,1.0
+1408,1014533,Kigaga,,-1.65055,30.30473,Eastern Province,Gatsibo,0.0,1,1,0.0,0.0,1542.0,Rejected,Technical,,Unknown,1.0
+1409,1014534,Gahama,,-1.665,30.29284,Eastern Province,Gatsibo,0.0,1,1,4.0,0.0,1972.0,Rejected,Technical,,Unknown,1.0
+1410,1014535,Nyakabungo,,-1.57761,30.20642,Eastern Province,Gatsibo,0.0,1,1,5.0,0.0,2140.0,Rejected,Technical,,Unknown,1.0
+1411,1014536,Kacyiru,,-1.59976,30.20891,Eastern Province,Gatsibo,0.0,1,1,2.0,0.0,2173.0,Rejected,Technical,,Unknown,1.0
+1412,1014537,Bitumba,,-1.60164,30.19772,Eastern Province,Gatsibo,0.0,1,1,0.0,0.0,2173.0,Rejected,Technical,,Unknown,1.0
+1413,1014538,Kiyovu,,-1.8953,30.30129,Eastern Province,Rwamagana,0.0,1,1,0.0,0.0,1825.0,Rejected,Technical,,Unknown,1.0
+1414,1014539,Kirehe,,-1.88269,30.265790000000006,Eastern Province,Rwamagana,0.0,1,1,4.0,1.0,1512.0,Rejected,Technical,,Unknown,1.0
+1415,1014540,Kibaza,,-1.86879,30.281840000000006,Eastern Province,Rwamagana,0.0,1,1,0.0,0.0,2834.0,Rejected,Technical,,Unknown,1.0
+1416,1014541,Rususa,,-2.01494,30.2304,Eastern Province,Rwamagana,0.0,1,1,0.0,0.0,4600.0,Rejected,Technical,,Unknown,1.0
+1417,1014542,Kagarama,,-1.99723,30.24595,Eastern Province,Rwamagana,0.0,1,1,0.0,0.0,4092.0,Rejected,Technical,,Unknown,1.0
+1418,1014543,Kabere,,-2.04377,30.29442,Eastern Province,Rwamagana,0.0,1,1,0.0,0.0,1395.0,Rejected,Technical,,Unknown,1.0
+1419,1014550,Kamabuye,,-1.989435,30.055679,Kigali,Kicukiro,0.0,0,0,0.0,0.0,2195.0,Rejected,,,Unknown,1.0
+1420,1014551,Gihene,,-1.995001,30.061769,Kigali,Kicukiro,0.0,1,1,0.0,1.0,10131.0,Rejected,Technical,,Unknown,1.0
+1421,1014552,Gikombe,,-2.003541,30.055354,Kigali,Kicukiro,0.0,1,1,0.0,0.0,1162.0,Rejected,Technical,,Unknown,1.0
+1422,1014553,Amajyambere,,-1.970697,30.067016,Kigali,Nyarugenge,0.0,1,1,0.0,0.0,4348.0,Rejected,Technical,,Unknown,1.0
+1423,1014557,Urugwiro,,-2.06377,30.40876,Eastern Province,Rwamagana,0.0,0,0,,,9967.0,Rejected,Technical,,Unknown,1.0
+1424,1014558,Gasharu,,-2.0487900000000003,30.42496,Eastern Province,Rwamagana,0.0,0,0,,,9967.0,Rejected,Technical,,Unknown,1.0
+1425,1014559,Kijyambere,,-2.0441700000000003,30.425290000000004,Eastern Province,Rwamagana,0.0,1,1,1.0,0.0,10017.0,Rejected,Technical,,Unknown,1.0
+1426,1014560,Gati,,-1.90335,30.39168,Eastern Province,Rwamagana,0.0,0,0,,,11983.0,Rejected,Technical,,Unknown,1.0
+1427,1014561,Akinteko,,-2.1059900000000003,30.37534,Eastern Province,Ngoma,0.0,1,1,1.0,0.0,10258.0,Rejected,Technical,,Unknown,1.0
+1428,1014562,Nkomangwa,,-1.90335,30.39168,Eastern Province,Rwamagana,0.0,1,1,0.0,0.0,9572.0,Rejected,Technical,,Unknown,1.0
+1429,1014563,Kinosho,,-1.93773,30.37988,Eastern Province,Rwamagana,0.0,1,1,2.0,0.0,10351.0,Rejected,Technical,,Unknown,1.0
+1430,1014564,Kwaroje,,-1.92899,30.36272,Eastern Province,Rwamagana,0.0,0,0,,,11788.0,Rejected,Technical,,Unknown,1.0
+1431,1014565,Rwampara-Imena,,-1.971782,30.063077000000003,Kigali,Nyarugenge,0.0,1,1,0.0,0.0,3913.0,Rejected,Technical,,Unknown,1.0
+1432,1014566,Cyumbati,,-1.98426,30.06329,Kigali,Kicukiro,0.0,1,1,0.0,0.0,2110.0,Rejected,Technical,,Unknown,1.0
+1433,1014567,Cercle sportif,,-1.965138,30.071417,Kigali,Nyarugenge,0.0,1,1,0.0,0.0,3045.0,Rejected,Technical,,Unknown,1.0
+1434,1014568,Nyirarukobwa,,-2.10574,30.087112,Eastern Province,Bugesera,0.0,0,0,0.0,0.0,12700.0,Rejected,Technical,,Unknown,1.0
+1435,1014569,Kibaza,,-2.335418,30.05721,Eastern Province,Bugesera,0.0,0,0,,,55.0,Rejected,Social,,Unknown,0.0
+1436,1014570,Gatovu,,-2.335818,30.075542,Eastern Province,Bugesera,0.0,1,1,5.0,0.0,7226.0,Rejected,Technical,,Unknown,1.0
+1437,1014571,Gatanga,,-2.32955,30.056882,Eastern Province,Bugesera,0.0,1,1,4.0,0.0,13804.0,Rejected,Technical,,Unknown,1.0
+1438,1014594,Irayirayi,,-1.7801900000000002,30.14043,Kigali,Gasabo,0.0,1,1,4.0,0.0,19000.0,Rejected,Technical,,Unknown,1.0
+1439,1014595,Kabarebe,,-1.79011,30.13083,Kigali,Gasabo,0.0,1,1,3.0,1.0,14380.0,Rejected,Technical,,Unknown,1.0
+1440,1014596,Rugarama/mbonwa,,-2.22306,30.056,Eastern Province,Bugesera,0.0,1,1,0.0,0.0,2125.0,Rejected,Technical,,Unknown,1.0
+1441,1014597,Tubumba,,-2.22306,30.0561,Eastern Province,Bugesera,0.0,1,1,9.0,0.0,1882.0,Rejected,Technical,,Unknown,1.0
+1442,1014598,Nyakajuri,,-2.2052400000000003,30.078640000000004,Eastern Province,Bugesera,0.0,0,0,,,960.0,Rejected,Technical,,Unknown,1.0
+1443,1014599,Nyakajuri,,-2.22393,30.07617,Eastern Province,Bugesera,0.0,0,0,,,908.0,Rejected,Technical,,Unknown,1.0
+1444,1014600,Nyabaranga,,-2.29153,30.05912,Eastern Province,Bugesera,0.0,0,0,,,568.0,Rejected,Technical,,Unknown,0.0
+1445,1014602,Kagogo,,-1.758415,30.255139,Eastern Province,Gatsibo,0.0,1,1,2.0,0.0,6902.0,Rejected,Technical,,Unknown,1.0
+1446,1014603,Akamabuye,,-1.713697,30.358427,Eastern Province,Gatsibo,0.0,1,1,0.0,0.0,2573.0,Rejected,Technical,,Unknown,1.0
+1447,1014604,Kagarama2,,-1.7196349999999998,30.366374,Eastern Province,Gatsibo,0.0,0,0,,,1650.0,Rejected,Technical,,Unknown,1.0
+1448,1014605,Rebero,,-1.893193,30.280679,Eastern Province,Rwamagana,0.0,0,0,,,1.0,Rejected,Technical,,Unknown,0.0
+1449,1014606,Kinunga,,-1.989138,30.263844,Eastern Province,Rwamagana,0.0,0,0,,,1.0,Rejected,Technical,,Unknown,0.0
+1450,1014607,Karambo,,-1.926646,30.276659,Eastern Province,Rwamagana,0.0,1,1,0.0,0.0,3857.0,Rejected,Technical,,Unknown,1.0
+1451,1014608,Kabarore,,-1.918336,30.273599,Eastern Province,Rwamagana,0.0,1,1,0.0,0.0,4096.0,Rejected,Technical,,Unknown,1.0
+1452,1014609,Rusave,,-2.013575,30.254667,Eastern Province,Rwamagana,0.0,1,1,10.0,,4522.0,Rejected,Technical,,Unknown,1.0
+1453,1014610,Rwarugaju,,-1.98212,30.343604,Eastern Province,Rwamagana,0.0,1,1,6.0,0.0,4233.0,Rejected,Technical,,Unknown,1.0
+1454,1014611,Kabonero,,-1.965611,30.337764,Eastern Province,Rwamagana,0.0,1,1,4.0,,3209.0,Rejected,Technical,,Unknown,1.0
+1455,1014612,Cyeru,,-1.896111,30.278146000000003,Eastern Province,Rwamagana,0.0,1,1,2.0,0.0,6352.0,Rejected,Technical,,Unknown,1.0
+1456,1014613,Kibobo-Rwingeyo,,-1.864099,30.233290000000004,Kigali,Gasabo,0.0,1,0,0.0,0.0,3218.0,Rejected,Technical,,Unknown,1.0
+1457,1014614,Kajevuba,,-1.84731,29.99128,Kigali,Gasabo,0.0,1,1,15.0,0.0,5983.0,Rejected,Technical,,Unknown,1.0
+1458,1014616,Marembo,,-1.970761,30.232989,Eastern Province,Rwamagana,0.0,1,0,2.0,0.0,3815.0,Rejected,Technical,,Unknown,1.0
+1459,1014618,Gahosha,,-2.248912,30.019451,Eastern Province,Bugesera,0.0,0,0,,,550.0,Rejected,Technical,,Unknown,0.0
+1460,1014619,Kinteko,,-2.261622,29.988408000000003,Eastern Province,Bugesera,0.0,1,1,3.0,0.0,1885.0,Rejected,Technical,,Unknown,1.0
+1461,1014792,Rutete,,-1.419195,30.104228000000006,Eastern Province,Nyagatare,0.0,1,1,0.0,0.0,2995.0,Rejected,Technical,,Unknown,1.0
+1462,1014793,Cyerwa,,-2.06596,30.31733,Eastern Province,Rwamagana,0.0,1,1,0.0,0.0,2306.0,Rejected,Technical,,Unknown,1.0
+1463,1021924,Uwinyana,Suspended Bridge,-2.76129167,29.47527778,Southern Province,Nyaruguru,0.0,0,0,2.0,,695.0,Rejected,,,Unknown,0.0
+1464,1022386,Sector 3 bridge,,-1.952646,30.139628,Kigali,Gasabo,0.0,0,0,,,500.0,Rejected,,,Unknown,0.0
+1465,1007400,Karama,Suspension Bridge,-2.07322294,29.71500053,Southern Province,Muhanga,0.0,1,1,3.0,2.0,1820.0,Under Construction,Identified in Needs Assessment,,Unknown,1.0
+1466,1007481,Mutiwingoma,Suspension Bridge,-2.3637330000000003,29.55353,Southern Province,Nyamagabe,0.0,1,1,3.0,3.0,2601.0,Under Construction,,,Unknown,1.0
+1467,1012951,Ngoma,Suspended Bridge,-2.04935967,29.70709763,Southern Province,Muhanga,0.0,1,1,5.0,0.0,3542.0,Under Construction,,,Unknown,1.0
+1468,1014031,Nyabikeri,Other,-2.209275,29.47145,Western Province,Karongi,0.0,1,1,1.0,0.0,4001.0,Under Construction,,,Unknown,1.0
+1469,1014056,Mugonero,Suspended Bridge,-2.14763,29.34468,Western Province,Karongi,0.0,1,1,30.0,20.0,540.0,Under Construction,,https://live.staticflickr.com/65535/50148346937_42d0696d8c_b.jpg,Unknown,0.0
+1470,1014069,Gasharu,Suspended Bridge,-2.13333,29.3625,Western Province,Karongi,0.0,1,1,0.0,1.0,3021.0,Under Construction,,https://live.staticflickr.com/65535/50168196522_aa5a0d6a03_b.jpg,Unknown,1.0
+1471,1015561,Nyakabande-Bitaba,Other,-2.109525,29.314058000000006,Western Province,Karongi,0.0,1,1,3.0,6.0,1945.0,Under Construction,,,Unknown,1.0

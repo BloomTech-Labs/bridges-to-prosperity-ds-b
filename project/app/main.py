@@ -5,8 +5,8 @@ import uvicorn
 from app.api import get_data
 
 app = FastAPI(
-    title="Labs28 Bridges to Prosperity TeamB DS Backend",
-    description=f"Returns relevant bridge data in JSON.",
+    title="Labs 28 Bridges to Prosperity Team B Data Science Backend",
+    description="Returns relevant bridge data as list of JSON.",
     version="0.5",
     docs_url="/",
 )
